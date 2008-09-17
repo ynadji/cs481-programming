@@ -1,0 +1,116 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+<title>CS-481: Tokenizer documentation</title>
+</head>
+
+<body>
+<h2>CS-481: Tokenizer documentation summary</h2>
+
+
+The supplied Java utilities, in packages nlp.token and nlp.diff,
+supply several useful classes.  This document briefly explains the
+<tt>Tokenizer</tt> and <tt>Token</tt> classes, which are used to read
+in and tokenize an input stream.  You can also use <tt>Token</tt>s in
+your internal representation of the text and its tags.  See
+<tt>nlp/docs</tt> for more information.
+
+
+<HR>
+<DT><PRE>public class <B>Tokenizer</B><DT>extends java.lang.Object</DL>
+</PRE>
+
+<P>
+Tokenize an input stream.
+<P>
+Typical use:
+ <pre>
+ Tokenizer t = new Tokenizer(reader,false);
+ Token tok;
+ while((tok = t.getNext()) != null)
+ {
+     .....
+ }
+ </pre>
+
+The idea is to create a Tokenizer on an input reader and then to use
+it to read the tokens from the file.  Words and numbers are single
+tokens each, as are individual punctuation marks.  The second option
+to the constructor specifies if slash-separated parts-of-speech should
+be read in as the "POS" attributes of the individual tokens (see
+<tt>Token</tt> below and the Gene.txt data file.  <P>
+
+<PRE>
+public <B>Tokenizer</B>(java.io.Reader&nbsp;r,
+                 boolean&nbsp;getPOS)</PRE>
+<DL>
+<DD>Makes a tokenizer that reads from the given reader
+<P>
+<DL>
+<DT><B>Parameters:</B><DD><CODE>r</CODE> - Where to read from<DD><CODE>getPOS</CODE> - Whether the tokenizer should read in parts-of-speech for each token, separated by a slash, as in:<BR>
+ <TT>the/DT0 books/NN2 are/VBZ on/PRP the/DT0 table/NN1 ./PUN </tt></DL>
+</DL>
+
+<PRE>
+public <A HREF="../../nlp/token/Token.html" title="class in nlp.token">Token</A> <B>getNext</B>()
+              throws java.io.IOException</PRE>
+<HR>
+
+<DT><PRE>public class <B>Token</B><DT>extends java.lang.Object</DL>
+</PRE>
+
+<P> A class for storing a token.  It contains a <tt>String</tt> (the
+token's "name") and a set of associated attributes (named by
+<tt>String</tt>s with <tt>Object</tt> values).
+<P>
+Typical use:
+ <pre>
+ Tokenizer tknz = new Tokenizer(reader,true);
+ Token  tok = tknz.getNext();
+ String name   = tok.getName();
+ String pos = tok.getAttrib("POS");
+ tok.putAttrib("PERS-TAG","B");
+ </pre>
+<P>
+
+<P>
+
+<p>
+
+
+<CODE>&nbsp;java.lang.String</CODE></FONT></TD>
+<TD><CODE><B><A HREF="../../nlp/token/Token.html#getName()">getName</A></B>()</CODE>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get the token as a string</TD>
+
+<p>
+
+<CODE>&nbsp;java.lang.Object</CODE></FONT></TD>
+<TD><CODE><B><A HREF="../../nlp/token/Token.html#getAttrib(java.lang.String)">getAttrib</A></B>(java.lang.String&nbsp;attrib_name)</CODE>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Get an attribute from this token</TD>
+<P>
+
+
+<CODE>&nbsp;void</CODE></FONT></TD>
+<TD><CODE><B><A HREF="../../nlp/token/Token.html#putAttrib(java.lang.String, java.lang.Object)">putAttrib</A></B>(java.lang.String&nbsp;attrib_name,
+          java.lang.Object&nbsp;attrib_value)</CODE>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Add an attribute to this token</TD>
+
+<p>
+
+<CODE>&nbsp;java.lang.String</CODE></FONT></TD>
+<TD><CODE><B><A HREF="../../nlp/token/Token.html#toString()">toString</A></B>()</CODE>
+
+<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Convert
+the token to a string</TD>
+
+
+<hr>
+<address>argamon</address>
+<!-- hhmts start -->Last modified: Wed Sep 17 10:45:35 CDT 2008 <!-- hhmts end -->
+</body> </html>

@@ -1,0 +1,53 @@
+<?xml version="1.0"?> 
+<!-- Use the following doctypedecl for DTD aware editing
+<!DOCTYPE project PUBLIC "-//ANT//DTD project//EN" "project.dtd">
+-->
+
+<project name="nlp" default="main" basedir=".">
+
+  <property name="src" value="src" />
+  <property name="build" value="bin" />
+  <property name="docs" value="docs" />
+  <property name="debug" value="yes" />
+
+  <path id="project-classpath">
+    <pathelement location="${src}"/>
+    <pathelement location="${build}"/>
+    <pathelement location="${dist}"/>
+  </path>
+
+  <target name="init">
+    <tstamp/>
+    <mkdir dir="${build}"/>
+  </target>
+
+  <target name="compile" depends="init">
+    <javac includeantruntime="no" optimize="yes" debug="${debug}" srcdir="${src}" destdir="${build}">
+      <classpath refid="project-classpath"/>
+    </javac>
+  </target>
+  
+  <target name="clean">
+    <delete>
+      <fileset dir="${build}" includes="**/*.class"/>
+    </delete>
+  </target>
+
+  <target name="main" depends="compile"/>
+
+  <target name="document">
+    <mkdir dir="${docs}"/>
+    <delete>
+      <fileset dir="${src}" defaultexcludes="no">
+        <include name="**/.#*.java*"/>
+        <include name="**/*#*.java*#*"/>
+      </fileset>
+    </delete>
+    <javadoc destdir="${docs}" verbose="true">
+       <sourcepath>
+          <pathelement location="${src}"/>
+       </sourcepath>
+    </javadoc>
+  </target>
+
+</project>
