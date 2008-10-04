@@ -1,0 +1,119 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+ALLUPPER	token/TokAttr.java	/^   public static final String ALLUPPER = "allupper";$/;"	f	class:TokAttr
+CHUNK_BEGIN	ner/TransformLearner.java	/^	private static final String CHUNK_BEGIN = "B";$/;"	f	class:TransformLearner	file:
+CHUNK_INSIDE	ner/TransformLearner.java	/^	private static final String CHUNK_INSIDE = "I";$/;"	f	class:TransformLearner	file:
+CHUNK_OUTSIDE	ner/TransformLearner.java	/^	private static final String CHUNK_OUTSIDE = "O";$/;"	f	class:TransformLearner	file:
+CT_ALPHA	token/Tokenizer.java	/^   protected static final byte CT_ALPHA = 3;$/;"	f	class:Tokenizer
+CT_EOF	token/Tokenizer.java	/^   protected static final byte CT_EOF = 5;$/;"	f	class:Tokenizer
+CT_OTHER	token/Tokenizer.java	/^   protected static final byte CT_OTHER = 2;$/;"	f	class:Tokenizer
+CT_PUNC	token/Tokenizer.java	/^   protected static final byte CT_PUNC = 4;$/;"	f	class:Tokenizer
+CT_SPACE	token/Tokenizer.java	/^   protected static final byte CT_SPACE = 1;$/;"	f	class:Tokenizer
+Diff	diff/Diff.java	/^public class Diff$/;"	c
+FIRSTUPPER	token/TokAttr.java	/^   public static final String FIRSTUPPER = "firstupper";$/;"	f	class:TokAttr
+IntVector	diff/IntVector.java	/^   public IntVector()$/;"	m	class:IntVector
+IntVector	diff/IntVector.java	/^   public IntVector(int cap)$/;"	m	class:IntVector
+IntVector	diff/IntVector.java	/^   public IntVector(int len, int[] a)$/;"	m	class:IntVector
+IntVector	diff/IntVector.java	/^public class IntVector$/;"	c
+LOC_ATTR	ner/TransformLearner.java	/^	private static final String LOC_ATTR = "LOC";$/;"	f	class:TransformLearner	file:
+LOWERCASE	token/TokAttr.java	/^   public static final String LOWERCASE = "lowercase";$/;"	f	class:TokAttr
+MIXEDCASE	token/TokAttr.java	/^   public static final String MIXEDCASE = "mixedcase";$/;"	f	class:TokAttr
+ORG_ATTR	ner/TransformLearner.java	/^	private static final String ORG_ATTR = "ORG";$/;"	f	class:TransformLearner	file:
+OTHER	token/TokAttr.java	/^   public static final String OTHER = "other";$/;"	f	class:TokAttr
+PERS_ATTR	ner/TransformLearner.java	/^	private static final String PERS_ATTR = "PERS";$/;"	f	class:TransformLearner	file:
+PROGRAM_DIR	Test.java	/^	private static final String PROGRAM_DIR = "\/Users\/ynadji\/Documents\/Homework\/cs481\/homework\/programming\/nlp";$/;"	f	class:Test	file:
+TT_EOF	token/Token.java	/^   public static final int TT_EOF = -1;$/;"	f	class:Token
+TT_OTHER	token/Token.java	/^   public static final int TT_OTHER = -5;$/;"	f	class:Token
+TT_PUNC	token/Token.java	/^   public static final int TT_PUNC = -4;$/;"	f	class:Token
+TT_SPACE	token/Token.java	/^   public static final int TT_SPACE = -2;$/;"	f	class:Token
+TT_WORD	token/Token.java	/^   public static final int TT_WORD = -3;$/;"	f	class:Token
+Test	Test.java	/^public class Test {$/;"	c
+TokAttr	token/TokAttr.java	/^public class TokAttr$/;"	c
+Token	token/Token.java	/^   public Token()$/;"	m	class:Token
+Token	token/Token.java	/^   public Token(int t, String v)$/;"	m	class:Token
+Token	token/Token.java	/^public class Token$/;"	c
+TokenDiff	token/TokenDiff.java	/^public class TokenDiff$/;"	c
+TokenWrite	token/TokenWrite.java	/^public class TokenWrite$/;"	c
+Tokenizer	token/Tokenizer.java	/^	public Tokenizer(Reader r, boolean getPOS)$/;"	m	class:Tokenizer
+Tokenizer	token/Tokenizer.java	/^    public Tokenizer(Reader r)$/;"	m	class:Tokenizer
+Tokenizer	token/Tokenizer.java	/^public class Tokenizer$/;"	c
+TransformLearner	ner/TransformLearner.java	/^	public TransformLearner(String trainingFile, boolean hasPOS) {$/;"	m	class:TransformLearner
+TransformLearner	ner/TransformLearner.java	/^public class TransformLearner {$/;"	c
+XML	diff/XML.java	/^public class XML$/;"	c
+add	diff/IntVector.java	/^   public void add(int x)$/;"	m	class:IntVector
+annotate	token/TokAttr.java	/^   static public void annotate(Token t)$/;"	m	class:TokAttr
+append	token/Token.java	/^   public final void append(Token t)$/;"	m	class:Token
+array	diff/IntVector.java	/^   protected int[] array;$/;"	f	class:IntVector
+attribs	token/Token.java	/^   protected HashMap attribs;$/;"	f	class:Token
+blank	diff/XML.java	/^   static public Document blank()$/;"	m	class:XML
+capacity	diff/IntVector.java	/^   public int capacity()$/;"	m	class:IntVector
+capitalization	token/TokAttr.java	/^   static public String capitalization(String s)$/;"	m	class:TokAttr
+clone	diff/IntVector.java	/^   public Object clone()$/;"	m	class:IntVector
+conv	diff/Diff.java	/^   public static Character[] conv(String s)$/;"	m	class:Diff
+countnewlines	token/TokenWrite.java	/^   public static int countnewlines(String s)$/;"	m	class:TokenWrite
+ctype	token/Tokenizer.java	/^   protected byte[] ctype = null;$/;"	f	class:Tokenizer
+cur	token/Tokenizer.java	/^   protected StringBuffer cur = null;$/;"	f	class:Tokenizer
+curtype	token/Tokenizer.java	/^   protected byte curtype = 0;$/;"	f	class:Tokenizer
+db	diff/XML.java	/^   static protected DocumentBuilder db;$/;"	f	class:XML
+diff	diff/Diff.java	/^   public static int diff(Object[] a, Object[] b)$/;"	m	class:Diff
+difflist	diff/Diff.java	/^   public static int[] difflist(Object[] a, Object[] b)$/;"	m	class:Diff
+ensureCapacity	diff/IntVector.java	/^   public void ensureCapacity(int c)$/;"	m	class:IntVector
+get	diff/IntVector.java	/^   public int get(int i)$/;"	m	class:IntVector
+getAttrib	token/Token.java	/^   public final Object getAttrib(String name)$/;"	m	class:Token
+getEntityType	ner/TransformLearner.java	/^	private String getEntityType(Token tok) {$/;"	m	class:TransformLearner	file:
+getHashMap	token/Token.java	/^   public final HashMap getHashMap()$/;"	m	class:Token
+getName	token/Token.java	/^   public final String getName()$/;"	m	class:Token
+getNext	token/Tokenizer.java	/^   public Token getNext() throws IOException$/;"	m	class:Tokenizer
+getType	token/Token.java	/^   public final int getType()$/;"	m	class:Token
+get_buffer	token/Tokenizer.java	/^    static Token get_buffer = (Token)null;$/;"	f	class:Tokenizer
+hasPOS	ner/TransformLearner.java	/^	private boolean hasPOS;$/;"	f	class:TransformLearner	file:
+init	token/Tokenizer.java	/^   protected void init()$/;"	m	class:Tokenizer
+initTokenList	ner/TransformLearner.java	/^	public void initTokenList() {$/;"	m	class:TransformLearner
+internalGetNext	token/Tokenizer.java	/^   protected Token internalGetNext() throws IOException$/;"	m	class:Tokenizer
+length	diff/IntVector.java	/^   protected int length;$/;"	f	class:IntVector
+length	diff/IntVector.java	/^   public int length()$/;"	m	class:IntVector
+main	Test.java	/^	public static void main(String[] args) throws IOException {$/;"	m	class:Test
+main	diff/Diff.java	/^   public static void main(String[] argv)$/;"	m	class:Diff
+main	ner/TransformLearner.java	/^	public static void main(String[] args) {$/;"	m	class:TransformLearner
+main	token/TokenDiff.java	/^   public static void main(String[] argv) throws Exception$/;"	m	class:TokenDiff
+main	token/TokenWrite.java	/^   public static void main(String[] argv) throws Exception$/;"	m	class:TokenWrite
+main	token/Tokenizer.java	/^   public static void main(String[] argv)$/;"	m	class:Tokenizer
+next	token/Tokenizer.java	/^   protected StringBuffer next = null;$/;"	f	class:Tokenizer
+nextpos	token/Tokenizer.java	/^   protected int nextpos = 0;$/;"	f	class:Tokenizer
+nlp.diff	diff/Diff.java	/^package nlp.diff;$/;"	p
+nlp.diff	diff/IntVector.java	/^package nlp.diff;$/;"	p
+nlp.diff	diff/XML.java	/^package nlp.diff;$/;"	p
+nlp.ner	ner/TransformLearner.java	/^package nlp.ner;$/;"	p
+nlp.token	token/TokAttr.java	/^package nlp.token;$/;"	p
+nlp.token	token/Token.java	/^package nlp.token;$/;"	p
+nlp.token	token/TokenDiff.java	/^package nlp.token;$/;"	p
+nlp.token	token/TokenWrite.java	/^package nlp.token;$/;"	p
+nlp.token	token/Tokenizer.java	/^package nlp.token;$/;"	p
+parse	diff/XML.java	/^   static public Document parse(InputStream i) throws Exception$/;"	m	class:XML
+printResults	ner/TransformLearner.java	/^	public void printResults(String outfile, int numLastTokens) {$/;"	m	class:TransformLearner
+printdiff	diff/Diff.java	/^   public static void printdiff(Object[] x, Object[] y)$/;"	m	class:Diff
+putAttrib	token/Token.java	/^   public final void putAttrib(String name, Object value)$/;"	m	class:Token
+putHashMap	token/Token.java	/^   public final void putHashMap(HashMap hm)$/;"	m	class:Token
+readTokens	token/TokenWrite.java	/^   public static Vector readTokens(InputStream in) throws Exception$/;"	m	class:TokenWrite
+readXML	token/Token.java	/^   public static Vector readXML(InputStream in) throws Exception$/;"	m	class:Token
+read_POS	token/Tokenizer.java	/^    boolean read_POS = false;$/;"	f	class:Tokenizer
+reader	token/Tokenizer.java	/^   protected Reader reader = null;$/;"	f	class:Tokenizer
+runSeedRules	ner/TransformLearner.java	/^	public void runSeedRules() {$/;"	m	class:TransformLearner
+set	diff/IntVector.java	/^   public void set(int i, int x)$/;"	m	class:IntVector
+setChars	token/Tokenizer.java	/^   public void setChars(int low, int hi, byte type)$/;"	m	class:Tokenizer
+setName	token/Token.java	/^   public final void setName(String v)$/;"	m	class:Token
+state	token/Tokenizer.java	/^   protected int state = 0;$/;"	f	class:Tokenizer
+toArray	diff/IntVector.java	/^   public int[] toArray()$/;"	m	class:IntVector
+toString	token/Token.java	/^   public final String toString()$/;"	m	class:Token
+tokenArray	token/TokenDiff.java	/^   public static Object[] tokenArray(Vector v)$/;"	m	class:TokenDiff
+tokens	ner/TransformLearner.java	/^	private List<Token> tokens;$/;"	f	class:TransformLearner	file:
+trainingFile	ner/TransformLearner.java	/^	private String trainingFile;$/;"	f	class:TransformLearner	file:
+ts	diff/XML.java	/^   static protected Transformer ts;$/;"	f	class:XML
+type	token/Token.java	/^   protected int type;$/;"	f	class:Token
+val	token/Token.java	/^   protected String val;$/;"	f	class:Token
+write	diff/XML.java	/^   static public void write(Document d, OutputStream o)$/;"	m	class:XML
+writeXML	token/Token.java	/^   public static void writeXML(Vector paras, OutputStream out)$/;"	m	class:Token
