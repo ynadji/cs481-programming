@@ -8,7 +8,8 @@ doc:
 
 run:
 	cd bin
-	java nlp.ner.TransformLearner
+	time java nlp.ner.TransformLearner
+	sleep 2
 
 go: compile run
 	vim results.txt

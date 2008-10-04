@@ -1,0 +1,26 @@
+United States LOC
+Britain LOC
+Welsh Water ORG
+Gwynedd LOC
+Anglesey LOC
+Watford LOC
+Kilmarnock LOC
+Professor John Mansbridge P
+University of Edinburgh ORG
+Ayr LOC
+Thomas and Kassab ORG
+St David's Maternity Hospital ORG
+England LOC
+Scotland LOC
+North Western Region LOC
+Strathclyde LOC
+Yorkshire LOC
+Wessex LOC
+Northern Ireland LOC
+Drinking Water Inspectorate ORG
+Department of Environment ORG
+Wales LOC
+Sir Kenneth Bloomfield PERS
+
+Locations preceded by "in" or "from" or "of"
+Person "of" Organisation
