@@ -12,6 +12,8 @@ public class TransformLearner {
 	private boolean hasPOS;
 	private List<Token> tokens;
 
+	private static final boolean debug = true;
+
 	private static final String PERS_ATTR = "PERS";
 	private static final String ORG_ATTR = "ORG";
 	private static final String LOC_ATTR = "LOC";
@@ -24,7 +26,8 @@ public class TransformLearner {
 
 	/* Gazeteer. Little bit of a hack on St David's, but it should be fine. */
 	private static final String[][] GAZETEER = 
-		new String[][] {
+		new String[][] 
+		{
 			{ "United", "States", "LOC" },
 			{ "Britain", "LOC" },
 			{ "Welsh", "Water", "ORG" },
@@ -48,7 +51,12 @@ public class TransformLearner {
 			{ "Drinking", "Water", "Inspectorate", "ORG" },
 			{ "Department", "of", "Environment", "ORG" },
 			{ "Wales", "LOC" },
-			{ "Sir", "Kenneth", "Bloomfield", "PERS" } };
+			{ "Sir", "Kenneth", "Bloomfield", "PERS" },
+			{ "NHS", "ORG" },
+			{ "London", "LOC" },
+			{ "Wales", "LOC" },
+			{ "Edinburgh", "LOC" }
+		};
 
 	public TransformLearner(String trainingFile, boolean hasPOS) {
 		this.trainingFile = trainingFile;
@@ -79,7 +87,14 @@ public class TransformLearner {
 			{
 				// everything is tagged, throw out newlines
 				if (tok.getAttrib("POS") != null)
+				{
+					// set initial chunks
+					tok.putAttrib(PERS_ATTR, CHUNK_OUTSIDE);
+					tok.putAttrib(ORG_ATTR, CHUNK_OUTSIDE);
+					tok.putAttrib(LOC_ATTR, CHUNK_OUTSIDE);
+
 					tokens.add(tok);
+				}
 			}
 
 			in.close();
@@ -93,6 +108,50 @@ public class TransformLearner {
 	public void runSeedRules() {
 
 		this.gazeteerTagging(GAZETEER);
+
+		TripleIterator iter = new TripleIterator(tokens);
+		Token[] tokenTrip;
+
+		// we want to compare three at a time
+		iter.next();
+
+		while (iter.hasNext())
+		{
+			tokenTrip = iter.next();
+
+			// occurs after in/of/from and is a proper noun
+			// it's probably a location
+			if (tokenTrip[TripleIterator.PREV].getName().equalsIgnoreCase("in") ||
+			    tokenTrip[TripleIterator.PREV].getName().equalsIgnoreCase("of") ||
+			    tokenTrip[TripleIterator.PREV].getName().equalsIgnoreCase("from"))
+			{
+				if (tokenTrip[TripleIterator.CURR].getAttrib("POS").equals("NP0"))
+				{
+					this.printDebug("IN/OF/FROM RULE FIRED FOR CURR ATTR: " + tokenTrip[TripleIterator.CURR].getName());
+					tokenTrip[TripleIterator.CURR].putAttrib(LOC_ATTR, CHUNK_INSIDE);
+				}
+				if (tokenTrip[TripleIterator.NEXT].getAttrib("POS").equals("NP0"))
+				{
+					this.printDebug("IN/OF/FROM RULE FIRED FOR NEXT ATTR: " + tokenTrip[TripleIterator.NEXT].getName());
+					tokenTrip[TripleIterator.NEXT].putAttrib(LOC_ATTR, CHUNK_INSIDE);
+				}
+			}
+
+			// "Person" of "Organization"
+			if (tokenTrip[TripleIterator.CURR].getName().equalsIgnoreCase("of"))
+			{
+				if (tokenTrip[TripleIterator.PREV].getAttrib(PERS_ATTR).equals(CHUNK_INSIDE))
+				{
+					this.printDebug("PERS of ORG RULE FIRED FOR PREV ATTR: " + tokenTrip[TripleIterator.PREV].getName());
+					tokenTrip[TripleIterator.NEXT].putAttrib(ORG_ATTR, CHUNK_INSIDE);
+				}
+				else if (tokenTrip[TripleIterator.NEXT].getAttrib(ORG_ATTR).equals(CHUNK_INSIDE))
+				{
+					this.printDebug("PERS of ORG RULE FIRED FOR NEXT ATTR: " + tokenTrip[TripleIterator.NEXT].getName());
+					tokenTrip[TripleIterator.PREV].putAttrib(PERS_ATTR, CHUNK_INSIDE);
+				}
+			}
+		}
 	}
 
 	/**
@@ -119,7 +178,7 @@ public class TransformLearner {
 				{
 					case 1:
 					if (gazTuple[0].equals(tokenTrip[TripleIterator.NEXT].getName()))
-						tokenTrip[TripleIterator.NEXT].putAttrib(gazTuple[gazTuple.length - 1], "I");
+						tokenTrip[TripleIterator.NEXT].putAttrib(gazTuple[gazTuple.length - 1], CHUNK_INSIDE);
 					break;
 
 					case 2: 
@@ -129,8 +188,8 @@ public class TransformLearner {
 					if (gazTuple[0].equals(tokenTrip[TripleIterator.CURR].getName()) &&
 					    gazTuple[1].equals(tokenTrip[TripleIterator.NEXT].getName()))
 					{
-						tokenTrip[TripleIterator.CURR].putAttrib(gazTuple[gazTuple.length - 1], "I");
-						tokenTrip[TripleIterator.NEXT].putAttrib(gazTuple[gazTuple.length - 1], "I");
+						tokenTrip[TripleIterator.CURR].putAttrib(gazTuple[gazTuple.length - 1], CHUNK_INSIDE);
+						tokenTrip[TripleIterator.NEXT].putAttrib(gazTuple[gazTuple.length - 1], CHUNK_INSIDE);
 					}
 					break;
 
@@ -143,9 +202,9 @@ public class TransformLearner {
 					    gazTuple[1].equals(tokenTrip[TripleIterator.CURR].getName()) &&
 					    gazTuple[2].equals(tokenTrip[TripleIterator.NEXT].getName()))
 					{
-						tokenTrip[TripleIterator.PREV].putAttrib(gazTuple[gazTuple.length - 1], "I");
-						tokenTrip[TripleIterator.CURR].putAttrib(gazTuple[gazTuple.length - 1], "I");
-						tokenTrip[TripleIterator.NEXT].putAttrib(gazTuple[gazTuple.length - 1], "I");
+						tokenTrip[TripleIterator.PREV].putAttrib(gazTuple[gazTuple.length - 1], CHUNK_INSIDE);
+						tokenTrip[TripleIterator.CURR].putAttrib(gazTuple[gazTuple.length - 1], CHUNK_INSIDE);
+						tokenTrip[TripleIterator.NEXT].putAttrib(gazTuple[gazTuple.length - 1], CHUNK_INSIDE);
 					}
 					break;
 				}
@@ -170,7 +229,7 @@ public class TransformLearner {
 				out.printf("%-25s%-10s%-10s\n",
 					   tok.getName(),
 					   tok.getAttrib("POS"),
-					   getEntityType(tok));
+					   this.getEntityType(tok));
 			}
 
 			out.close();
@@ -199,7 +258,7 @@ public class TransformLearner {
 			while (iter.hasNext())
 			{
 				tok = iter.next();
-				attr = getEntityType(tok);
+				attr = this.getEntityType(tok);
 
 				if (attr != null)
 				{
@@ -225,14 +284,21 @@ public class TransformLearner {
 
 	private String getEntityType(Token tok) {
 
-		if (tok.getAttrib(PERS_ATTR) != null)
+		if (tok.getAttrib(PERS_ATTR).equals(CHUNK_INSIDE))
 			return PERS_ATTR;
-		else if (tok.getAttrib(ORG_ATTR) != null)
+		else if (tok.getAttrib(ORG_ATTR).equals(CHUNK_INSIDE))
 			return ORG_ATTR;
-		else if (tok.getAttrib(LOC_ATTR) != null)
+		else if (tok.getAttrib(LOC_ATTR).equals(CHUNK_INSIDE))
 			return LOC_ATTR;
 
 		return null;
+	}
+
+	private void printDebug(String debugString) {
+		if (debug)
+		{
+			System.out.println(debugString);
+		}
 	}
 
 	private class TripleIterator {
@@ -261,7 +327,8 @@ public class TransformLearner {
 		}
 
 		public Token[] next() {
-			if (this.hasNext()) {
+			if (this.hasNext()) 
+			{
 				prev = curr;
 				curr = next;
 				next = tokens.get(indexNext++);
