@@ -21,6 +21,9 @@ public class Rule implements Comparator {
 	public String altCurr;
 	public String altNext;
 
+	public Rule()
+	{ }
+
 	public Rule(int ruleType, String prev, String curr, String next,
 				  String altPrev, String altCurr, String altNext)
 	{
@@ -114,14 +117,11 @@ public class Rule implements Comparator {
 	}
 
 	public int compare(Object obj1, Object obj2) {
-		return 0;
-		/**
 		Rule rule1 = (Rule) obj1;
 		Rule rule2 = (Rule) obj2;
 
 		return Double.compare(rule1.getRuleProb(),
 				      rule2.getRuleProb());
-				      */
 	}
 
 	public boolean equals(Object obj) {

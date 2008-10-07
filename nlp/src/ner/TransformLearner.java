@@ -276,7 +276,7 @@ token_loop:
 		Rule newRule = new Rule(Rule.POS_TYPE, "NP0", null, "NP0",
 							"LOC", "ORG", "LOC");
 		*/
-		SortedSet<Rule> ruleSet = new TreeSet<Rule>();
+		SortedSet<Rule> ruleSet = new TreeSet<Rule>(new Rule());
 		int count = 0;
 
 		TripleIterator iter = new TripleIterator(tokens);
@@ -306,10 +306,10 @@ token_loop:
 		while (ruleApplication <= numRules)
 		{
 			rule = ruleQueue.poll();
+			printDebug("Applying rule #" + ruleApplication + "\n" + rule.toString());
 
 			while (iter.hasNext())
 			{
-				printDebug("Applying rule #" + ruleApplication + "\n" + rule.toString());
 				tokenTrip = iter.next();
 
 				if (tokenTrip[1].getAttrib("SEED") != null)
@@ -343,42 +343,61 @@ token_loop:
 
 		tmpRule = new Rule(Rule.POS_TYPE, null, (String) curr.getAttrib("POS"), null,
 						  null, this.getEntityType(curr), null);
-		/**
-		if (ruleSet.add(tmpRule))
+		if (!ruleSet.contains(tmpRule))
+		{
 			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
+			ruleSet.add(tmpRule);
+		}
 
 		tmpRule = new Rule(Rule.POS_TYPE, null, null, (String) next.getAttrib("POS"),
 						  null, this.getEntityType(curr), null);
-		if (ruleSet.add(tmpRule))
+		if (!ruleSet.contains(tmpRule))
+		{
 			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
+			ruleSet.add(tmpRule);
+		}
 
 		// Word
 		tmpRule = new Rule(Rule.WORD_TYPE, prev.getName(), null, null,
 						   null, this.getEntityType(curr), null);
-		if (ruleSet.add(tmpRule))
+		if (!ruleSet.contains(tmpRule))
+		{
 			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
+			ruleSet.add(tmpRule);
+		}
 
 		tmpRule = new Rule(Rule.WORD_TYPE, null, curr.getName(), null,
 						   null, this.getEntityType(curr), null);
-		if (ruleSet.add(tmpRule))
+		if (!ruleSet.contains(tmpRule))
+		{
 			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
+			ruleSet.add(tmpRule);
+		}
 
 		tmpRule = new Rule(Rule.WORD_TYPE, null, null, next.getName(),
 						   null, this.getEntityType(curr), null);
-		if (ruleSet.add(tmpRule))
+		if (!ruleSet.contains(tmpRule))
+		{
 			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
+			ruleSet.add(tmpRule);
+		}
 
 		// ATTR TAG
 		tmpRule = new Rule(Rule.CHUNK_TYPE, this.getEntityType(prev), null, null,
 						    null, this.getEntityType(curr), null);
-		if (ruleSet.add(tmpRule))
+		if (!ruleSet.contains(tmpRule))
+		{
 			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
+			ruleSet.add(tmpRule);
+		}
 
 		tmpRule = new Rule(Rule.CHUNK_TYPE, null, null, this.getEntityType(next),
 						    null, this.getEntityType(curr), null);
-		if (ruleSet.add(tmpRule))
+		if (!ruleSet.contains(tmpRule))
+		{
 			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
-		*/
+			ruleSet.add(tmpRule);
+		}
 
 		return (ruleSet.size() - initSize);
 	}
