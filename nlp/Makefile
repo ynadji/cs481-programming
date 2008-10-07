@@ -13,3 +13,7 @@ run:
 
 go: compile run
 	vim results.txt
+
+jdb:
+	cd bin
+	jdb nlp.ner.TransformLearner

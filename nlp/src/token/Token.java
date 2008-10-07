@@ -143,6 +143,17 @@ public class Token
     */
    public final void putAttrib(String name, Object value)
    {
+	   // if we're updating LOC/ORG/PERS chunk tags
+	   // reset all the other values so we only
+	   // have one at a time
+	   if (name.equals("LOC") ||
+	       name.equals("ORG") ||
+	       name.equals("PESR"))
+	   {
+		   attribs.put("LOC", "O");
+		   attribs.put("ORG", "O");
+		   attribs.put("PERS", "O");
+	   }
       attribs.put(name, value);
    }
 
@@ -154,6 +165,9 @@ public class Token
     */
    public final Object getAttrib(String name)
    {
+	   if (name.equals("NAME"))
+		   return this.getName();
+
       return attribs.get(name);
    }
 
