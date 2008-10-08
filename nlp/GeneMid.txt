@@ -1,0 +1,1621 @@
+Mechanisms/NN2  could/VM0  easily/AV0  be/VBI  incorporated/VVN
+to/TO0  reduce/VVI  the/AT0  chance/NN1  of/PRF  name/NN1  and/CJC
+ethnicity/NN1  determining/VVG  the/AT0  likelihood/NN1  of/PRF
+being/VBG  shortlisted/VVN ,/PUN  as/CJC well as  to/TO0  monitor/VVI
+discrimination/NN1 ./PUN
+
+As/CJS-PRP  a/AT0  start/NN1 ,/PUN  we/PNP  suggest/VVB  that/CJT
+all/DT0  application/NN1  forms/NN2-VVZ  for/PRP  medical/AJ0
+posts/NN2  should/VM0  be/VBI  standardised/VVN  so/CJS that
+information/NN1  identifying/VVG  ethnic/AJ0  origin/NN1  can/VM0
+be/VBI  removed/VVN  by/PRP  the/AT0  personnel/NN2  department/NN0
+-/PUN  for/AV0 example ,/PUN  on/PRP  a/AT0  detachable/AJ0
+front/AJ0-NN1  sheet/NN1 ./PUN
+
+Ethnic/AJ0  monitoring/NN1  should/VM0  also/AV0  be/VBI
+standard/AJ0  personnel/NN2  practice/NN1-VVB  so/CJS that  all/DT0
+districts/NN2  and/CJC  regions/NN2  can/VM0  monitor/VVI
+whether/CJS  equal/AJ0  opportunity/NN1  policies/NN2  are/VBB
+actually/AV0  being/VBG  implemented/VVN ./PUN
+
+
+Communication/NN1  between/PRP  general/AJ0  practitioners/NN2
+and/CJC  child/NN1  psychiatrists/NN2
+
+
+Previous/AJ0  studies/NN2  have/VHB  examined/VVN  the/AT0
+content/NN1  of/PRF  referral/AJ0  letters/NN2  from/PRP  general/AJ0
+practitioners/NN2  to/PRP  consultants/NN2  as/CJC well as  the/AT0
+requirements/NN2  of/PRF  consultants/NN2 ./PUN
+
+Child/NN1  psychiatrists/NN2  have/VHB  a/AT0  special/AJ0
+interest/NN1  in/PRP  information/NN1  about/PRP  the/AT0
+child/NN1 's/POS  family/NN0 ,/PUN  as/CJS  often/AV0  the/AT0
+whole/AJ0  family/NN0  will/VM0  attend/VVI  for/PRP
+assessment/NN1 ./PUN
+
+This/DT0  study/NN1  aimed/VVD  to/TO0  review/VVI  the/AT0
+content/NN1  of/PRF  referral/AJ0  letters/NN2  from/PRP  general/AJ0
+practitioners/NN2  to/PRP  a/AT0  child/NN1  psychiatry/NN1
+department/NN0  and/CJC  to/TO0  discover/VVI  whether/CJS
+general/AJ0  practitioners/NN2  and/CJC  psychiatrists/NN2  hold/VVB
+different/AJ0  views/NN2  on/PRP  the/AT0  information/NN1  that/CJT
+should/VM0  be/VBI  included/VVN  in/PRP  a/AT0  referral/AJ0
+letter/NN1 ./PUN
+
+
+Methods/NN2  and/CJC  results/VVZ
+
+
+From/PRP  a/AT0  consecutive/AJ0  series/NN0  of/PRF  50/CRD
+referral/AJ0  letters/NN2  sent/VVN  by/PRP  general/AJ0
+practitioners/NN2  in/PRP  Sunderland/NP0  to/PRP  the/AT0  local/AJ0
+department/NN0  of/PRF  child/NN1  psychiatry/NN1 ,/PUN  15/CRD
+items/NN2  of/PRF  information/NN1  were/VBD  identified/VVN
+that/CJT  could/VM0  account/VVI  for/PRP  all/DT0  the/AT0
+information/NN1  contained/VVD-VVN  in/PRP  the/AT0
+letters/NN2 ./PUN
+
+The/AT0  frequency/NN1  with/PRP  which/DTQ  each/DT0  item/NN1
+appeared/VVD-VVN  in/PRP  the/AT0  letters/NN2  was/VBD
+recorded/VVN ./PUN
+
+Postal/AJ0  questionnaires/NN2  were/VBD  then/AV0  used/VVN  to/TO0
+seek/VVI  the/AT0  views/NN2  of/PRF  local/AJ0  general/AJ0-NN1
+practitioners/NN2  and/CJC  the/AT0  child/NN1  psychiatrists/NN2
+working/VVG  in/PRP  the/AT0  Northern/AJ0  region/NN1 ./PUN
+
+They/PNP  were/VBD  required/VVN  to/TO0  assess/VVI  the/AT0
+importance/NN1  of/PRF  the/AT0  15/CRD  categories/NN2  of/PRF
+information/NN1  on/PRP  a/AT0  four/CRD  point/NN1  scale/NN1
+(/PUL categories/NN2  of/PRF  essential/AJ0 ,/PUN
+desirable/AJ0 ,/PUN  doubtful/AJ0 ,/PUN  and/CJC
+irrelevant/AJ0 )/PUR ./PUN
+
+They/PNP  were/VBD  also/AV0  asked/VVN  their/DPS  views/NN2  on/PRP
+the/AT0  quality/NN1  of/PRF  referral/AJ0  letters/NN2  in
+general/AV0 ./PUN
+
+
+
+Questionnaires/NN2  were/VBD  returned/VVN  by/PRP  93/CRD
+(/PUL 63%/NN0 )/PUR  general/AJ0  practitioners/NN2  and/CJC  26/CRD
+(/PUL 90%/NN0 )/PUR  psychiatrists/NN2 ./PUN
+
+The/AT0  table/NN1  shows/VVZ  the/AT0  frequency/NN1  with/PRP
+which/DTQ  the/AT0  15/CRD  items/NN2  of/PRF  information/NN1
+occurred/VVD-VVN  in/PRP  the/AT0  letters/NN2  and/CJC  the/AT0
+comparison/NN1  of/PRF  the/AT0  importance/NN1  given/VVN  to/PRP
+the/AT0  different/AJ0  items/NN2  by/PRP  the/AT0  psychiatrists/NN2
+and/CJC  the/AT0  general/AJ0  practitioners/NN2 ./PUN
+
+
+
+The/AT0  reason/NN1  most/AV0  often/AV0  mentioned/VVN  by/PRP
+general/AJ0  practitioners/NN2  for/PRP  poor/AJ0  quality/NN1
+letters/NN2  was/VBD  lack/NN1  of/PRF  time/NN1 ./PUN
+
+A/DT0 few  replies/NN2  contained/VVD-VVN  the/AT0  comment/NN1
+that/CJT-DT0  families/NN2  were/VBD  sometimes/AV0  reluctant/AJ0
+to/TO0  reveal/VVI  information/NN1  to/PRP  their/DPS
+doctor/NN1 ./PUN
+
+The/AT0  main/AJ0  complaint/NN1  from/PRP  psychiatrists/NN2
+was/VBD  that/CJT-DT0  referral/AJ0  letters/NN2  were/VBD  too/AV0
+brief/AJ0 ,/PUN  with/PRP  key/AJ0  information/NN1
+(/PUL particularly/AV0  the/AT0  attitude/NN1  of/PRF  the/AT0
+family/NN0  to/PRP  the/AT0  referral/AJ0-NN1  and/CJC  to/PRP
+involvement/NN1  of/PRF  other/AJ0  agencies/NN2 )/PUR  often/AV0
+absent/AJ0 ./PUN  
+
+
+Comment/VVB
+
+
+Although/CJS  the/AT0  categorisation/NN1  of/PRF  information/NN1
+from/PRP  referral/AJ0  letters/NN2  is/VBZ  somewhat/AV0
+arbitrary/AJ0 ,/PUN  the/AT0  study/NN1  has/VHZ  the/AT0
+advantage/NN1  that/CJT  the/AT0  items/NN2  which/DTQ  the/AT0
+two/CRD  groups/NN2  of/PRF  doctors/NN2  were/VBD  asked/VVN  to/TO0
+assess/VVI  were/VBD  taken/VVN  from/PRP  a/AT0  sample/NN1  of/PRF
+actual/AJ0  letters/NN2 ./PUN
+
+The/AT0  study/NN1 ,/PUN  moreover/AV0 ,/PUN  replicates/VVZ  the/AT0
+finding/NN1  by/PRP  Kentish/NN0    et/AV0 al    that/CJT
+the/AT0  only/AJ0  item/NN1  of/PRF  information/NN1  which/DTQ
+is/VBZ  found/VVN  consistently/AV0  in/PRP  referral/AJ0
+letters/NN2  is/VBZ  a/AT0  description/NN1  of/PRF  the/AT0
+presenting/AJ0  symptoms/NN2 ./PUN
+
+There/EX0  was/VBD  some/DT0  consensus/NN1  about/PRP  the/AT0
+relative/AJ0  importance/NN1  of/PRF  certain/AJ0  items/NN2  of/PRF
+information/NN1  that/CJT  a/AT0  referral/AJ0  letter/NN1
+should/VM0  include/VVI ,/PUN  but/CJC  psychiatrists/NN2  rated/VVD
+two/CRD  key/AJ0  items/NN2  of/PRF  information/NN1  of/PRF
+more/DT0  importance/NN1 :/PUN  the/AT0  attitude/NN1  of/PRF
+the/AT0  family/NN0  to/PRP  referral/AJ0-NN1  and/CJC  whether/CJS
+other/AJ0  agencies/NN2  are/VBB  involved/VVN ./PUN
+
+The/AT0  attitude/NN1  of/PRF  the/AT0  family/NN0  has/VHZ
+implications/NN2  for/PRP  the/AT0  style/NN1  of/PRF  initial/AJ0
+assessment/NN1  carried/VVD-VVN  out/AVP  by/PRP  the/AT0
+psychiatrist/NN1 ;/PUN  if/CJS  the/AT0  psychiatrist/NN1
+realises/VVZ  from/PRP  the/AT0  outset/NN1  that/CJT-DT0  other/AJ0
+agencies/NN2  are/VBB  involved/VVN  then/AV0  consent/NN1  of/PRF
+the/AT0  family/NN0  for/PRP  reports/NN2  may/VM0  be/VBI
+obtained/VVN  at/PRP  an/AT0  early/AJ0  stage/NN1 ./PUN
+
+Many/DT0  general/AJ0  practitioners/NN2  seem/VVB  unaware/AJ0
+of/PRF  the/AT0  importance/NN1  for/PRP  the/AT0  psychiatrist/NN1
+of/PRF  possessing/VVG  this/DT0  information/NN1  before/PRP
+the/AT0  family/NN0  attends/VVZ  for/PRP  the/AT0  first/ORD
+appointment/NN1 ./PUN
+
+It/PNP  also/AV0  seems/VVZ  that/CJT-DT0  psychiatrists/NN2  are/VBB
+ sometimes/AV0  unaware/AJ0  of/PRF  the/AT0
+difficulties/NN2  that/CJT-DT0  general/AJ0  practitioners/NN2
+may/VM0  face/VVI  in/PRP  obtaining/VVG  the/AT0  information/NN1
+required/VVD-VVN ./PUN
+
+
+
+Marinker/NN1-NP0    et/AV0 al    have/VHB
+recommended/VVN  the/AT0  development/NN1  of/PRF  protocols/NN2
+for/PRP  referral/AJ0-NN1  between/PRP  general/AJ0
+practitioners/NN2  and/CJC  consultants/NN2 ./PUN
+
+Some/DT0  departments/NN2  of/PRF  child/NN1  psychiatry/NN1  now/AV0
+use/NN1-VVB  standardised/AJ0  referral/AJ0-NN1  forms/NN2-VVZ
+with/PRP  specific/AJ0  questions/NN2  on/PRP  the/AT0  attitude/NN1
+of/PRF  the/AT0  family/NN0  to/PRP  referral/AJ0-NN1  and/CJC
+involvement/NN1  of/PRF  other/AJ0  agencies/NN2 ./PUN
+
+This/DT0  study/NN1  has/VHZ  shown/VVN  that/CJT-DT0  child/NN1
+psychiatrists/NN2  have/VHB  some/DT0  special/AJ0  requirements/NN2
+for/PRP  referral/AJ0  letters/NN2 ,/PUN  but/CJC  they/PNP  are/VBB
+unlikely/AJ0  to/TO0  obtain/VVI  the/AT0  desired/AJ0
+information/NN1  unless/CJS  they/PNP  educate/VVB  general/AJ0
+practitioners/NN2 ./PUN
+
+
+Drug/NN1-VVB  misusers/NN2  in/PRP  Lothian/NP0 :/PUN  changes/NN2
+in/PRP  injecting/NN1-VVG  habits/NN2-VVZ  1988-90/CRD
+
+
+Of/PRF  941/CRD  HIV/NP0  seropositive/AJ0  cases/NN2
+reported/VVD-VVN  in/PRP  Edinburgh/NP0  up/PRP to  September/NP0
+1992/CRD ,/PUN  515/CRD  (/PUL 55%/NN0 )/PUR  were/VBD
+associated/VVN  with/PRP  injecting/AJ0-VVG  drug/NN1
+misuse/NN1 ./PUN
+
+HIV/NP0  and/CJC  drug/NN1-VVB  targeted/AJ0-VVD  services/NN2
+in/PRP  the/AT0  region/NN1  have/VHB  concentrated/VVN  on/PRP
+a/AT0  "/PUQ harm/NN1  reduction/NN1 "/PUQ
+approach/NN1 ,/PUN  one/CRD  aspect/NN1  of/PRF  which/DTQ  is/VBZ
+to/TO0  encourage/VVI  injectors/NN2  at/AV0 least  to/TO0  use/VVI
+a/AT0  safe/AJ0  injecting/AJ0-NN1  technique/NN1  but/CJC
+preferably/AV0  to/TO0  switch/VVI  to/PRP  oral/AJ0  use/NN1 ./PUN
+
+The/AT0  aim/NN1  of/PRF  this/DT0  study/NN1  was/VBD  to/TO0
+verify/VVI  a/AT0  strong/AJ0  clinical/AJ0  impression/NN1
+that/CJT-DT0  injecting/AJ0-VVG  drug/NN1  misuse/NN1-VVB  in/PRP
+Lothian/NP0  has/VHZ  recently/AV0  diminished/VVN ./PUN
+
+
+Subjects/NN2 ,/PUN  methods/NN2 ,/PUN  and/CJC  results/VVZ
+
+
+The/AT0  community/NN0  drug/NN1-VVB  problem/NN1  service/NN1 ,/PUN
+the/AT0  setting/NN1  for/PRP  this/DT0  study/NN1 ,/PUN  has/VHZ
+been/VBN  described/VVN ./PUN
+
+The/AT0  data/NN0  presented/VVD-VVN  were/VBD  drawn/VVN  from/PRP
+detailed/AJ0  clinical/AJ0  interview/NN1  of/PRF  new/AJ0
+patients/NN2  at/PRP  the/AT0  point/NN1  of/PRF  initial/AJ0
+assessment/NN1 ./PUN
+
+Fifty/CRD  consecutive/AJ0  referrals/NN2  in/PRP  1988/CRD  were/VBD
+compared/VVN  with/PRP  50/CRD  consecutive/AJ0  referrals/NN2
+in/PRP  1990/CRD  with/PRP respect to  demographic/AJ0
+characteristics/NN2  and/CJC  patterns/NN2  of/PRF  drug/NN1
+misuse/NN1 ./PUN
+
+These/DT0  included/AJ0-VVD  injecting/AJ0-VVG  frequency/NN1
+(/PUL past/NN1  and/CJC  recent/AJ0 )/PUR ,/PUN  prescription/NN1
+status/NN1  at/PRP  assessment/NN1 ,/PUN  drugs/NN2-VVZ
+reportedly/AV0  used/AJ0-VVN ,/PUN  and/CJC  syringe/NN1-VVB
+sharing/NN1-VVG ./PUN
+
+Injecting/AJ0-VVG  frequency/NN1  was/VBD  defined/VVN  as/CJS
+never/AV0  (/PUL no/AT0  injecting/AJ0-NN1 )/PUR ,/PUN
+occasional/AJ0  (/PUL averaging/VVG  fewer/DT0  than/CJS  two/CRD
+injecting/AJ0  episodes/NN2  a/AT0  week/NN1 )/PUR ,/PUN  and/CJC
+frequent/AJ0  (/PUL averaging/VVG  two/CRD  or/CJC  more/DT0
+episodes/NN2  a/AT0  week/NN1 )/PUR ./PUN
+
+"/PUQ Recent/AJ0 "/PUQ  injecting/NN1  refers/VVZ  to/PRP
+the/AT0  six/CRD  months/NN2  before/PRP  assessment/NN1 ./PUN
+
+"/PUQ Past/AJ0 "/PUQ  injecting/NN1-VVG  refers/VVZ  to/PRP
+the/AT0  injecting/AJ0  career/NN1  before/CJS-PRP  that/DT0
+period/NN1 ./PUN
+
+
+
+The/AT0  two/CRD  samples/NN2  did/VDD  not/XX0  differ/VVI  in/PRP
+sex/NN1 ,/PUN  age/NN1 ,/PUN  employment/NN1  status/NN1 ,/PUN
+proportion/NN1-VVB  with/PRP  a/AT0  regular/AJ0  partner/NN1 ,/PUN
+source/NN1  of/PRF  referral/AJ0-NN1 ,/PUN  age/NN1  at/AV0 first
+drug/NN1-VVB  misuse/NN1  (/PUL excluding/PRP  cannabis/NN1 ,/PUN
+solvents/NN2 ,/PUN  and/CJC  alcohol/NN1 )/PUR ,/PUN  or/CJC  age/NN1
+at/AV0 first  injecting/NN1-VVG  (/PUL among/PRP
+injectors/NN2 )/PUR ./PUN
+
+
+
+The/AT0  table/NN1  shows/VVZ  significant/AJ0  differences/NN2
+between/PRP  the/AT0  two/CRD  years/NN2  in/PRP  past/AJ0-AV0
+injecting/AJ0-VVG  frequency/NN1  (/PUL &khgr/UNC    2/CRD
+ =19.9/UNC ,/PUN  df=2/UNC ;/PUN  p<0.0001/UNC )/PUR ,/PUN
+recent/AJ0  injecting/AJ0-NN1  frequency/NN1  (/PUL &khgr/UNC
+ 2/CRD    =26.6/UNC ,/PUN  df=2/UNC ;/PUN
+p<0.0001/UNC )/PUR ,/PUN  and/CJC  recent/AJ0  injecting/AJ0-NN1
+frequency/NN1  among/PRP  frequent/AJ0  past/AJ0-NN1  injectors/NN2
+(/PUL &khgr/UNC    2/CRD    =19.9/UNC ,/PUN
+df=2/UNC ;/PUN  p<0.0001/UNC )/PUR ./PUN
+
+This/DT0  last/ORD  finding/NN1  excludes/VVZ  the/AT0
+possibility/NN1  that/CJT  the/AT0  preponderance/NN1  of/PRF
+frequent/AJ0  past/AJ0-NN1  injectors/NN2  in/PRP  1988/CRD
+could/VM0  account/VVI  for/PRP  differences/NN2  between/PRP
+1988/CRD  and/CJC  1990/CRD  in/PRP  recent/AJ0  injecting/AJ0-NN1
+frequency/NN1 ./PUN  
+
+
+
+Among/PRP  recent/AJ0  injectors/NN2  37%/NN0  (/PUL 13/35/CRD )/PUR
+had/VHD  recently/AV0  shared/VVN  syringes/NN2-VVZ  in/PRP  1988/CRD
+compared/VVD-VVN  with/PRP  20%/NN0  (/PUL 3/15/CRD )/PUR  in/PRP
+1990/CRD ./PUN
+
+This/DT0  difference/NN1  was/VBD  not/XX0  significant/AJ0 ./PUN
+
+Among/PRP  opioid/AJ0  misusers/NN2  51%/NN0  (/PUL 24/47/CRD )/PUR
+in/PRP  1988/CRD  and/CJC  70%/NN0  (/PUL 30/43/CRD )/PUR  in/PRP
+1990/CRD  were/VBD  receiving/VVG  prescribed/AJ0  opioids/NN2
+before/PRP  assessment/NN1 ./PUN
+
+Among/PRP  benzodiazepine/NN1  misusers/NN2  70%/NN0
+(/PUL 23/33/CRD )/PUR  in/PRP  1988/CRD  and/CJC  59%/NN0
+(/PUL 23/39/CRD )/PUR  in/PRP  1990/CRD  were/VBD  being/VBG
+prescribed/AJ0-VVN  benzodiazepines/NN2  before/PRP
+assessment/NN1 ./PUN
+
+These/DT0  differences/NN2  were/VBD  not/XX0  significant/AJ0 ./PUN
+
+(/PUL Some/DT0  patients/NN2  reported/VVD-VVN  being/VBG
+prescribed/VVN  both/DT0  drug/NN1-VVB  types/NN2 ./PUN )/PUR
+
+
+
+Of/PRF  the/AT0  drugs/NN2  in/PRP  use/NN1  within/PRP  one/CRD
+month/NN1  before/PRP  assessment/NN1 ,/PUN  injectable/AJ0
+opioids/NN2  such/PRP as  Temgesic/NN1
+(/PUL buprenorphine/NN1-VVB )/PUR  were/VBD  significantly/AV0
+more/AV0  commonly/AV0  reported/VVD-VVN  in/PRP  1988/CRD  than/CJS
+in/PRP  1990/CRD ./PUN
+
+Dihydrocodeine/NP0  (/PUL rather/CJS than  methadone/VVI )/PUR
+was/VBD  the/AT0  non-injectable/AJ0  opioid/NN1  most/AV0
+commonly/AV0  reported/VVD-VVN  in/PRP  both/DT0  years/NN2  but/CJC
+was/VBD  significantly/AV0  more/AV0  popular/AJ0  in/PRP  1990/CRD
+than/CJS  in/PRP  1988/CRD ./PUN
+
+
+
+The/AT0  1988/CRD  and/CJC  1990/CRD  samples/NN2  were/VBD
+combined/VVN  to/TO0  test/VVI  for/PRP  association/NN1  between/PRP
+prescribing/AJ0-VVG  status/NN1  before/PRP  assessment/NN1  and/CJC
+frequency/NN1  of/PRF  recent/AJ0  injecting/NN1 ./PUN
+
+Receiving/VVG  a/AT0  benzodiazepine/NN1  prescription/NN1  was/VBD
+not/XX0  associated/VVN  with/PRP  recent/AJ0  injecting/AJ0-NN1
+frequency/NN1 ./PUN
+
+However/AV0 ,/PUN  being/VBG  prescribed/AJ0-VVN  opioids/NN2
+before/PRP  assessment/NN1  was/VBD  strongly/AV0  associated/VVD-VVN
+with/PRP  lower/AJC  recent/AJ0  injecting/AJ0-NN1  frequency/NN1
+(/PUL &khgr/UNC    2/CRD    =25.7/UNC ,/PUN
+df=2/UNC ;/PUN  p<0.0001/UNC )/PUR ./PUN
+
+
+Comment/VVB
+
+
+In/PRP  this/DT0  study/NN1  sample/NN1  sizes/NN2  were/VBD
+small/AJ0 ./PUN
+
+Nevertheless/AV0 ,/PUN  it/PNP  is/VBZ  clear/AJ0  that/CJT
+something/PNI  has/VHZ  happened/VVN  in/PRP  Lothian/NP0  to/TO0
+diminish/VVI  injecting/AJ0-VVG  prevalence/NN1  among/PRP
+clinic/NN1  attenders/NN2 ./PUN
+
+Reported/AJ0-VVN  opioid/AJ0  misuse/NN1  seems/VVZ  to/TO0
+reflect/VVI  this/DT0  trend/NN1 ./PUN
+
+Being/VBG  prescribed/AJ0-VVN  oral/AJ0  opioids/NN2  before/PRP
+assessment/NN1  was/VBD  associated/VVN  with/PRP  less/DT0
+recent/AJ0  injecting/NN1  but/CJC  as/CJS  levels/NN2  of/PRF
+such/DT0  prescribing/NN1  were/VBD  similar/AJ0  in/PRP  the/AT0
+two/CRD  samples/NN2  this/DT0  would/VM0  not/XX0 ,/PUN  as/CJS-PRP
+a/AT0  "/PUQ treatment/NN1  effect/NN1 ,/PUN "/PUQ
+fully/AV0  explain/VVB  the/AT0  differences/NN2  found/VVD-VVN
+in/PRP  recent/AJ0  injecting/AJ0-NN1  frequency/NN1 ./PUN
+
+Availability/NN1  of/PRF  oral/AJ0  opioids/NN2  on/PRP  the/AT0
+"/PUQ grey/AJ0  market/NN1 "/PUQ  to/TO0  drug/VVI
+users/NN2  not/XX0  receiving/VVG  a/AT0  prescription/NN1  may/VM0
+be/VBI  a/AT0  factor/NN1 ./PUN
+
+Other/AJ0  possible/AJ0  factors/NN2  may/VM0  include/VVI  the/AT0
+influence/NN1  of/PRF  public/AJ0  and/CJC  drug/VVI  user/NN1
+targeted/AJ0-VVD  education/NN1  and/CJC  changes/NN2  in/PRP
+attitude/NN1  owing/PRP to  drug/NN1  users/NN2/POS '  personal/AJ0
+experience/NN1  of/PRF  friends/NN2  and/CJC  relatives/NN2
+becoming/VVG  ill/AJ0  and/CJC  dying/AJ0-VVG  of/PRF  HIV/NP0
+related/AJ0-VVD  conditions/NN2 ./PUN
+
+
+
+Study/NN1  of/PRF  an/AT0  "/PUQ out/PRP of
+treatment/NN1 "/PUQ  group/NN0  might/VM0  disclose/VVI  to/PRP
+what/DTQ  extent/NN1 ,/PUN  if/CJS  at/AV0 all ,/PUN  the/AT0
+trends/NN2  reported/VVD-VVN  reflect/NN1-VVB  behaviour/NN1
+change/NN1-VVB  in/PRP  the/AT0  wider/AJC  population/NN1  of/PRF
+drug/NN1  misusers/NN2  in/PRP  Lothian/NP0 ./PUN  
+
+
+GENERAL/AJ0  PRACTICE/NN1
+
+Heartsink/NN1-VVB  hotel/NN1  revisited/VVD
+
+
+Three/CRD  and/CJC  a/AT0  half/DT0  years/NN2  ago/AV0  I/PNP
+described/VVD  my/DPS  experience/NN1  of/PRF  a/AT0  meeting/NN1
+I/PNP  attended/VVD  for/PRP  briefing/VVG  on/PRP  the/AT0
+brave/AJ0  new/AJ0  world/NN1  of/PRF  budget/NN1
+holding/NN1-VVG ,/PUN  the/AT0  wild/AJ0  card/NN1  of/PRF  the/AT0
+recently/AV0  published/VVD-VVN  NHS/NP0  Review/NN1 ./PUN
+
+Since/PRP  then/AV0  over/AV0  3000/CRD  family/NN0  doctors/NN2
+have/VHB  become/VVN  fundholders/NN2 ,/PUN  John/NP0  Major/NP0
+has/VHZ  replaced/VVN  Margaret/NP0  Thatcher/NP0  and/CJC
+Virginia/NP0  Bottomley/NP0 ,/PUN  Kenneth/NP0  Clarke/NP0 ,/PUN
+and/CJC  I/PNP  now/AV0  practise/VVB  in/PRP  the/AT0  city/NN1
+of/PRF  sails/NN2  (/PUL Auckland/NP0 )/PUR  instead/CJC of  the/AT0
+city/NN1  of/PRF  socks/NN2  (/PUL Leicester/NP0 )/PUR ./PUN
+
+There/EX0  is/VBZ  no/AT0  causal/AJ0  relation/NN1  between/PRP
+these/DT0  various/AJ0  events/NN2 ./PUN
+
+
+
+In/PRP  September/NP0 ,/PUN  after/CJS-PRP  three/CRD  years/NN2
+in/PRP  New/NP0  Zealand/NP0 ,/PUN  I/PNP  had/VHD  the/AT0
+opportunity/NN1  to/TO0  spend/VVI  one/CRD  month/NN1  back/AVP
+in/PRP  Britain/NP0  and/CJC  was/VBD  able/AJ0  to/TO0  review/VVI
+the/AT0  changes/NN2  I/PNP  had/VHD  heard/VVN  previewed/VVD-VVN
+in/PRP  March/NP0  1989/CRD ./PUN
+
+What/DTQ  follows/VVZ  is/VBZ  a/AT0  personal/AJ0  observation/NN1
+based/VVN  on/PRP  visits/NN2  in/PRP  three/CRD  regions/NN2  of/PRF
+England/NP0  to/PRP  four/CRD  fundholding/AJ0-NN1  and/CJC  two/CRD
+non-fundholding/AJ0  practices/NN2  and/CJC  one/CRD  poised/VVD
+to/TO0  join/VVI  the/AT0  third/ORD  wave/NN1 ./PUN
+
+I/PNP  also/AV0  talked/VVD  to/PRP  general/AJ0
+practitioners/NN2 ,/PUN  practice/NN1  staff/NN0 ,/PUN  officers/NN2
+of/PRF  family/NN0  health/NN1  services/NN2  authorities/NN2
+and/CJC  district/NN1  and/CJC  regional/AJ0  health/NN1
+authorities/NN2 ,/PUN  hospital/NN1  consultants/NN2 ,/PUN
+academics/NN2 ,/PUN  nurses/NN2 ,/PUN  and/CJC  patients/NN2 ./PUN
+
+
+Impact/NN1  of/PRF  fundholding/VVG
+
+
+Has/VHZ  fundholding/NN1  been/VBN  a/AT0  success/NN1 ?/PUN
+
+As/CJS-PRP  a/AT0  more/AV0  formal/AJ0  evaluation/NN1  has/VHZ
+suggested/VVN ,/PUN  it/PNP  is/VBZ  too/AV0  early/AJ0  to/TO0
+judge/VVI ,/PUN  but/CJC  certainly/AV0  there/AV0  have/VHB
+been/VBN  gains/NN2  and/CJC  losses/NN2 ./PUN
+
+I/PNP  sensed/VVD  real/AJ0  enthusiasm/NN1  and/CJC  empowerment/NN1
+among/PRP  some/DT0  of/PRF  the/AT0  fundholders/NN2  and/CJC
+discovered/VVD  tangible/AJ0  improvements/NN2  in/PRP  patient/AJ0
+care/NN1 ./PUN
+
+I/PNP  also/AV0  learnt/VVD  of/PRF  untoward/AJ0  knock/NN1  on/PRP
+effects/NN2  and/CJC  serious/AJ0  concerns/NN2  about/PRP
+fragmentation/NN1  and/CJC  dis-enfranchisement/AJ0-NN1 ./PUN
+
+
+
+The/AT0  fundholding/AJ0-NN1  practices/NN2  I/PNP  visited/VVD
+ranged/VVD-VVN  in/PRP  size/NN1  from/PRP  12/CRD  000/CRD
+patients/NN2  (/PUL six/CRD  partners/NN2 )/PUR  to/PRP  17/CRD
+000/CRD  patients/NN2  (/PUL seven/CRD  partners/NN2 )/PUR ./PUN
+
+One/CRD-PNI  was/VBD  in/PRP  an/AT0  inner/AJ0  city/NN1 ,/PUN
+one/CRD-PNI  an/AT0  industrial/AJ0  town/NN1 ,/PUN  one/CRD-PNI
+a/AT0  country/NN1  town/NN1 ,/PUN  and/CJC  one/CRD-PNI  a/AT0
+county/NN1  capital/NN1 ./PUN
+
+All/DT0  practices/NN2  agreed/VVD-VVN  that/CJT-DT0
+preparing/NN1-VVG  for/PRP  and/CJC  implementing/AJ0-VVG
+fundholding/NN1  was/VBD  an/AT0  enormous/AJ0  administrative/AJ0
+task/NN1 ./PUN
+
+On/PRP  average/AJ0-NN1  each/DT0  practice/NN1  had/VHD
+employed/VVN  two/CRD  additional/AJ0  full/AJ0  time/NN1  staff/NN0
+to/TO0  cope/VVI  with/PRP  this/DT0  workload/NN1  -/PUN
+usually/AV0  a/AT0  fund/NN1  manager/NN1  and/CJC  a/AT0
+secretary/NN1  or/CJC  data/NN0  entry/NN1  person/NN1 ./PUN
+
+In/AV0 addition ,/PUN  one/CRD  partner/NN1  had/VHD  taken/VVN
+responsibility/NN1  for/PRP  overseeing/VVG  the/AT0  whole/AJ0
+process/NN1 ./PUN
+
+Not/XX0  surprisingly/AV0 ,/PUN  the/AT0  enthusiasm/NN1  was/VBD
+greatest/AJS  in/PRP  the/AT0  first/ORD  wave/NN1
+practices/NN2 ./PUN
+
+Attitudes/NN2  in/PRP  second/NN1  and/CJC  especially/AV0  third/ORD
+wave/NN1  practices/NN2  were/VBD  more/AV0  lukewarm/AJ0 ,/PUN
+and/CJC  I/PNP  often/AV0  encountered/VVD  a/AT0  sense/NN1  of/PRF
+resigned/AJ0  determination/NN1  -/PUN  "/PUQ if/CJS
+we/PNP  do/VDB n't/XX0  go/VVI  in/AVP-PRP  now/AV0 ,/PUN
+we/PNP 'll/VM0  get/VVI  left/AJ0  behind/NN1 ./PUN "/PUQ
+
+Fundholding/NN1-NP0  has/VHZ  produced/VVN  tangible/AJ0
+improvements/NN2  in/PRP  patient/AJ0-NN1  care/NN1
+
+
+There/EX0  was/VBD  a/AT0  palpable/AJ0  sense/NN1  of/PRF
+excitement/NN1 ,/PUN  dynamism/NN1 ,/PUN  and/CJC  innovation/NN1
+among/PRP  the/AT0  fundholders/NN2 ,/PUN  especially/AV0  those/DT0
+in/PRP  the/AT0  first/ORD  wave/NN1 ./PUN
+
+This/DT0  was/VBD  also/AV0  apparent/AJ0  in/PRP  the/AT0
+family/NN0  health/NN1  services/NN2  authority/NN1  officers/NN2
+I/PNP  met/VVD  -/PUN  I/PNP  was/VBD  impressed/VVN  by/PRP
+their/DPS  commitment/NN1 ,/PUN  vision/NN1 ,/PUN  and/CJC
+leadership/NN1  qualities/NN2 ./PUN
+
+The/AT0  authorities/NN2  were/VBD  taking/VVG  a/AT0  proactive/AJ0
+role/NN1 ,/PUN  acting/VVG  as/PRP  the/AT0  mainspring/NN1  of/PRF
+change/NN1  not/XX0  only/AV0  in/PRP  fundholding/NN1-VVG  but/CJC
+in/PRP  other/AJ0  areas/NN2  such/PRP as  consumer/NN1  surveys/NN2
+and/CJC  information/NN1  systems/NN2 ./PUN
+
+They/PNP  were/VBD  also/AV0  organising/AJ0-VVG  business/NN1
+planning/NN1-VVG  courses/NN2  for/PRP  their/DPS  doctors/NN2
+and/CJC  dentists/NN2 ./PUN
+
+
+
+I/PNP  heard/VVD  of/PRF  some/DT0  spectacular/AJ0  changes/NN2
+in/PRP  services/NN2  available/AJ0  to/PRP  patients/NN2  in/PRP
+fundholding/AJ0-VVG  practices/NN2 ./PUN
+
+One/CRD  practice/NN1  has/VHZ  used/VVN  last/ORD  year/NN1 's/POS
+savings/NN2  to/TO0  clear/VVI  its/DPS  waiting/NN1  list/NN1
+totally/AV0  for/PRP  eye/NN1 ,/PUN  orthopaedic/AJ0 ,/PUN  and/CJC
+ear/NN1 ,/PUN  nose/NN1 ,/PUN  and/CJC  throat/NN1  surgery/NN1
+by/PRP  purchasing/VVG  the/AT0  operations/NN2  from/PRP  the/AT0
+private/AJ0  sector/NN1 ./PUN
+
+In/PRP  another/DT0  ear/NN1  the/AT0  sole/AJ0  consultant/NN1
+ophthalmologist/NN1  has/VHZ  resigned/VVN  from/PRP  the/AT0
+district/NN1  general/AJ0-NN1  hospital/NN1  and/CJC  bought/VVD-VVN
+a/AT0  caravan/NN1  which/DTQ  he/PNP  is/VBZ  using/VVG  to/TO0
+provide/VVI  private/AJ0  consultations/NN2  at/PRP
+fundholding/AJ0-VVG  practices/NN2 ./PUN
+
+Patients/NN2  are/VBB  seen/VVN  within/PRP  one/CRD  week/NN1 ,/PUN
+do/VDB  not/XX0  have/VHI  to/TO0  travel/VVI  to/PRP  the/AT0
+hospital/NN1 ,/PUN  and/CJC ,/PUN  if/CJS  requiring/AJ0-VVG
+surgery/NN1 ,/PUN  are/VBB  operated/VVN  on/PRP  promptly/AJ0-AV0
+and/CJC  privately/AV0 ./PUN
+
+However/AV0 ,/PUN  the/AT0  patients/NN2  of/PRF
+non-fundholding/AJ0-NN1  practices/NN2  now/AV0  have/VHB  no/AT0
+ophthalmology/NN1  service/NN1  available/AJ0  at/PRP  their/DPS
+local/AJ0  hospital/NN1  and/CJC  have/VHB  to/TO0  travel/VVI  up
+to/AV0  50/CRD  miles/NN2  (/PUL 80/CRD  km/NN0 )/PUR  to/PRP
+their/DPS  regional/AJ0  hospital/NN1 ./PUN
+
+
+
+More/DT0  modest/AJ0  examples/NN2  of/PRF  improved/AJ0
+services/NN2  included/VVD-VVN  provision/NN1  of/PRF
+physiotherapy/NN1  and/CJC  specialist/AJ0  consultations/NN2  in/PRP
+the/AT0  practice/NN1  premises/NN2 ./PUN
+
+One/CRD  practice/NN1  was/VBD  considering/PRP  using/VVG  its/DPS
+surplus/AJ0-NN1  to/TO0  employ/VVI  an/AT0  additional/AJ0
+orthopaedic/AJ0  surgeon/NN1  at/PRP  the/AT0  district/NN1
+general/AJ0-NN1  hospital/NN1  to/TO0  clear/VVI  the/AT0
+practice/NN1 's/POS  long/AV0  orthopaedic/AJ0  waiting/NN1
+list/NN1 ./PUN
+
+Where/AVQ-CJS  fundholders/NN2  had/VHD  encouraged/VVN  local/AJ0
+hospitals/NN2  to/TO0  improve/VVI  the/AT0  services/NN2  for/PRP
+their/DPS  own/DT0  patients/NN2 ,/PUN  other/AJ0  patients/NN2
+attending/VVG  the/AT0  hospital/NN1  also/AV0
+benefited/VVD-VVN ./PUN
+
+For/AV0 example ,/PUN  one/CRD  practice/NN1  with/PRP  a/AT0
+predominantly/AV0  Asian/AJ0  population/NN1  had/VHD  persuaded/VVN
+the/AT0  hospital/NN1  to/TO0  subscribe/VVI  to/PRP  Language/NN1
+Line/NN1 ,/PUN  a/AT0  telephone/NN1  interpreting/VVG  service/NN1
+which/DTQ  is/VBZ  now/AV0  available/AJ0  to/PRP  all/DT0
+patients/NN2  attending/VVG  the/AT0  hospital/NN1 ./PUN
+
+
+
+The/AT0  purchasing/AJ0  clout/NN1  of/PRF  the/AT0  fundholders/NN2
+seems/VVZ  to/TO0  be/VBI  encouraging/VVG  the/AT0  hospitals/NN2
+to/TO0  become/VVI  more/DT0  patient/NN1  centred/AJ0-VVD
+-/PUN  who/PNQ  would/VM0  have/VHI  thought/VVN  two/CRD
+or/CJC  three/CRD  years/NN2  ago/AV0  that/DT0  evening/NN1  or/CJC
+weekend/NN1  clinics/NN2  and/CJC  operating/NN1-VVG  sessions/NN2
+would/VM0  be/VBI  contemplated/VVN ?/PUN
+
+A/AT0  clear/AJ0  shift/NN1  of/PRF  power/NN1  away/PRP from
+the/AT0  hospital/NN1  consultants/NN2  was/VBD  apparent/AJ0 ./PUN
+
+Although/CJS  this/DT0  is/VBZ  thought/VVN  to/TO0  be/VBI  long/AV0
+overdue/AJ0  by/PRP  some/DT0  of/PRF  my/DPS  colleagues/NN2 ,/PUN
+will/VM0  there/AV0  be/VBI  a/AT0  backlash/NN1  at/PRP  some/DT0
+point/NN1 ?/PUN
+
+ The/AT0  district/NN1  general/AJ0-NN1  hospital/NN1
+in/PRP  Leicester/NP0  has/VHZ  undergone/VVN  a/AT0  facelift/NN1
+since/CJS  I/PNP  was/VBD  last/ORD  there/AV0 ,/PUN  replacing/VVG
+the/AT0  previous/AJ0  institutional/AJ0  look/NN1  with/PRP
+touches/NN2  of/PRF  humanity/NN1 ,/PUN  colour/NN1 ,/PUN  and/CJC
+interest/NN1  -/PUN  preparation/NN1  for/PRP  trust/NN1
+status/NN1  perhaps/AV0 ?/PUN
+
+
+Fair/AJ0-AV0  and/CJC  representative/AJ0  service/NN1 ?/PUN
+
+
+On/PRP  the/AT0  downside/NN1  there/EX0  was/VBD  evidence/NN1
+of/PRF  polarisation/NN1  between/PRP  fundholders/NN2  and/CJC
+non-fundholders/NN2 ./PUN
+
+Some/DT0  practitioners/NN2  whose/DTQ  practices/NN2  were/VBD
+too/AV0  small/AJ0  to/TO0  qualify/VVI  for/PRP  the/AT0  scheme/NN1
+felt/VVD  bitter/AJ0 ,/PUN  excluded/VVD ,/PUN  and/CJC
+frustrated/VVD  that/CJT  their/DPS  patients/NN2  were/VBD
+being/VBG  disadvantaged/VVN  by/PRP  a/AT0  system/NN1  over/PRP
+which/DTQ  they/PNP  had/VHD  no/AT0  control/NN1 ./PUN
+
+Such/DT0  divisions/NN2  of/PRF  opinion/NN1  were/VBD  causing/VVG
+difficulties/NN2  in/PRP  the/AT0  functioning/NN1  of/PRF  local/AJ0
+medical/AJ0  committees/NN2 ./PUN
+
+
+
+In/PRP  at/AV0 least  two/CRD  of/PRF  the/AT0  areas/NN2  I/PNP
+visited/VVD  the/AT0  regional/AJ0  health/NN1  authority/NN1
+and/CJC  some/DT0  of/PRF  the/AT0  first/ORD  wave/NN1
+fundholders/NN2  were/VBD  wrangling/VVG  over/AVP-PRP  the/AT0
+savings/NN2  accrued/VVD-VVN  during/PRP  the/AT0  first/ORD
+year/NN1 ./PUN
+
+Over/AV0  &pound;100/NN0  000/CRD  was/VBD  at/PRP  stake/NN1  in/PRP
+two/CRD  cases/NN2 ,/PUN  and/CJC  the/AT0  authority/NN1 's/POS
+attempts/NN2  to/TO0  claw/VVI  back/AVP  some/DT0  of/PRF  this/DT0
+were/VBD  being/VBG  resisted/VVN  fiercely/AV0 ./PUN
+
+Even/AV0  the/AT0  enthusiasts/NN2  for/PRP  fundholding/NN1-VVG
+realised/VVD-VVN  that/CJT  the/AT0  lid/NN1  was/VBD  sinking/VVG
+on/PRP  health/NN1  expenditure/NN1 ./PUN
+
+As/CJS-PRP  the/AT0  system/NN1  beds/NN2  down/AVP  and/CJC
+budgets/NN2  tighten/VVB  the/AT0  opportunities/NN2  for/PRP
+innovation/NN1  and/CJC  experimentation/NN1  will/VM0  steadily/AV0
+diminish/VVI ./PUN
+
+In/PRP  a/DT0 few  years/NN2  time/NN1-VVB  the/AT0  fundholders/NN2
+may/VM0  have/VHI  very/AV0  little/AJ0  room/NN1  to/TO0
+manoeuvre/VVI  but/CJC  will/VM0  still/AV0  have/VHI  to/TO0
+cope/VVI  with/PRP  the/AT0  burden/NN1  of/PRF  administering/VVG
+their/DPS  fund/NN1 ./PUN
+
+All/DT0  the/AT0  fundholders/NN2  I/PNP  spoke/VVD  to/PRP
+admitted/AJ0  that/CJT  the/AT0  scheme/NN1  had/VHD  increased/VVN
+the/AT0  number/NN1  of/PRF  meetings/NN2  they/PNP  had/VHD  to/TO0
+attend/VVI ,/PUN  both/AV0  within/AV0  and/CJC  without/PRP  the/AT0
+practice/NN1 ./PUN
+
+In/PRP  some/DT0  areas/NN2  fundholders/NN2  had/VHD  formed/VVN
+liaison/NN1  groups/NN2  and/CJC  were/VBD  meeting/VVG
+regularly/AV0  to/TO0  share/VVI  experiences/NN2  and/CJC
+develop/VVI  their/DPS  collective/AJ0  expertise/NN1 ./PUN
+
+In/PRP  one/CRD  town/NN1 ,/PUN  however/AV0 ,/PUN  second/ORD
+wave/NN1  fundholders/NN2  had/VHD  been/VBN  told/VVN  to/TO0
+fend/VVI  for/PRP  themselves/PNX  by/PRP  those/DT0  in/PRP  the/AT0
+first/ORD  wave/NN1 ./PUN
+
+
+
+I/PNP  became/VVD  aware/AJ0  of/PRF  two/CRD  further/AJC
+concerns/NN2 ,/PUN  one/CRD  from/PRP  regional/AJ0  and/CJC
+district/NN1  health/NN1  planners/NN2  and/CJC  one/CRD-PNI
+from/PRP  patients/NN2 ;/PUN  both/AV0  related/VVD-VVN  to/PRP
+the/AT0  increased/AJ0  power/NN1  of/PRF  the/AT0
+fundholders/NN2 ./PUN
+
+ The/AT0  Health/NN1  of/PRF  the/AT0  Nation/NN1  
+spells/VVZ  out/AVP  a/AT0  clear/AJ0  strategy/NN1  for/PRP
+public/AJ0  health/NN1  policy/NN1 ,/PUN  and/CJC  many/DT0
+regional/AJ0  and/CJC  district/NN1  health/NN1  authorities/NN2
+have/VHB  mapped/VVN  out/AVP  their/DPS  local/AJ0  plans/NN2 ./PUN
+
+Conflict/NN1  may/VM0  arise/VVI  if/CJS  a/AT0  large/AJ0
+fundholding/AJ0-NN1  practice/NN1  decides/VVZ  to/TO0  pursue/VVI
+its/DPS  own/DT0  health/NN1  priorities/NN2  or/CJC  ignore/VVB
+those/DT0  of/PRF  the/AT0  local/AJ0  district/NN1  health/NN1
+authority/NN1 ./PUN
+
+Similarly/AV0 ,/PUN  there/EX0  is/VBZ  no/AT0  obligation/NN1
+on/PRP  fundholding/VVG  practices/NN2  to/TO0  consult/VVI  with/PRP
+their/DPS  patients/NN2  over/AVP-PRP  how/AVQ  they/PNP  will/VM0
+manage/VVI  their/DPS  fund/NN1  and/CJC  how/AVQ  any/DT0
+savings/NN2  will/VM0  be/VBI  used/VVN ./PUN
+
+Yet/AV0  the/AT0  consequences/NN2  of/PRF  these/DT0
+decisions/NN2 ,/PUN  as/CJS  in/PRP  the/AT0  ophthalmology/NN1
+example/NN1  mentioned/VVD-VVN  above/AV0 ,/PUN  can/VM0  have/VHI
+profound/AJ0  effects/NN2  on/PRP  patients/NN2  both/AV0  inside/AV0
+and/CJC  outside/PRP  the/AT0  practice/NN1 ./PUN
+
+I/PNP  became/VVD  slightly/AV0  unnerved/VVN  by/PRP  the/AT0
+frequent/AJ0  reassurances/NN2  I/PNP  was/VBD  given/VVN  by/PRP
+fundholders/NN2  that/CJT  they/PNP  would/VM0 n't/XX0  do/VDI
+anything/PNI  to/TO0  "/PUQ upset/VVI  the/AT0
+applecart/NN1 "/PUQ  or/CJC  disadvantage/VVB  their/DPS
+colleagues/NN2/POS '  patients/NN2 ./PUN
+
+
+
+Nobody/PNI  really/AV0  knows/VVZ  what/DTQ  the/AT0  patients/NN2
+think/VVB  about/PRP  all/DT0  this/DT0 ./PUN
+
+A/AT0  recent/AJ0  survey/NN1  showed/VVD  that/CJT-DT0  over/PRP
+40%/NN0  of/PRF  patients/NN2  did/VDD  not/XX0  even/AV0  know/VVI
+about/PRP  the/AT0  NHS/NP0  reforms/NN2 ,/PUN  let/PRP alone
+fundholding/NN1-VVG ./PUN
+
+Indeed/AV0  in/PRP  one/CRD  practice/NN1  I/PNP  visited/VVD
+the/AT0  patients/NN2  held/VVD-VVN  a/AT0  Tupperware/NN1  party/NN0
+to/TO0  raise/VVI  money/NN1  to/TO0  "/PUQ help/VVI "/PUQ
+their/DPS  practice/NN1  -/PUN  believing/VVG  that/CJT-DT0
+fundholding/NN1-VVG  meant/VVD-VVN  that/CJT  the/AT0
+practitioners/NN2  had/VHD  to/TO0  raise/VVI  their/DPS  own/DT0
+funds/NN2 ./PUN
+
+Fundholding/NN1-NP0  has/VHZ  acted/VVN  as/PRP  a/AT0  catalyst/NN1
+for/PRP  change/NN1  in/PRP  Britain/NP0 's/POS  general/AJ0-NN1
+practice/NN1  community/NN0  -/PUN  the/AT0  ultimate/AJ0
+outcome/NN1  of/PRF  the/AT0  experiment/NN1  remains/VVZ  to/TO0
+be/VBI  seen/VVN ./PUN
+
+
+General/AJ0  practitioner/NN1  fundholding/NN1-VVG :/PUN
+experience/NN1  in/PRP  Grampian/NP0
+
+
+Proposals/NN2  for/PRP  fundholding/NN1-VVG  were/VBD  greeted/VVN
+with/PRP  scepticism/NN1  by/PRP  many/DT0  general/AJ0
+practitioners/NN2 ,/PUN  and/CJC  in/PRP  Scotland/NP0  the/AT0
+BMA/NN1-NP0  persuaded/VVD  the/AT0  government/NN0  to/TO0
+allow/VVI  a/AT0  scheme/NN1  to/TO0  test/VVI  the/AT0
+arrangements/NN2  as/PRP  a/AT0  demonstration/NN1  project/NN1
+operating/NN1-VVG  "/PUQ shadow/NN1 "/PUQ  practice/NN1
+funds/NN2 ./PUN
+
+This/DT0  allowed/VVD-VVN  the/AT0  six/CRD  selected/AJ0
+practices/NN2  to/TO0  set/VVI  up/AVP  administrative/AJ0  and/CJC
+computer/NN1  systems/NN2  without/PRP  the/AT0  worry/NN1  of/PRF
+dealing/VVG  with/PRP  real/AJ0  money/NN1 ./PUN
+
+The/AT0  shadow/NN1  fundholding/VVG  scheme/NN1  has/VHZ  since/AV0
+been/VBN  extended/VVN  to/PRP  small/AJ0  practices/NN2  and/CJC
+to/PRP  a/AT0  trial/NN1  of/PRF  fundholding/VVG  for/PRP  all/DT0
+services/NN2  except/CJS-PRP  accident/NN1  and/CJC
+emergency/NN1 ./PUN
+
+The/AT0  six/CRD  practices/NN2  in/PRP  the/AT0  original/AJ0
+pilot/NN1  have/VHB  all/DT0  become/VVI  fundholders/NN2  and/CJC
+are/VBB  beginning/VVG  to/TO0  effect/VVI  improvements/NN2  in/PRP
+the/AT0  service/NN1  to/PRP  their/DPS  patients/NN2 ./PUN
+
+However/AV0 ,/PUN  with/PRP  more/DT0  practices/NN2  becoming/VVG
+fundholders/NN2  negotiating/VVG  contracts/NN2  with/PRP
+providers/NN2  is/VBZ  becoming/VVG  increasingly/AV0
+complicated/AJ0  and/CJC  more/DT0  time/NN1  and/CJC  money/NN1
+needs/VVZ  to/TO0  be/VBI  put/VVN  into/PRP  this/DT0
+aspect/NN1 ./PUN
+
+
+
+When/CJS  the/AT0  radical/AJ0  proposals/NN2  on/PRP  general/AJ0
+practitioner/NN1  fundholding/NN1-VVG  were/VBD  put/VVN  forward/AV0
+three/CRD  years/NN2  ago/AV0  they/PNP  were/VBD  not/XX0
+enthusiastically/AV0  received/VVN  by/PRP  most/DT0  of/PRF  the/AT0
+medical/AJ0  profession/NN1 ./PUN
+
+The/AT0  proposals/NN2  were/VBD  believed/VVN  to/TO0  be/VBI
+"/PUQ an/AT0  attempt/NN1  to/TO0  cash/VVI  limit/NN1-VVB
+a/AT0  demand/NN1  led/VVD-VVN  service/NN1  which/DTQ  will/VM0
+damage/VVI  the/AT0  doctor/patient/UNC  relationship/NN1  and/CJC
+be/VBI  detrimental/AJ0  to/PRP  patient/AJ0
+care/NN1 ./PUN "/PUQ
+
+In/PRP  Scotland/NP0 ,/PUN  however/AV0 ,/PUN  the/AT0  approach/NN1
+was/VBD  different/AJ0 ./PUN
+
+A/AT0  paper/NN1  which/DTQ  I/PNP  and/CJC  colleagues/NN2  in/PRP
+Grampian/NP0  prepared/VVD  for/PRP  Scottish/AJ0  General/AJ0-NN1
+Medical/AJ0  Services/NN2  Committee/NN0  posed/VVD  the/AT0
+questions/NN2  does/VDZ  this/DT0  present/VVI  an/AT0
+opportunity/NN1  for/PRP  general/AJ0  practice/NN1  to/TO0  have/VHI
+greater/AJC  influence/NN1  in/PRP  the/AT0  provision/NN1  of/PRF
+health/NN1  care/NN1-VVB  for/PRP  our/DPS  patients/NN2 ?/PUN
+does/VDZ  it/PNP  put/VVI  general/AJ0  practice/NN1  in/PRP  the/AT0
+driving/AJ0  seat/NN1  in/PRP  helping/NN1-VVG  to/TO0  determine/VVI
+the/AT0  range/NN1  and/CJC  quality/NN1  of/PRF  health/NN1
+service/NN1  provision/NN1 ?/PUN  or/CJC  might/VM0  it/PNP
+constitute/VVI  an/AT0  intolerable/AJ0  administrative/AJ0
+burden/NN1  on/PRP  the/AT0  constrained/AJ0  resources/NN2  of/PRF
+an/AT0  increasingly/AV0  cash/NN1-VVB  limited/AJ0-VVD
+primary/AJ0-NN1  care/NN1  service/NN1 ?/PUN
+
+
+
+In/PRP  a/AT0  characteristically/AV0  pragmatic/AJ0  way/NN1 ,/PUN
+the/AT0  BMA/NN1  in/PRP  Scotland/NP0  persuaded/VVD  the/AT0
+government/NN0  to/TO0  allow/VVI  the/AT0  proposals/NN2  to/TO0
+be/VBI  tested/VVN ./PUN
+
+A/AT0  shadow/NN1  fundholding/VVG  exercise/NN1  was/VBD  agreed/VVN
+that/CJT  would/VM0  be/VBI  independently/AV0  evaluated/VVN  to/TO0
+assess/VVI  the/AT0  effects/NN2  on/PRP  the/AT0  care/NN1  of/PRF
+patients/NN2  and/CJC  look/NN1-VVB  at/PRP  the/AT0
+administration/NN0  structures/NN2 ,/PUN  consulting/VVG
+patterns/NN2 ,/PUN  and/CJC  use/NN1  of/PRF  doctors/NN2/POS '
+time/NN1 ./PUN
+
+
+Shadow/NN1-VVB  fundholding/VVG
+
+
+Six/CRD  groups/NN2  of/PRF  general/AJ0  practitioners/NN2  in/PRP
+the/AT0  north/NN1  east/NN1  of/PRF  Scotland/NP0  were/VBD
+identified/VVN  for/PRP  the/AT0  exercise/NN1  in/PRP  the/AT0
+first/ORD  three/CRD  months/NN2  of/PRF  1990/CRD  -/PUN
+five/CRD  in/PRP  Grampian/NP0  and/CJC  one/CRD  in/PRP
+Tayside/NP0 ./PUN
+
+The/AT0  evaluation/NN1  was/VBD  and/CJC  continues/VVZ  to/TO0
+be/VBI  conducted/VVN  by/PRP  the/AT0  Department/NN0  of/PRF
+General/AJ0  Practice/NN1  of/PRF  the/AT0  University/NP0  of/PRF
+Edinburgh/NP0  under/PRP  Professor/NP0  John/NP0  Howie/NP0 ./PUN
+
+The/AT0  exercise/NN1  was/VBD  regarded/VVN  by/PRP  the/AT0
+then/AV0  minister/NN1-VVB  for/PRP  health/NN1  in/PRP
+Scotland/NP0 ,/PUN  Michael/NP0  Forsyth/NP0 ,/PUN  as/CJS-PRP  a/AT0
+piece/NN1  of/PRF  "/PUQ action/NN1 "/PUQ
+research/NN1 ,/PUN  the/AT0  results/NN2  of/PRF  which/DTQ
+would/VM0  be/VBI  made/VVN  known/VVN  at/PRP  intervals/NN2
+during/PRP  the/AT0  evaluation/NN1 ./PUN
+
+In/PRP  fact/NN1 ,/PUN  the/AT0  first/ORD  report/NN1
+appeared/VVD-VVN  in/PRP  July/NP0  1992/CRD  and/CJC  was/VBD
+mainly/AV0  a/AT0  description/NN1  of/PRF  the/AT0  evaluation/NN1
+process/NN1 ./PUN
+
+Its/DPS  summary/NN1  pointed/VVD-VVN  out/AVP  that/CJT-DT0
+around/AV0  10/CRD  years/NN2  would/VM0  be/VBI  needed/VVN  to/TO0
+appreciate/VVI  the/AT0  full/AJ0  implications/NN2  of/PRF  such/DT0
+a/AT0  fundamental/AJ0  change/NN1  in/PRP  the/AT0  organisation/NN1
+of/PRF  health/NN1  services/NN2  -/PUN  so/CJS  much/AV0
+ for/PRP  action/NN1  research/NN1 ./PUN
+
+However/AV0 ,/PUN  publication/NN1  of/PRF  a/AT0  second/ORD
+report/NN1  is/VBZ  imminent/AJ0 ./PUN  
+
+
+Brimmond/NN1-NP0  Medical/AJ0  Group/NN0 's/POS  experiment/NN1
+with/PRP  "/PUQ total/AJ0 "/PUQ  fundholding/NN1  may/VM0
+point/VVI  the/AT0  way/NN1  ahead/AV0
+
+
+The/AT0  shadow/NN1  fundholding/VVG  exercise/NN1  was/VBD
+focused/VVN  in/PRP  Grampian/NP0  because/PRP of  the/AT0
+readiness/NN1  and/CJC  willing/AJ0  cooperation/NN1  of/PRF  the/AT0
+health/NN1  board/NN1  and/CJC  the/AT0  enthusiasm/NN1  of/PRF
+practices/NN2  of/PRF  suitable/AJ0  size/NN1  in/PRP  Grampian/NP0
+to/TO0  test/VVI  out/AVP  fundholding/VVG ./PUN
+
+Relationships/NN2  between/PRP  practices/NN2  and/CJC  the/AT0
+primary/AJ0  care/NN1  division/NN0  in/PRP  Grampian/NP0  have/VHB
+traditionally/AV0  been/VBN  close/AJ0  and/CJC  officials/NN2
+have/VHB ,/PUN  on/PRP  the/AT0  whole/NN1 ,/PUN  been/VBN
+supportive/AJ0  of/PRF  efforts/NN2  to/TO0  ensure/VVI  high/AJ0
+standards/NN2  of/PRF  general/AJ0  practice/NN1 ./PUN
+
+
+
+The/AT0  exercise/NN1  allowed/VVD-VVN  the/AT0  practices/NN2 ,/PUN
+health/NN1  board/NN1 ,/PUN  and/CJC  hospitals/NN2  to/TO0  work/VVI
+together/PRP with  the/AT0  Department/NN0  of/PRF  Health/NN1
+to/TO0  develop/VVI  fundholding/VVG  without/PRP  the/AT0
+anxieties/NN2  of/PRF  dealing/VVG  in/PRP  real/AJ0  money/NN1 ./PUN
+
+In/AV0 particular ,/PUN  it/PNP  enabled/VVD  the/AT0  practices/NN2
+to/TO0  gain/VVI  experience/NN1  and/CJC  confidence/NN1  in/PRP
+setting/VVG  up/AVP-PRP  computer/NN1  systems/NN2  and/CJC
+staffing/AJ0-VVG  arrangements/NN2  before/PRP  committing/VVG
+themselves/PNX  to/PRP  fundholding/NN1-VVG ./PUN
+
+Some/DT0  of/PRF  the/AT0  difficulties/NN2  encountered/VVD-VVN
+in/PRP  England/NP0  have/VHB  arisen/VVN  from/PRP
+miscalculations/NN2  in/PRP  setting/NN1-VVG  funds/NN2 ,/PUN  because
+of/PRP  general/AJ0  practitioners/NN2/POS '  uncertainty/NN1
+about/PRP  costs/NN2 ./PUN
+
+In/PRP  Grampian/NP0  difficulties/NN2  with/PRP  the/AT0  GPass/NN1
+computer/NN1  system/NN1  delayed/VVD  the/AT0  development/NN1
+of/PRF  fundholding/NN1-VVG ,/PUN  and/CJC  these/DT0  problems/NN2
+are/VBB  still/AV0  being/VBG  overcome/VVN ./PUN
+
+However/AV0 ,/PUN  the/AT0  initial/AJ0  experience/NN1  was/VBD
+sufficiently/AV0  encouraging/AJ0  for/PRP  all/DT0  the/AT0
+practices/NN2  to/TO0  proceed/VVI  to/PRP  real/AJ0
+fundholding/NN1-VVG  in/PRP  October/NP0  1991/CRD ./PUN
+
+
+Further/AJC  developments/NN2
+
+
+Fundholding/NP0  was/VBD  initially/AV0  limited/VVD-VVN  to/PRP
+practices/NN2  with/PRP  list/NN1  sizes/NN2  of/PRF  at/AV0 least
+11/CRD  000/CRD  patients/NN2 ,/PUN  which/DTQ  meant/VVD  that/CJT
+few/DT0  practices/NN2  in/PRP  Scotland/NP0  were/VBD
+eligible/AJ0 ./PUN
+
+The/AT0  minimum/AJ0  list/NN1  size/NN1  was/VBD  subsequently/AV0
+lowered/VVN  to/PRP  9000/CRD  patients/NN2  and/CJC  has/VHZ
+now/AV0  been/VBN  further/AV0  reduced/VVD-VVN  to/PRP
+6000/CRD ./PUN
+
+Twelve/CRD  smaller/AJC  practices/NN2  were/VBD  recruited/VVN
+to/PRP  the/AT0  shadow/NN1  fundholding/NN1-VVG  exercise/NN1
+in/PRP  1991/CRD  to/TO0  test/VVI  the/AT0  feasibility/NN1  of/PRF
+fundholding/VVG  with/PRP  smaller/AJC  list/NN1  sizes/NN2 ./PUN
+
+In/AV0 addition ,/PUN  my/DPS  practice/NN1  is/VBZ
+participating/VVG  in/PRP  a/AT0  scheme/NN1  that/CJT  involves/VVZ
+fundholding/VVG  for/PRP  the/AT0  whole/AJ0  range/NN1  of/PRF
+hospital/NN1  and/CJC  community/NN0  services/NN2  with/PRP  the/AT0
+exception/NN1  of/PRF  accident/NN1  and/CJC  emergency/NN1  and/CJC
+sexually/AV0  transmitted/AJ0  disease/NN1 ./PUN
+
+This/DT0  is/VBZ  designed/VVN  to/TO0  test/VVI  the/AT0
+feasibility/NN1  of/PRF  extending/NN1-VVG  fundholding/AJ0-VVG
+to/TO0  cover/VVI  all/DT0  services/NN2  and/CJC  not/XX0  just/AV0
+the/AT0  limited/AJ0  range/NN1  of/PRF  services/NN2  at/AV0 present
+included/VVD-VVN  -/PUN  which/DTQ  represents/VVZ  only/AV0
+about/PRP  20%/NN0  of/PRF  services/NN2  purchased/VVD-VVN  from/PRP
+providers/NN2 ./PUN
+
+On/PRP  paper/NN1  we/PNP  have/VHB  a/AT0  nominal/AJ0  fund/NN1
+of/PRF  &pound;2.3m/NN0  covering/VVG  our/DPS  8000/CRD
+patients/NN2 ./PUN
+
+
+
+My/DPS  practice/NN1  has/VHZ  not/XX0  encountered/VVN  serious/AJ0
+practical/AJ0  problems/NN2  different/AJ0  from/PRP  those/DT0
+of/PRF  other/AJ0  fundholders/NN2  and/CJC  it/PNP  seems/VVZ
+to/TO0  remove/VVI  some/DT0  of/PRF  the/AT0  difficulties/NN2
+of/PRF  the/AT0  existing/AJ0  scheme/NN1  in/PRP  that/DT0  it/PNP
+resolves/VVZ  the/AT0  problem/NN1  of/PRF  what/DTQ  referrals/NN2
+are/VBB  within/PRP  the/AT0  range/NN1  of/PRF  services/NN2
+that/CJT  can/VM0  be/VBI  purchased/VVN ./PUN
+
+The/AT0  administrative/AJ0  burden/NN1  is/VBZ  increased/VVN
+but/CJC  the/AT0  processes/NN2  are/VBB  the/AT0  same/DT0  as/CJS
+those/DT0  already/AV0  in/PRP  place/NN1  for/PRP
+fundholding/NN1-VVG ./PUN
+
+Hospitals/NN2  have/VHB  to/TO0  provide/VVI  costings/NN2  for/PRP
+those/DT0  procedures/NN2 ,/PUN  admissions/NN2 ,/PUN  and/CJC
+care/VVB  not/XX0  included/VVN  in/PRP  the/AT0  fundholding/AJ0
+scheme/NN1 ./PUN
+
+I/PNP  have/VHB  found/VVN  this/DT0  quite/AV0  revealing/VVG
+-/PUN  &pound;28/NN0  000/CRD  a/AT0  year/NN1  for/PRP
+geriatric/AJ0  NHS/NP0  long/AV0  stay/NN1-VVB  and/CJC  over/AV0
+&pound;30/NN0  000/CRD  a/AT0  year/NN1  for/PRP  psychogeriatric/AJ0
+long/AJ0  stay/NN1 ./PUN
+
+With/PRP  certain/AJ0  safeguards/NN2  for/PRP  patients/NN2
+who/PNQ ,/PUN  for/AV0 example ,/PUN  may/VM0  require/VVI  liver/NN1
+transplants/NN2-VVZ  in/PRP  Philadelphia/NP0  full/AJ0  range/NN1
+fundholding/NN1-VVG  seems/VVZ  a/AT0  realistic/AJ0
+possibility/NN1 ./PUN
+
+
+Enabling/VVG  general/AJ0  practitioners/NN2
+
+
+For/PRP  me/PNP  however/AV0 ,/PUN  the/AT0  biggest/AJS  eye/NN1
+opener/NN1  was/VBD  when/AVQ  I/PNP  joined/VVD  the/AT0
+fundholder/NN1  group/NN0  in/PRP  Grampian/NP0  and/CJC  their/DPS
+meetings/NN2  with/PRP  the/AT0  provider/NN1  units/NN2 ./PUN
+
+These/DT0  meetings/NN2  focused/VVD-VVN  on/PRP  services/NN2
+provided/VVD-VVN  and/CJC  on/PRP  quality/NN1  issues/NN2  with/PRP a
+view to  modifying/AJ0-VVG  contracts/NN2  to/TO0  improve/VVI
+the/AT0  service/NN1  to/PRP  patients/NN2 ./PUN
+
+Issues/NN2  discussed/VVD-VVN  included/VVD-VVN  waiting/AJ0-VVG
+times/NN2 ,/PUN  return/NN1-VVB  of/PRF  letters/NN2  and/CJC
+reports/NN2-VVZ  to/PRP  practices/NN2 ,/PUN  and/CJC  the/AT0
+need/NN1  for/PRP  outpatients/NN2  to/TO0  be/VBI  seen/VVN  by/PRP
+a/AT0  consultant/NN1 ./PUN
+
+Experience/NN1-VVB  on/PRP  statutory/AJ0  advisory/AJ0
+committees/NN2  to/PRP  the/AT0  health/NN1  board/NN1  has/VHZ
+shown/VVN  me/PNP  how/AVQ  slow/AJ0  and/CJC  often/AV0
+ineffectual/AJ0  they/PNP  are/VBB ./PUN
+
+Hospital/NN1  services/NN2  were/VBD  developed/VVN  without/PRP
+general/AJ0  practitioners/NN2  being/VBG  asked/VVN  whether/CJS
+they/PNP  were/VBD  required/VVN  and/CJC  often/AV0  at/PRP  the/AT0
+expense/NN1  of/PRF  the/AT0  more/DT0  routine/NN1  but/CJC
+essential/AJ0  treatment/NN1  our/DPS  patients/NN2
+required/VVD-VVN ./PUN
+
+Most/DT0  general/AJ0  practitioners/NN2  accepted/VVD-VVN  that/CJT
+the/AT0  service/NN1  delivered/VVD  was/VBD  what/DTQ  you/PNP
+got/VVD  and/CJC  I/PNP  have/VHB  often/AV0  had/VHN  to/TO0
+persuade/VVI  the/AT0  patient/AJ0-NN1  to/TO0  accept/VVI
+that/DT0 ./PUN
+
+It/PNP  was/VBD  therefore/AV0  very/AV0  refreshing/AJ0  to/TO0
+find/VVI  a/AT0  group/NN0  of/PRF  general/AJ0  practitioners/NN2
+meeting/VVG  with/PRP  managers/NN2  and/CJC  spelling/VVG  out/AVP
+precisely/AV0  what/DTQ  they/PNP  wanted/VVD  and/CJC ,/PUN
+through/PRP  the/AT0  contracting/AJ0  process/NN1 ,/PUN
+beginning/VVG  to/TO0  see/VVI  the/AT0  possibility/NN1  of/PRF
+achieving/VVG  it/PNP ./PUN
+
+
+
+I/PNP  will/VM0  give/VVI  you/PNP  one/CRD  example/NN1  of/PRF
+general/AJ0  practitioners/NN2/POS '  influence/NN1 ./PUN
+
+One/CRD  of/PRF  the/AT0  hospitals/NN2  in/PRP  Grampian/NP0
+had/VHD  spare/AJ0  capacity/NN1  in/PRP  radiology/NN1  and/CJC
+made/VVD-VVN  a/AT0  presentation/NN1  to/PRP  the/AT0
+fundholding/AJ0-NN1  group/NN0 ./PUN
+
+Referrals/NN2  would/VM0  be/VBI  seen/VVN  within/PRP  a/AT0
+week/NN1  and/CJC  reports/NN2  sent/VVD-VVN  out/AVP  the/AT0
+same/DT0  day/NN1 ,/PUN  by/PRP  fax/NN1  if/CJS  necessary/AJ0 ./PUN
+
+The/AT0  other/AJ0  and/CJC  main/AJ0  hospital/NN1  providing/VVG
+radiology/NN1  had/VHD  a/AT0  waiting/AJ0  time/NN1  of/PRF  up
+to/AV0  nine/CRD  weeks/NN2  with/PRP  no/AT0  prospect/NN1  of/PRF
+the/AT0  additional/AJ0  staff/NN0  needed/VVD-VVN  to/TO0
+reduce/VVI  this/DT0 ./PUN
+
+Yet/AV0  within/PRP  a/AT0  month/NN1  it/PNP  had/VHD  received/VVN
+additional/AJ0  funding/NN1  and/CJC  increased/AJ0-VVD  sessions/NN2
+and/CJC  would/VM0  be/VBI  able/AJ0  to/TO0  meet/VVI  demands/NN2
+previously/AV0  unattainable/AJ0 ./PUN
+
+
+
+So/AV0  what/DTQ  is/VBZ  the/AT0  current/AJ0  position/NN1  in/PRP
+Grampian/NP0 ?/PUN
+
+The/AT0  five/CRD  practices/NN2  that/CJT  took/VVD  part/NN1
+in/PRP  the/AT0  shadow/NN1  exercise/NN1  became/VVD  real/AJ0
+fundholders/NN2  in/PRP  October/NP0  1991/CRD  and/CJC  two/CRD
+other/AJ0  practices/NN2  are/VBB  participating/VVG  in/PRP  the/AT0
+small/AJ0  practice/NN1  shadow/NN1-VVB  exercise/NN1 ./PUN
+
+Other/AJ0  practices/NN2  have/VHB  applied/VVN  to/TO0  become/VVI
+fundholders/NN2  so/CJS that  in/PRP  April/NP0  1993/CRD  there/EX0
+will/VM0  be/VBI  25/CRD  fundholding/AJ0  practices/NN2
+involving/VVG  145/CRD  of/PRF  the/AT0  320/CRD  general/AJ0
+practitioners/NN2  in/PRP  Grampian/NP0  covering/VVG  248/CRD
+000/CRD  or/CJC  47%/NN0  of/PRF  the/AT0  population/NN1 ./PUN
+
+Still/AV0  more/DT0  practices/NN2  intend/VVB  to/TO0  become/VVI
+fundholders/NN2  in/PRP  1994/CRD ./PUN
+
+
+Negotiating/VVG  contracts/NN2-VVZ
+
+
+The/AT0  growth/NN1  in/PRP  fundholding/NN1-VVG  poses/NN2-VVZ
+problems/NN2  for/PRP  negotiations/NN2  and/CJC  the/AT0  first/ORD
+moves/NN2-VVZ  in/PRP  setting/VVG  up/AVP-PRP  the/AT0  Grampian/NP0
+Association/NN0  of/PRF  Fundholding/VVG  Practices/NN2  are/VBB
+under/AV0 way ./PUN
+
+There/EX0  are/VBB  also/AV0  to/TO0  be/VBI  three/CRD
+subgroups/NN2  of/PRF  monitoring/AJ0-VVG  committees/NN2  which/DTQ
+will/VM0  ensure/VVI  adherence/NN1  to/PRP  contracts/NN2 ./PUN
+
+The/AT0  executive/NN0  committee/NN0  of/PRF  the/AT0
+association/NN1  will/VM0  negotiate/VVI  the/AT0  broad/AJ0
+contractual/AJ0  issues/NN2  with/PRP  providers/NN2  with/PRP
+detail/NN1  being/VBG  resolved/VVN  directly/AV0  between/PRP
+fundholding/AJ0-VVG  practices/NN2  and/CJC  providers/NN2 ./PUN
+
+Providers/NN2  include/VVB  the/AT0  private/AJ0  sector/NN1 ,/PUN
+which/DTQ  is/VBZ  keen/AJ0  to/TO0  compete/VVI  with/PRP  the/AT0
+NHS/NP0  and/CJC  match/VVI  costs/NN2 ./PUN
+
+Opportunities/NN2  to/TO0  enter/VVI  into/PRP  contracts/NN2
+with/PRP  providers/NN2  outside/PRP  Grampian/NP0  exist/VVB
+and/CJC  practices/NN2  are/VBB  looking/VVG  to/TO0  develop/VVI
+services/NN2  in/PRP  house/NN1 ./PUN
+
+
+
+The/AT0  health/NN1  board/NN1 ,/PUN  which/DTQ  negotiates/VVZ
+contracts/NN2  for/PRP  non-fundholders/NN2 ,/PUN  is/VBZ  to/TO0
+be/VBI  represented/VVN  in/PRP  the/AT0  negotiations/NN2
+between/PRP  providers/NN2  and/CJC  fundholders/NN2 ./PUN
+
+This/DT0  will/VM0  keep/VVI  the/AT0  board/NN1  informed/VVD-VVN
+of/PRF  fundholders/NN2/POS '  efforts/NN2  to/TO0  
+secure/VVI  high/AJ0  standards/NN2  and/CJC  improved/AJ0-VVD
+quality/NN1  of/PRF  care/NN1 ./PUN
+
+It/PNP  is/VBZ  also/AV0  proposed/VVD-VVN  to/TO0  include/VVI
+a/AT0  non-fundholding/AJ0  general/AJ0-NN1  practitioner/NN1  on/PRP
+the/AT0  committee/NN0  as/CJS  it/PNP  has/VHZ  been/VBN  a/AT0
+policy/NN1  to/TO0  try/VVI  to/TO0  ensure/VVI  that/CJT-DT0
+two/CRD  tier/NN1  service/NN1  does/VDZ  not/XX0  develop/VVI ./PUN
+
+It/PNP  remains/VVZ  to/TO0  be/VBI  seen/VVN  whether/CJS  this/DT0
+is/VBZ  practicable/AJ0 ./PUN
+
+Provider/NN1-NP0  units/NN2  have/VHB  expressed/VVN  fears/VVZ
+that/CJT-DT0  fundholders/NN2  might/VM0  seek/VVI  advantage/NN1
+through/PRP  contracts/NN2 ./PUN
+
+As/CJS-PRP  the/AT0  contracting/AJ0  process/NN1  evolves/VVZ
+individual/AJ0  practices/NN2  might/VM0  try/VVI  to/TO0  make/VVI
+their/DPS  contracts/NN2  more/AV0  specific/AJ0 ,/PUN  but/CJC
+identifying/AJ0-VVG  patients/NN2  from/PRP  such/DT0  practices/NN2
+to/TO0  meet/VVI  different/AJ0  contractual/AJ0  demands/NN2
+might/VM0  prove/VVI  expensive/AJ0  for/PRP  the/AT0  provider/NN1
+units/NN2 ./PUN
+
+This/DT0  should/VM0  result/VVI  in/PRP  fundholders/NN2
+setting/VVG  the/AT0  pace/NN1  and/CJC  others/NN2
+benefiting/VVG ./PUN
+
+
+
+A/AT0  fundamental/AJ0  problem/NN1  is/VBZ  funding/VVG  the/AT0
+development/NN1  of/PRF  the/AT0  contracting/AJ0  process/NN1 ./PUN
+
+Operating/VVG  a/AT0  consortium/NN1  approach/NN1  will/VM0
+require/VVI  some/DT0  form/NN1  of/PRF  management/NN0
+structure/NN1  among/PRP  general/AJ0  practitioners/NN2 ./PUN
+
+Yet/AV0  most/AV0  existing/AJ0  fundholders/NN2  find/VVB  they/PNP
+do/VDB  not/XX0  have/VHI  the/AT0  available/AJ0  money/NN1
+as/CJS-PRP  their/DPS  management/NN0  fees/NN2  are/VBB  fully/AV0
+committed/VVN  within/PRP  their/DPS  practices/NN2 ./PUN
+
+One/CRD  of/PRF  the/AT0  major/AJ0  trusts/NN2  in/PRP  Grampian/NP0
+is/VBZ  seeking/AJ0-VVG  &pound;1.5m/NN0  to/TO0  develop/VVI
+contract/NN1  setting/NN1-VVG  and/CJC  monitoring/AJ0-VVG  and/CJC
+has/VHZ  given/VVN  a/AT0  contract/NN1  to/PRP  a/AT0  firm/NN1
+of/PRF  management/NN0  consultants/NN2  to/TO0  handle/VVI
+contracting/AJ0  issues/NN2  with/PRP  fundholders/NN2 ./PUN
+
+From/PRP  the/AT0  general/AJ0  practice/NN1  side/NN1  this/DT0
+matter/NN1  is/VBZ  being/VBG  urgently/AV0  discussed/VVD-VVN
+with/PRP  both/DT0  the/AT0  health/NN1  board/NN1  and/CJC
+management/NN0  executive/NN0 ./PUN
+
+
+
+In/PRP  conclusion/NN1 ,/PUN  I/PNP  hope/VVB  you/PNP  can/VM0
+see/VVI  the/AT0  enormous/AJ0  challenge/NN1  fundholding/NN1-VVG
+is/VBZ  posing/VVG ,/PUN  and/CJC  how/AVQ  it/PNP  is/VBZ  an/AT0
+opportunity/NN1  to/TO0  make/VVI  the/AT0  health/NN1  service/NN1
+responsive/AJ0  to/PRP  our/DPS  needs/NN2  as/CJS-PRP  general/AJ0
+practitioners/NN2  acting/VVG  on/PRP behalf of  our/DPS
+patients/NN2 ./PUN
+
+The/AT0  huge/AJ0  investment/NN1  in/PRP  computers/NN2 ,/PUN
+staff/NN0 ,/PUN  and/CJC  administration/NN0  has/VHZ  the/AT0
+potential/AJ0-NN1  to/TO0  improve/VVI  the/AT0  health/NN1
+service/NN1  by/PRP  making/VVG  it/PNP  more/AV0  responsive/AJ0
+to/PRP  patients/NN2/POS '  needs/NN2  and/CJC  raising/AJ0-VVG
+awareness/NN1  of/PRF  costs/NN2 ./PUN
+
+
+The/AT0  fundholding/AJ0  debate/NN1 :/PUN  should/VM0  practices/NN2
+reconsider/VVI  the/AT0  decision/NN1  not/XX0  to/TO0
+fundhold/VVI ?/PUN
+
+
+We/PNP  are/VBB  entering/VVG  a/AT0  period/NN1  of/PRF
+deterioration/NN1  in/PRP  health/NN1  care/NN1  services/NN2 ./PUN
+
+The/AT0  waste/NN1  and/CJC  inefficiency/NN1  predicted/VVD-VVN
+by/PRP  opponents/NN2  of/PRF  the/AT0  introduction/NN1  of/PRF
+market/NN1  mechanisms/NN2  into/PRP  the/AT0  NHS/NP0  are/VBB
+already/AV0  becoming/VVG  evident/AJ0 ./PUN
+
+Rapidly/AV0  increasing/VVG  administrative/AJ0  costs/NN2  are/VBB
+contributing/VVG  to/PRP  reductions/NN2  in/PRP  service/NN1
+despite/PRP  increased/AJ0  expenditure/NN1 ./PUN
+
+Unrealistic/AJ0  assumptions/NN2  are/VBB  being/VBG  made/VVN
+about/PRP  the/AT0  extent/NN1  to/PRP  which/DTQ  -/PUN
+and/CJC  the/AT0  speed/NN1  with/PRP  which/DTQ  -/PUN
+the/AT0  need/NN1  for/PRP  hospitals/NN2  can/VM0  be/VBI
+reduced/VVN  by/PRP  technological/AJ0  advance/NN1  and/CJC
+improvements/NN2  in/PRP  primary/AJ0  care/NN1 ./PUN
+
+
+
+For/PRP  primary/AJ0-NN1  care/NN1-VVB  the/AT0  most/AV0
+painful/AJ0  consequences/NN2  of/PRF  the/AT0  reform/NN1
+stem/NN1-VVB  from/PRP  the/AT0  cash/NN1  limiting/NN1-VVG  of/PRF
+services/NN2  in/PRP  the/AT0  face/NN1  of/PRF  rising/AJ0-VVG
+demands/NN2  and/CJC  costs/NN2 ./PUN
+
+Cash/NN1  limits/NN2-VVZ  will/NN1  in/PRP  future/NN1  apply/VVB
+to/PRP  fundholders/NN2  and/CJC  non-fundholders/NN2
+alike/AV0 ./PUN
+
+The/AT0  very/AV0  generous/AJ0  terms/NN2  on/PRP  offer/NN1  to/PRP
+early/AJ0  fundholders/NN2  are/VBB  unlikely/AJ0  to/TO0
+continue/VVI :/PUN  the/AT0  crisis/NN1  in/PRP  the/AT0  economy/NN1
+and/CJC  the/AT0  ensuing/AJ0  pressure/NN1  on/PRP  public/AJ0
+spending/NN1  will/VM0  accelerate/VVI  the/AT0  move/NN1  to/PRP
+greater/AJC  stringency/NN1  in/PRP  this/DT0  area/NN1 ./PUN
+
+Many/DT0  fundholding/AJ0-VVG  practices/NN2  are/VBB  already/AV0
+making/VVG  loud/AJ0-AV0  protest/NN1-VVB  at/PRP  the/AT0
+reduced/AJ0  funds/NN2  on/PRP  offer/NN1  as/CJS-PRP  regions/NN2
+move/VVB  to/PRP  more/DT0  equitable/AJ0  methods/NN2  of/PRF
+allocation/NN1  based/VVN  on/PRP  capitation/NN1 ./PUN
+
+
+
+In/PRP  imagining/VVG  what/DTQ  it/PNP  would/VM0  be/VBI  like/AJ0
+to/TO0  be/VBI  fundholders/NN2  in/PRP  future/NN1  we/PNP
+should/VM0  assume/VVI  that/CJT-DT0  overall/AJ0  adequacy/NN1
+of/PRF  funding/VVG  for/PRP  health/NN1  care/NN1  will/VM0  be/VBI
+less/AV0  than/CJS  we/PNP  have/VHB  previously/AV0  known/VVN ./PUN
+
+The/AT0  key/AJ0  question/NN1  is/VBZ  whether/CJS  greater/AJC
+freedom/NN1  to/TO0  decide/VVI  on/PRP  the/AT0  distribution/NN1
+of/PRF  funding/VVG  between/PRP  drugs/NN2 ,/PUN  staff/NN0
+pay/NN1 ,/PUN  referrals/NN2 ,/PUN  and/CJC  community/NN0  care/NN1
+will/VM0  be/VBI  a/AT0  boom/NN1  or/CJC  a/AT0  burden/NN1 ./PUN
+
+We/PNP  should/VM0  consider/VVI  whether/CJS  taking/VVG  on/AVP
+this/DT0  role/NN1 ,/PUN  in/PRP  a/AT0  context/NN1  of/PRF
+inadequate/AJ0  overall/AJ0-NN1  expenditure/NN1 ,/PUN  might/VM0
+not/XX0  increase/VVI  our/DPS  administrative/AJ0  workload/NN1
+and/CJC  the/AT0  level/NN1  of/PRF  stress/NN1  from/PRP  our/DPS
+clinical/AJ0  work/NN1  and/CJC  adversely/AV0  affect/VVB  our/DPS
+relationships/NN2  with/PRP  our/DPS  patients/NN2 ,/PUN  our/DPS
+staff/NN0 ,/PUN  and/CJC  each/PNX other ./PUN
+
+
+
+Many/DT0  practices/NN2  have/VHB  so/AV0  far/AV0  opted/VVN
+not/XX0  to/TO0  take/VVI  the/AT0  inducements/NN2  to/TO0
+fundhold/VVI ,/PUN  and/CJC  some/DT0  have/VHI  invested/VVN  a/AT0
+considerable/AJ0  amount/NN1  of/PRF  time/NN1  and/CJC  energy/NN1
+into/PRP  alternative/AJ0  methods/NN2  of/PRF  organising/VVG
+general/AJ0  practitioners/NN2/POS '  input/NN1  into/PRP
+purchasing/AJ0-VVG  decisions/NN2 ./PUN
+
+Has/VHZ  the/AT0  time/NN1  come/VVB  to/TO0  change/VVI
+course/NN1 ?/PUN
+
+I/PNP  think/VVB  not/XX0 :/PUN  these/DT0  are/VBB  the/AT0
+reasons/NN2  why/AVQ ./PUN
+
+
+Reasons/NN2  for/PRP  not/XX0  fundholding/VVG
+
+
+(/PUL 1/CRD )/PUR    Greatly/AV0  increased/VVD-VVN
+administrative/AJ0  workload/NN1    -/PUN  Even/AV0
+with/PRP  the/AT0  existing/AJ0  generous/AJ0  management/NN0
+and/CJC  computerisation/NN1  allowances/NN2 ,/PUN
+fundholding/NN1-VVG  involves/VVZ  general/AJ0  practitioners/NN2
+in/PRP  considerable/AJ0  extra/AJ0  administrative/AJ0
+work/NN1 ,/PUN  over/AVP  and/CJC  above/AV0  that/CJT-DT0
+already/AV0  entailed/VVD-VVN  by/PRP  the/AT0  new/AJ0
+contract/NN1 ./PUN
+
+With/PRP  an/AT0  extension/NN1  of/PRF  the/AT0  services/NN2
+covered/VVN  by/PRP  the/AT0  fund/NN1 ,/PUN  and/CJC  a/AT0
+reduction/NN1  in/PRP  management/NN0  allowances/NN2  as/CJS-PRP
+more/DT0  practices/NN2  take/VVB  funds/NN2 ,/PUN  this/DT0
+additional/AJ0  workload/NN1  will/VM0  increase/VVI  and/CJC
+the/AT0  rewards/NN2  will/VM0  dwindle/VVI ./PUN
+
+Few/DT0  of/PRF  us/PNP  truly/AV0  enjoy/VVB  administrative/AJ0
+work/NN1 ,/PUN  and/CJC  the/AT0  time/NN1  that/CJT  we/PNP
+spend/VVB  on/PRP  it/PNP  is/VBZ  lost/VVN  from/PRP  direct/AJ0
+contact/NN1  with/PRP  our/DPS  patients/NN2  -/PUN  or/CJC
+our/DPS  families/NN2 ./PUN
+
+
+
+(/PUL 2/CRD )/PUR    Conflict/NN1-VVB  with/PRP  the/AT0
+general/AJ0  practitioner/NN1 's/POS  role/NN1  as/PRP  the/AT0
+patient/NN1 's/POS  advocate/NN1    -/PUN  Fundholding/NP0
+gives/VVZ  general/AJ0  practitioners/NN2  an/AT0  explicit/AJ0
+and/CJC  visible/AJ0  responsibility/NN1  for/PRP  rationing/VVG
+the/AT0  health/NN1  services/NN2  made/VVD-VVN  available/AJ0
+to/PRP  their/DPS  own/DT0  patients/NN2 ./PUN
+
+This/DT0  conflict/NN1  of/PRF  interest/NN1  may/VM0  undermine/VVI
+our/DPS  patients/NN2/POS '  trust/NN1  that/CJT  our/DPS
+decisions/NN2  on/AVP-PRP  whether/CJS or not  to/TO0
+treat/VVI ,/PUN  investigate/NN1-VVB ,/PUN  or/CJC  refer/VVB
+are/VBB  based/VVN  solely/AV0  on/PRP  their/DPS  needs/NN2  rather
+than/PRP  on/PRP  what/DTQ  the/AT0  fund/NN1  can/VM0
+afford/VVI ./PUN
+
+Such/DT0  distrust/NN1  may/VM0  extend/VVI  to/PRP  the/AT0
+suspicion/NN1  that/CJT  our/DPS  decisions/NN2  may/VM0  be/VBI
+influenced/VVN  by/PRP  personal/AJ0  financial/AJ0  self/NN1
+interest/NN1 ./PUN
+
+This/DT0  perception/NN1 ,/PUN  however/AV0  unfounded/AJ0  it/PNP
+may/VM0  be/VBI ,/PUN  has/VHZ  the/AT0  potential/AJ0-NN1  to/TO0
+complicate/VVI  many/DT0  consultations/NN2  every/AT0  working/AJ0
+day/NN1  of/PRF  our/DPS  lives/NN2 ./PUN
+
+The/AT0  more/DT0  inadequate/AJ0  that/CJT  overall/AJ0-AV0
+funding/NN1-VVG  of/PRF  services/NN2  becomes/VVZ ,/PUN  the/AT0
+more/DT0  this/DT0  problem/NN1  will/VM0  become/VVI  a/AT0
+reality/NN1 ./PUN
+
+For/PRP  patients/NN2 ,/PUN  continued/AJ0-VVD  trust/NN1  in/PRP
+the/AT0  basis/NN1  for/PRP  their/DPS  doctor/NN1 's/POS
+decisions/NN2  is/VBZ  worth/PRP  more/DT0  than/CJS  the/AT0
+possibility/NN1  of/PRF  quicker/AJC  access/NN1  to/PRP
+elective/AJ0  surgery/NN1 ./PUN
+
+The/AT0  fact/NN1  that/CJT  we/PNP  already/AV0  participate/VVB
+in/PRP  certain/AJ0  ways/NN2  in/PRP  what/DTQ  are/VBB
+effectively/AV0  rationing/AJ0-VVG  decisions/NN2  does/VDZ  not/XX0
+constitute/VVI  an/AT0  argument/NN1  for/PRP  greatly/AV0
+increasing/VVG  the/AT0  scope/NN1  and/CJC  visibility/NN1  of/PRF
+that/DT0  role/NN1 ./PUN
+
+
+
+(/PUL 3/CRD )/PUR    Implicit/AJ0  acceptance/NN1  of/PRF
+responsibility/NN1  for/PRP  providing/VVG  a/AT0  wide/AJ0
+range/NN1  of/PRF  services/NN2  to/PRP  our/DPS  patients/NN2  
+-/PUN  In/PRP  taking/VVG  a/AT0  fund/NN1  we/PNP  accept/VVB
+responsibility/NN1  for/PRP  purchasing/AJ0-VVG  hospital/NN1
+services/NN2 ,/PUN  drugs/NN2-VVZ ,/PUN  and/CJC  now/AV0
+community/NN0  care/NN1  on/PRP behalf of  our/DPS
+patients/NN2 ./PUN
+
+As/CJS-PRP  the/AT0  services/NN2  provided/CJS  become/VVB  less/DT0
+adequate/AJ0  we/PNP  will/VM0  find/VVI  that/CJT  the/AT0
+perceived/AJ0  responsibility/NN1  for/PRP  these/DT0
+inadequacies/NN2  will/VM0  also/AV0  be/VBI  laid/VVN  at/PRP
+our/DPS  door/NN1 ./PUN
+
+Government/NN0  will/VM0  be/VBI  very/AV0  keen/AJ0  to/TO0  do/VDI
+this/DT0 ,/PUN  just/AV0  as/CJS  governors/NN2  will/VM0  be/VBI
+blamed/VVN  for/PRP  poor/AJ0  schools/NN2 ,/PUN  local/AJ0
+authorities/NN2  for/PRP  poor/AJ0  local/AJ0  public/AJ0
+services/NN2 ,/PUN  and/AV0 so on ./PUN
+
+A/AT0  key/AJ0  theme/NN1  of/PRF  policy/NN1  in/PRP  recent/AJ0
+years/NN2  has/VHZ  been/VBN  to/TO0  maximise/VVI  the/AT0
+extent/NN1  to/PRP  which/DTQ  other/AJ0  agencies/NN2  than/CJS
+government/NN0  itself/PNX  can/VM0  be/VBI  held/VVN
+responsible/AJ0  for/PRP  inadequacies/NN2  in/PRP  public/AJ0
+sector/NN1  services/NN2 ./PUN
+
+We/PNP  would/VM0  be/VBI  most/AV0    unwise/AJ0  to/TO0
+take/VVI  on/AVP  this/DT0  role/NN1  in/PRP  the/AT0  current/AJ0
+economic/AJ0  climate/NN1 ./PUN
+
+
+
+(/PUL 4/CRD )/PUR    Boosting/VVG  private/AJ0  health/NN1
+care/NN1    -/PUN  It/PNP  is/VBZ  no/AT0  coincidence/NN1
+that/CJT  the/AT0  services/NN2  covered/VVD-VVN  originally/AV0
+by/PRP  the/AT0  fund/NN1  were/VBD  those/DT0  which/DTQ  the/AT0
+private/AJ0  health/NN1  sector/NN1  could/VM0  compete/VVI  with/PRP
+the/AT0  NHS/NP0  to/TO0  provide/VVI  -/PUN  often/AV0  on/PRP
+favourable/AJ0  if/CJS  unfair/AJ0  terms/NN2 ./PUN
+
+Holding/VVG  a/AT0  fund/NN1  would/VM0  give/VVI  us/PNP  a/AT0
+clear/AJ0  and/CJC  continuing/AJ0-VVG  incentive/NN1  to/TO0
+maximise/VVI  the/AT0  extent/NN1  to/PRP  which/DTQ  our/DPS
+patients/NN2  took/VVD  out/AVP  and/CJC  used/AJ0-VVD  private/AJ0
+health/NN1  insurance/NN1 ./PUN
+
+The/AT0  concept/NN1  of/PRF  fundholding/NN1-VVG  was/VBD
+undoubtedly/AV0  designed/VVD-VVN  with/PRP  this/DT0  in/PRP
+mind/NN1 ./PUN
+
+Do/VDB  we/PNP  want/VVI  to/TO0  be/VBI  a/AT0  party/NN0  to/PRP
+further/AV0  undermining/VVG  the/AT0  NHS/NP0  in/PRP  this/DT0
+way/NN1 ?/PUN
+
+
+
+(/PUL 5/CRD )/PUR    Weakened/AJ0  district/NN1  planning/NN1
+of/PRF  health/NN1  services/NN2    -/PUN  District/NN1
+health/NN1  authorities/NN2  have/VHB  to/TO0  plan/VVI  health/NN1
+services/NN2  for/PRP  populations/NN2 ,/PUN  maximise/NN1-VVB
+efficiency/NN1  in/PRP  the/AT0  use/NN1  of/PRF  resources/NN2 ,/PUN
+and/CJC  address/NN1  inequalities/NN2  in/PRP  provision/NN1 ./PUN
+
+The/AT0  more/DT0  that/CJT  their/DPS  budget/NN1  is/VBZ
+diverted/VVN  to/PRP  fundholding/AJ0-VVG  practices/NN2 ,/PUN
+the/AT0  more/DT0  their/DPS  capacity/NN1  to/TO0  do/VDI  so/CJS
+will/VM0  be/VBI  undermined/VVN ,/PUN  to/PRP  the/AT0
+detriment/NN1  of/PRF  important/AJ0  areas/NN2  of/PRF  service/NN1
+for/PRP  all/DT0  patients/NN2 ./PUN
+
+It/PNP  may/VM0  be/VBI  argued/VVN  that/CJT-DT0
+fundholding/NN1-VVG  allows/VVZ  us/PNP  to/TO0  discharge/VVI
+these/DT0  responsibilities/NN2  ourselves/PNX  in/PRP respect of
+our/DPS  own/DT0  practice/NN1  population/NN1 ,/PUN  and/CJC
+that/CJT  we/PNP  are/VBB  capable/AJ0  of/PRF  doing/VDG  the/AT0
+job/NN1  better/AV0  than/CJS  a/AT0  large/AJ0  purchasing/AJ0-NN1
+authority/NN1 ./PUN
+
+I/PNP  would/VM0  suggest/VVI  that/CJT  this/DT0  is/VBZ  not/XX0
+so/AV0 ./PUN
+
+Few/DT0  of/PRF  us/PNP  have/VHB  the/AT0  time/NN1 ,/PUN
+training/NN1-VVG ,/PUN  or/CJC  expertise/NN1  to/TO0  do/VDI
+this/DT0  job/NN1  properly/AV0 ,/PUN  even/CJS if  it/PNP  were/VBD
+possible/AJ0  to/TO0  do/VDI  it/PNP  for/PRP  a/AT0  population/NN1
+as/AV0  small/AJ0  as/CJS  10/CRD  000/CRD  people/NN0  -/PUN
+which/DTQ  it/PNP  is/VBZ  not/XX0 ./PUN
+
+Some/DT0  general/AJ0  practitioners/NN2  are/VBB  developing/VVG
+a/AT0  high/AJ0  degree/NN1  of/PRF  expertise/NN1  in/PRP
+purchasing/VVG :/PUN  their/DPS  skills/NN2  would/VM0  be/VBI
+better/AV0  used/VVD-VVN  in/PRP  providing/VVG  properly/AV0
+supported/VVD-VVN  and/CJC  remunerated/AJ0-VVD  guidance/NN1  to/PRP
+purchasers/NN2  at/PRP  district/NN1  level/NN1 ./PUN
+
+
+
+(/PUL 6/CRD )/PUR    Greater/AJC  threat/NN1 ,/PUN  in/PRP
+the/AT0  medium/AJ0-NN1  to/TO0  long/VVI  term/NN1 ,/PUN  to/PRP
+the/AT0  independence/NN1  and/CJC  identity/NN1  of/PRF
+practices/NN2    -/PUN  This/DT0  may/VM0  seem/VVI  an/AT0
+odd/AJ0  assertion/NN1 ./PUN
+
+Many/DT0  practices/NN2  are/VBB  worried/AJ0  that/CJT  only/AV0
+by/PRP  taking/VVG  a/AT0  fund/NN1  can/VM0  they/PNP  retain/VVI
+some/DT0  independence/NN1  from/PRP  what/DTQ  they/PNP  fear/VVB
+may/VM0  be/VBI  increasingly/AV0  arbitrary/AJ0  or/CJC
+incomplete/AJ0  control/NN1  by/PRP  the/AT0  family/NN0  health/NN1
+services/NN2  authority/NN1  or/CJC  its/DPS  eventual/AJ0
+successor/NN1 ./PUN
+
+But/CJC  there/EX0  is/VBZ  a/AT0  serious/AJ0  question/NN1
+mark/NN1-VVB  over/AVP  whether/CJS  fundholding/VVG  at/PRP  the/AT0
+level/NN1  of/PRF  single/AJ0  practices/NN2  will/VM0  remain/VVI
+viable/AJ0 ./PUN
+
+With/PRP  greater/AJC  financial/AJ0  stringency/NN1  there/EX0
+will/VM0  be/VBI  increasing/VVG  pressure/NN1  for/PRP
+economies/NN2  of/PRF  scale/NN1  by/PRP  the/AT0  amalgamation/NN1
+of/PRF  fundholding/AJ0-VVG  practices/NN2 ./PUN
+
+This/DT0  would/VM0  lead/VVI  to/PRP  a/AT0  greater/AJC  loss/NN1
+of/PRF  independence/NN1  and/CJC  the/AT0  identity/NN1  of/PRF
+the/AT0  practice/NN1  than/CJS  is/VBZ  likely/AJ0  to/TO0
+occur/VVI  by/PRP  staying/VVG  outside/PRP  the/AT0  fundholding/AJ0
+system/NN1 ./PUN
+
+General/AJ0  practices/NN2  would/VM0  evolve/VVI  into/PRP
+American-style/AJ0  health/NN1  maintenance/NN1  organisations/NN2
+-/PUN  a/AT0  prospect/NN1  perhaps/AV0  more/AV0
+appealing/VVG  to/PRP  planners/NN2  than/CJS  to/PRP  patients/NN2
+or/CJC  general/AJ0  practitioners/NN2 ./PUN
+
+
+Conclusion/NN1
+
+
+The/AT0  reasons/NN2  I/PNP  have/VHB  cited/VVN  make/VVB  a/AT0
+largely/AV0  self/AJ0-NN1  interested/AJ0  case/NN1  for/PRP  not/XX0
+fundholding/VVG ./PUN
+
+There/EX0  is/VBZ  a/AT0  further/AJC  reason/NN1  that/CJT
+operates/VVZ  more/AV0  at/PRP  the/AT0  level/NN1  of/PRF
+values/NN2 ./PUN
+
+Fundholding/NP0  poses/NN2-VVZ  ethical/AJ0  problems/NN2 ,/PUN
+either/DT0  because/CJS  it/PNP  secures/VVZ  a/AT0  better/AJC
+service/NN1  for/PRP  the/AT0  patients/NN2  of/PRF  a/AT0
+fundholding/AJ0  practice/NN1  over/PRP  those/DT0  whose/DTQ
+doctors/NN2  happen/VVB  not/XX0  to/TO0  hold/VVI  a/AT0
+fund/NN1 ,/PUN  or/CJC  because/CJS  it/PNP  does/VDZ  not/XX0 ./PUN
+
+If/CJS  not/XX0 ,/PUN  it/PNP  is/VBZ  an/AT0  appalling/AJ0
+waste/NN1  of/PRF  time/NN1  and/CJC  money/NN1  that/CJT  would/VM0
+be/VBI  better/AV0  spent/VVD-VVN  on/PRP  other/AJ0
+things/NN2 ./PUN
+
+In/PRP  some/DT0  districts/NN2  the/AT0  management/NN0  costs/NN2
+of/PRF  fundholding/VVG  already/AV0  exceed/VVB  the/AT0  cost/NN1
+of/PRF  running/VVG  the/AT0  family/NN0  health/NN1  services/NN2
+authority/NN1 ./PUN
+
+
+
+We/PNP  are/VBB  seeing/VVG  the/AT0  beginnings/NN2  of/PRF  a/AT0
+two/CRD  tier/NN1  system/NN1 ./PUN
+
+Hospitals/NN2  openly/AV0  confess/VVB  to/PRP  giving/VVG
+higher/AJC  priority/NN1  to/PRP  fundholders/NN2/POS '  patients/NN2
+as/CJS  they/PNP  try/VVB  to/TO0  avoid/VVI  financial/AJ0
+crisis/NN1 ./PUN
+
+District/NN1  health/NN1  authority/NN1  contracts/NN2  fail/VVB
+to/TO0  cover/VVI  hospitals/NN2/POS '  existing/AJ0  work/NN1
+rate/NN1 ./PUN
+
+As/CJS-PRP  the/AT0  perennial/AJ0  overspend/VVB  on/PRP  core/NN1
+and/CJC  emergency/NN1  services/NN2  (/PUL used/VVN  by/PRP  the/AT0
+patients/NN2  of/PRF  fundholders/NN2  and/CJC  non-fundholders/NN2
+alike/AV0 )/PUR  leads/VVZ  hospitals/NN2  to/TO0  restrict/VVI
+their/DPS  activities/NN2 ,/PUN  fundholders/NN2/POS '  patients/NN2
+are/VBB  getting/VVG  preferential/AJ0  access/NN1  to/PRP
+elective/AJ0  surgery/NN1 ./PUN
+
+Should/VM0  we/PNP  accept/VVI  the/AT0  inevitability/NN1  and/CJC
+permanence/NN1  of/PRF  this/DT0  state/NN1  of/PRF
+affairs/NN2 ?/PUN
+
+Must/VM0  we/PNP  take/VVI  a/AT0  fund/NN1  so/AV0 as  to/TO0
+avoid/VVI  having/VHG  our/DPS  patients/NN2  condemned/VVN  to/PRP
+the/AT0  lower/AJC  tier/NN1  of/PRF  a/AT0  two/CRD  tier/NN1
+service/NN1 ?/PUN
+
+
+
+Politicians/NN2  and/CJC  health/NN1  service/NN1  managers/NN2
+have/VHB  repeatedly/AV0  assured/VVN  us/PNP  that/CJT  a/AT0
+two/CRD  tier/NN1  service/NN1  is/VBZ  not/XX0  on/PRP  the/AT0
+agenda/NN1 ./PUN
+
+We/PNP  should/VM0  take/VVI  them/PNP  at/PRP  their/DPS  word/NN1
+and/CJC  hold/VVI  them/PNP  to/PRP  it/PNP ,/PUN  rather/CJS than
+resign/VVI  ourselves/PNX  to/PRP  the/AT0  judgment/NN1  that/CJT
+they/PNP  have/VHB  been/VBN  lying/VVG ./PUN
+
+Not/XX0  to/TO0  do/VDI  so/CJS  would/VM0  be/VBI  a/AT0
+betrayal/NN1  of/PRF  our/DPS  hope/NN1  that/CJT  the/AT0
+founding/AJ0  principles/NN2  of/PRF  the/AT0  National/AJ0
+Health/NN1  Service/NN1  can/VM0  survive/VVI  the/AT0
+government/NN0 's/POS  reforms/NN2 ./PUN
+
+Non-fundholding/AJ0  practices/NN2  must/VM0  continue/VVI  to/TO0
+secure/VVI  equivalent/AJ0  access/NN1  to/PRP  funding/VVG  for/PRP
+staff/NN0 ,/PUN  premises/NN2 ,/PUN  and/CJC  equipment/NN1  and/CJC
+equitable/AJ0  treatment/NN1  for/PRP  their/DPS  patients/NN2 ./PUN
+
+If/CJS  enough/DT0  practices/NN2  stay/VVB  out/PRP of
+fundholding/VVG  then/AV0  a/AT0  more/AV0  rational/AJ0  and/CJC
+cost/VVB  effective/AJ0  embodiment/NN1  of/PRF  the/AT0
+purchaser-provider/AJ0  split/NN1  will/VM0  emerge/VVI  from/PRP
+the/AT0  present/AJ0  chaos/NN1 ./PUN  
+
+
+EDUCATION/NN1  &amp;/CJC  DEBATE/VVB
+
+NHS/NP0  internal/AJ0  market/NN1  1991-2/CRD :/PUN
+towards/PRP  a/AT0  balance/NN1  sheet/NN1
+
+
+The/AT0  first/ORD  year/NN1  of/PRF  the/AT0  internal/AJ0
+market/NN1  in/PRP  the/AT0  NHS/NP0  has/VHZ  been/VBN  claimed/VVN
+to/TO0  have/VHI  resulted/VVN  in/PRP  increased/AJ0
+efficiency/NN1 ./PUN
+
+These/DT0  claims/NN2 ,/PUN  however/AV0 ,/PUN  are/VBB  hard/AJ0
+to/TO0  substantiate/VVI  because/CJS  the/AT0  systems/NN2  for/PRP
+operating/VVG  the/AT0  market/NN1  are/VBB  not/XX0  fully/AV0
+in/PRP  place/NN1 ./PUN
+
+Examination/NN1  of/PRF  data/NN0  on/PRP  tax/NN1  relief/NN1
+for/PRP  private/AJ0  health/NN1  insurance/NN1  premiums/NN2
+for/PRP  over/AV0  60s/CRD ,/PUN  general/AJ0  practice/NN1
+fundholding/NN1-VVG ,/PUN  and/CJC  implementation/NN1  and/CJC
+transaction/NN1  costs/NN2  suggest/VVB  that/AV0  much/DT0  of/PRF
+the/AT0  increased/AJ0  efficiency/NN1  is/VBZ  not/XX0  due/AJ0
+to/PRP  the/AT0  reforms/NN2  but/CJC  to/PRP  increased/AJ0
+funding/NN1 ./PUN
+
+Furthermore/AV0 ,/PUN  some/DT0  of/PRF  the/AT0  changes/NN2
+seem/VVB  to/TO0  be/VBI  decreasing/AJ0-VVG  market/NN1  forces/NN2
+and/CJC  reducing/AJ0-VVG  efficiency/NN1 ./PUN
+
+Evaluation/NN1  of/PRF  the/AT0  first/ORD  year/NN1 's/POS
+operation/NN1  of/PRF  the/AT0  internal/AJ0  market/NN1  is/VBZ
+not/XX0  straightforward/AJ0 ./PUN
+
+The/AT0  first/ORD  difficulty/NN1  is/VBZ  the/AT0  scale/NN1
+of/PRF  the/AT0  reforms/NN2 ,/PUN  which/DTQ  are/VBB  generally/AV0
+agreed/VVD-VVN  to/TO0  be/VBI  the/AT0  most/AV0  wide/AJ0
+ranging/NN1  and/CJC  fundamental/AJ0  since/CJS-PRP  the/AT0
+inception/NN1  of/PRF  the/AT0  NHS/NP0  in/PRP  1948/CRD ./PUN
+
+Secondly/AV0 ,/PUN  the/AT0  white/AJ0  paper/NN1  and/CJC  the/AT0
+working/AJ0  documents/NN2  that/CJT  supplemented/VVD  it/PNP
+give/VVB  only/AV0  the/AT0  barest/AJS  outline/NN1  of/PRF  the/AT0
+market/NN1  framework/NN1  and/CJC  leave/VVB  several/DT0
+key/AJ0-NN1  issues/NN2  unresolved/AJ0 ./PUN
+
+The/AT0  resultant/AJ0  local/AJ0  variation/NN1  in/PRP
+working/AJ0-VVG  arrangements/NN2  has/VHZ  greatly/AV0
+complicated/VVN  national/AJ0  assessment/NN1 ./PUN
+
+Thirdly/AV0 ,/PUN  the/AT0  first/ORD  year/NN1  of/PRF
+implementation/NN1  presents/NN2-VVZ  problems/NN2  as/PRP  a/AT0
+basis/NN1  for/PRP  evaluation/NN1 ./PUN
+
+The/AT0  market/NN1  was/VBD  established/VVN  before/PRP  the/AT0
+information/NN1  on/PRP  which/DTQ  it/PNP  depends/VVZ
+(/PUL population/NN1  health/NN1  needs/NN2-VVZ ,/PUN  service/NN1
+costs/NN2-VVZ )/PUR  was/VBD  available/AJ0 ./PUN
+
+As/PRP  a/AT0  result/NN1  most/AV0  contracting/AJ0-VVG  in/PRP
+the/AT0  first/ORD  year/NN1  was/VBD  in/PRP  the/AT0  form/NN1
+of/PRF  unsophisticated/AJ0  block/NN1  contracts/NN2 ./PUN
+
+Furthermore/AV0 ,/PUN  the/AT0  reforms/NN2  were/VBD  introduced/VVN
+during/PRP  the/AT0  run/NN1  up/PRP to  a/AT0  general/AJ0
+election/NN1  in/PRP  which/DTQ  it/PNP  was/VBD  widely/AV0

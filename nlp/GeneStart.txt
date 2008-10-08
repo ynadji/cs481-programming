@@ -1,0 +1,505 @@
+
+Gene/NN1-NP0   therapy/NN1   predicted/VVD   to/TO0   join/VVI   the/AT0
+therapeutic/AJ0  menu/NN1  within/PRP  the/AT0  decade/NN1
+
+
+The/AT0  discovery/NN1  of/PRF  oncogenes/NN2  and/CJC  tumour/NN1
+suppressor/NN1  genes/NN2  has/VHZ  opened/VVN  new/AJ0  avenues/NN2
+for/PRP  exploring/VVG  the/AT0  control/NN1  of/PRF  cellular/AJ0
+growth/NN1  in/PRP  health/NN1  and/CJC  disease/NN1 ./PUN
+
+The/AT0  protein/NN1  products/NN2  encoded/VVD-VVN  by/PRP  many/DT0
+of/PRF  these/DT0  genes/NN2  have/VHB  been/VBN  characterised/VVN
+-/PUN  some/DT0  in/PRP  considerable/AJ0  detail/NN1
+-/PUN  and/CJC  the/AT0  evidence/NN1  is/VBZ  now/AV0
+compelling/VVG  that/CJT  their/DPS  abnormal/AJ0  expression/NN1
+is/VBZ  related/VVN  to/PRP  the/AT0  development/NN1  of/PRF
+human/AJ0  cancer/NN1 ./PUN
+
+Can/VM0  any/DT0  of/PRF  this/DT0  be/VBI  harnessed/VVN  for/PRP
+therapeutic/AJ0  gain/NN1 ?/PUN
+
+
+
+Systemic/AJ0  treatment/NN1  of/PRF  cancer/NN1  is/VBZ
+bedevilled/VVN  by/PRP  the/AT0  similarity/NN1  of/PRF  tumour/NN1
+cells/NN2  to/PRP  normal/AJ0  cells/NN2 ,/PUN  at/AV0 least
+under/PRP  most/DT0  physiological/AJ0  conditions/NN2 ./PUN
+
+Currently/AV0  available/AJ0  chemotherapy/NN1  is/VBZ  often/AV0
+highly/AV0  toxic/AJ0  and/CJC ,/PUN  sadly/AV0  for/PRP
+patients/NN2  with/PRP  many/DT0  common/AJ0  tumours/NN2 ,/PUN
+simply/AV0  ineffective/AJ0 ./PUN
+
+Although/CJS  new/AJ0  agents/NN2 ,/PUN  often/AV0
+discovered/VVD-VVN  empirically/AV0 ,/PUN  are/VBB  entering/VVG
+clinical/AJ0  trials/NN2 ,/PUN  there/EX0  is/VBZ  little/AJ0
+sign/NN1  of/PRF  classic/AJ0  pharmacological/AJ0  approaches/NN2
+providing/VVG  a/AT0  breakthrough/NN1 ./PUN
+
+
+
+The/AT0  prospect/NN1  of/PRF  genetic/AJ0  intervention/NN1  is/VBZ
+much/AV0  more/AV0  appealing/AJ0-VVG  as/CJS  it/PNP  gets/VVZ
+to/PRP  the/AT0  core/NN1  of/PRF  the/AT0  problem/NN1 ./PUN
+
+Thanks/PRP to  rapid/AJ0  advances/NN2  in/PRP  recombinant/AJ0
+DNA/NN1  technology/NN1 ,/PUN  we/PNP  now/AV0  have/VHB  a/AT0
+range/NN1  of/PRF  sophisticated/AJ0  vectors/NN2  that/CJT  can/VM0
+deliver/VVI  genetic/AJ0  information/NN1  to/PRP  cells/NN2  in
+vivo/AV0 ./PUN
+
+Most/DT0  protocols/NN2  currently/AV0  use/VVB  replication/NN1
+defective/AJ0  retroviruses/NN2 ,/PUN  which/DTQ  can/VM0  very/AV0
+efficiently/AV0  achieve/VVI  stable/AJ0  integration/NN1  into/PRP
+human/AJ0  somatic/AJ0  cells/NN2 ./PUN
+
+Gene/NN1-NP0  transduction/NN1  with/PRP  these/DT0  agents/NN2
+is/VBZ  essentially/AV0  restricted/VVN  to/PRP  dividing/AJ0-VVG
+cells/NN2 ,/PUN  but/CJC  although/CJS  this/DT0  could/VM0
+limit/VVI  applications/NN2  for/PRP  other/AJ0  genetic/AJ0
+disorders/NN2 ,/PUN  it/PNP  should/VM0  not/XX0  restrict/VVI
+gene/NN1  therapy/NN1  for/PRP  cancer/NN1 ,/PUN  where/AVQ-CJS
+the/AT0  target/NN1  population/NN1  of/PRF  malignant/AJ0  cells/NN2
+is/VBZ  expanding/VVG ./PUN
+
+
+
+Other/AJ0  viral/AJ0-NN1  vectors/NN2  have/VHB  features/NN2
+that/CJT  may/VM0  be/VBI  useful/AJ0  for/PRP  delivering/AJ0-VVG
+genes/NN2  in/PRP  particular/AJ0  circumstances/NN2 ./PUN
+
+For/AV0 instance ,/PUN  large/AJ0  segments/NN2  of/PRF  DNA/NN1
+can/VM0  be/VBI  successfully/AV0  cloned/VVN  in/PRP place of
+the/AT0  early/AJ0  region/NN1  1/CRD  genes/NN2  of/PRF
+replication/NN1  deficient/AJ0  adenovirus/NN1 ./PUN
+
+Such/DT0  altered/AJ0  viruses/NN2  can/VM0  transduce/VVI
+non-replicating/AJ0  cells/NN2 ,/PUN  including/PRP
+differentiated/AJ0  epithelial/AJ0  cells/NN2  of/PRF  the/AT0
+respiratory/AJ0  tract/NN1  and/CJC  elsewhere/AV0 ,/PUN  and/CJC
+this/DT0  has/VHZ  made/VVN  them/PNP  the/AT0  chosen/AJ0
+vectors/NN2  for/PRP  genetic/AJ0  therapy/NN1  of/PRF  cystic/AJ0
+fibrosis/NN1 ./PUN
+
+Other/AJ0  delivery/NN1  systems/NN2  include/VVB  liposomes/NN2
+and/CJC  the/AT0  promising/AJ0  technique/NN1  of/PRF  receptor/NN1
+mediated/AJ0-VVD  delivery/NN1  of/PRF  nucleic/AJ0  acids/NN2 ./PUN
+
+
+
+Two/CRD  interventional/AJ0  genetic/AJ0  approaches/NN2  might/VM0
+be/VBI  exploited/VVN  to/TO0  block/VVI  expression/NN1  of/PRF
+genes/NN2  associated/VVD-VVN  with/PRP  cancer/NN1 ./PUN
+
+Antisense/NN1-VVB  technology/NN1  uses/VVZ  sequences/NN2  of/PRF
+nucleic/AJ0  acid/NN1  (/PUL DNA/NN1  or/CJC  RNA/NN1 )/PUR
+complementary/AJ0  to/PRP  a/AT0  specific/AJ0  target/NN1
+messenger/NN1-VVB  RNA/NN1  to/TO0  block/VVI  the/AT0
+production/NN1  of/PRF  proteins/NN2  selectively/AV0 ./PUN
+
+The/AT0  second/ORD  approach/NN1  uses/VVZ  ribozymes/NN2  that/CJT
+are/VBB  RNA/NN1  sequences/NN2  with/PRP  the/AT0  capacity/NN1
+to/TO0  cleave/VVI  target/NN1  RNA/NN1  selectively/AV0 ./PUN
+
+These/DT0  may/VM0  be/VBI  incorporated/VVN  as/CJS-PRP
+cassettes/NN2  in/PRP  antisense/NN1  vectors/NN2  and/CJC  may/VM0
+be/VBI  even/AV0  more/AV0  effective/AJ0  in/PRP  abrogating/AJ0-VVG
+expression/NN1  of/PRF  target/NN1  genes/NN2 ./PUN
+
+Such/DT0  approaches/NN2  have/VHB  proved/VVN  effective/AJ0  in/PRP
+reverting/VVG  the/AT0  transformed/AJ0  phenotype/NN1  of/PRF
+malignant/AJ0  cells/NN2  in/AV0 vitro ,/PUN  but/CJC  several/DT0
+problems/NN2  remain/VVB  before/PRP  clinical/AJ0  application/NN1
+would/VM0  be/VBI  feasible/AJ0 ./PUN
+
+
+
+Most/DT0  of/PRF  the/AT0  38/CRD  protocols/NN2  approved/VVD-VVN
+for/PRP  genetic/AJ0  therapy/NN1  are/VBB  being/VBG  carried/VVN
+out/AVP  in/PRP  the/AT0  United/NP0  States/NP0  on/PRP
+patients/NN2  with/PRP  cancer/NN1 ./PUN
+
+Britain/NP0  has/VHZ  lagged/VVN  behind/AV0 ,/PUN  and/CJC  the/AT0
+committee/NN0  for/PRP  the/AT0  approval/NN1  of/PRF  protocols/NN2
+proposed/VVN  by/PRP  the/AT0  Clothier/AJC  report/NN1  has/VHZ
+only/AV0  just/AV0  been/VBN  announced/VVN  by/PRP  the/AT0
+Department/NN0  of/PRF  Health/NN1 ./PUN
+
+Several/DT0  British/AJ0  groups/NN2  have/VHB  protocols/NN2
+ready/AJ0  for/PRP  treating/AJ0-VVG  cancer/NN1  with/PRP
+genetic/AJ0  therapy/NN1 ./PUN
+
+
+
+Four/CRD  approaches/NN2  are/VBB  being/VBG  investigated/VVN ./PUN
+
+The/AT0  first/ORD ,/PUN  virally/AV0  directed/AJ0-VVN  enzyme/NN1
+prodrug/NN1-VVB  therapy/NN1 ,/PUN  involves/VVZ  the/AT0
+delivery/NN1  of/PRF  suicide/NN1  or/CJC  "/PUQ Trojan/AJ0
+horse/NN1 "/PUQ  vectors/NN2  to/PRP  tumours/NN2  and/CJC
+certain/AJ0  normal/AJ0  cells/NN2 ./PUN
+
+This/DT0  entails/VVZ  coupling/VVG  a/AT0  promoter/NN1  region/NN1
+of/PRF  a/AT0  gene/NN1  expressed/VVD-VVN  in/PRP  cancer/NN1
+cells/NN2  with/PRP  a/AT0  non-mammalian/AJ0  enzyme/NN1  that/CJT
+can/VM0  activate/VVI  a/AT0  prodrug/NN1  to/PRP  a/AT0
+cytotoxic/AJ0  agent/NN1 ./PUN
+
+The/AT0  selectivity/NN1  may/VM0  not/XX0  need/VVI  to/TO0  be/VBI
+absolute/AJ0  -/PUN  for/AV0 example ,/PUN  if/CJS  the/AT0
+promoter/NN1  is/VBZ  specifically/AV0  activated/VVN  in/PRP
+breast/NN1  epithelial/AJ0  tissue/NN1  it/PNP  may/VM0  be/VBI
+possible/AJ0  to/TO0  produce/VVI  a/AT0  "/PUQ genetic/AJ0
+mastectomy/NN1 ,/PUN "/PUQ  effectively/AV0  destroying/VVG
+all/DT0  normal/AJ0  as/CJC well as  malignant/AJ0  breast/NN1
+cells/NN2 ./PUN
+
+
+
+The/AT0  transcriptional/AJ0  regulatory/AJ0  sequences/NN2  of/PRF
+carcinoembryonic/AJ0  antigen/NN1  (/PUL implicated/VVD-VVN  in/PRP
+colorectal/AJ0  cancer/NN1 )/PUR ,/PUN  tyrosinase/NN1-VVB
+(/PUL melanoma/NN1 )/PUR ,/PUN  c-erb/AJ0  B2/UNC
+(/PUL breast/NN1 ,/PUN  pancreatic/AJ0 ,/PUN  and/CJC  gastric/AJ0
+cancer/NN1 )/PUR ,/PUN  and/CJC  a/UNC  fetoprotein/NN1
+(/PUL hepatoma/NN1 )/PUR  have/VHB  been/VBN  coupled/VVN  to/PRP
+the/AT0  genes/NN2  for/PRP  several/DT0  drug/NN1  activating/VVG
+enzymes/NN2 ./PUN
+
+One/CRD  of/PRF  the/AT0  most/AV0  versatile/AJ0  enzymes/NN2
+is/VBZ  cytosine/NN1  deaminase/NN1 ,/PUN  found/VVD-VVN  in/PRP
+fungi/NN1  and/CJC  bacteria/NN2 ,/PUN  which/DTQ  converts/VVZ
+the/AT0  antifungal/AJ0  drug/NN1  flucytosine/NN1-VVB  to/PRP
+the/AT0  much/AV0  more/AV0  toxic/AJ0  fluorouracil/NN1 ./PUN
+
+Better/AJC  understanding/NN1-VVG  of/PRF  the/AT0  secrets/NN2
+of/PRF  transcription/NN1  control/NN1  are/VBB  likely/AJ0  to/TO0
+lead/VVI  to/PRP  new/AJ0  selective/AJ0  vectors/NN2 ./PUN
+
+
+
+The/AT0  second/ORD  approach/NN1  is/VBZ  to/TO0  use/VVI
+lymphocytes/NN2  that/CJT  home/AV0  in/AVP-PRP  on/PRP  tumours/NN2
+as/CJS-PRP  vehicles/NN2  for/PRP  delivering/VVG  a/AT0
+biological/AJ0  payload/NN1  to/PRP  the/AT0  tumour/NN1 ./PUN
+
+Tumour/NN1  infiltrating/VVG  lymphocytes/NN2  can/VM0  be/VBI
+harvested/VVN  from/PRP  tumour/NN1  biopsy/NN1  specimens/NN2 ,/PUN
+grown/VVN  in/AV0 vitro ,/PUN  and/CJC  infected/VVD-VVN  with/PRP
+suitable/AJ0  retroviruses/NN2  containing/VVG  human/AJ0
+cytokine/NN1  genes/NN2 ./PUN
+
+Lymphocytes/NN2  that/CJT  have/VHB  been/VBN  successfully/AV0
+transduced/VVD-VVN  (/PUL that/AV0 is ,/PUN  they/PNP  express/VVB
+the/AT0  genes/NN2  carried/VVN  by/PRP  the/AT0  virus/NN1 )/PUR
+are/VBB  selected/VVN  and/CJC  their/DPS  population/NN1
+expanded/VVD-VVN  for/PRP  reintroduction/NN1  into/PRP  the/AT0
+patient/NN1 ./PUN
+
+Tumour/NN1  necrosis/NN1  factor/NN1 ,/PUN  interferon/NN1
+alfa/NN1 ,/PUN  and/CJC  interleukin/NN1  2/CRD  have/VHB
+already/AV0  been/VBN  expressed/VVN  and/CJC  secreted/VVN  in/PRP
+high/AJ0  concentrations/NN2  within/PRP  certain/AJ0
+tumours/NN2 ./PUN
+
+These/DT0  agents/NN2  are/VBB  toxic/AJ0  when/CJS  given/VVN
+systemically/AV0 ,/PUN  and/CJC  so/AV0  producing/VVG  them/PNP
+at/PRP  high/AJ0  concentration/NN1  within/PRP  the/AT0  tumour/NN1
+is/VBZ  an/AT0  attractive/AJ0  goal/NN1 ./PUN
+
+As/AV0 yet ,/PUN  however/AV0 ,/PUN  there/EX0  is/VBZ  little/AJ0
+evidence/NN1  that/CJT  cytokine/NN1-VVB  secreting/AJ0-VVG
+tumour/NN1  infiltrating/VVG  lymphocytes/NN2  perform/VVB  any/DT0
+more/AV0  effectively/AV0  than/CJS  the/AT0  parent/NN1
+cells/NN2 ./PUN  
+
+
+
+Modifying/VVG  the/AT0  immunogenicity/NN1  of/PRF  tumour/NN1
+cells/NN2  by/PRP  inserting/AJ0-VVG  genes/NN2  encoding/VVG
+either/AV0  cytokines/NN2-VVZ  or/CJC  the/AT0  products/NN2  of/PRF
+the/AT0  major/AJ0  histocompatibility/NN1  complex/NN1  can/VM0
+circumvent/VVI  the/AT0  problem/NN1  of/PRF  the/AT0  weak/AJ0
+immunogenicity/NN1  of/PRF  many/DT0  animal/NN1  tumour/NN1
+systems/NN2 ./PUN
+
+Encouraging/AJ0  results/NN2  have/VHB  been/VBN  obtained/VVN
+by/PRP  expression/NN1  of/PRF  the/AT0  IL-2/AJ0  gene/NN1  in/PRP
+a/AT0  mouse/NN1  colonic/AJ0  cancer/NN1  model/NN1  and/CJC  of/PRF
+the/AT0  IL-4/AJ0  gene/NN1  in/PRP  a/AT0  mouse/NN1  renal/AJ0
+cancer/NN1  model/NN1 ./PUN
+
+Many/DT0  clinical/AJ0  studies/NN2  of/PRF  genetic/AJ0
+immunomodulation/NN1  are/VBB  currently/AV0  under/AV0 way ,/PUN
+particularly/AV0  in/PRP  those/DT0  diseases/NN2  in/PRP  which/DTQ
+powerful/AJ0  immune/AJ0  responses/NN2  have/VHB  been/VBN
+detected/VVN ,/PUN  such/PRP as  melanoma/NN1  and/CJC  renal/AJ0
+cell/NN1  carcinoma/NN1 ./PUN
+
+
+
+Perhaps/AV0  the/AT0  most/AV0  exciting/AJ0  of/PRF  future/AJ0
+possibilities/NN2  for/PRP  genetic/AJ0  intervention/NN1  in/PRP
+cancer/NN1  is/VBZ  the/AT0  direct/AJ0  manipulation/NN1  of/PRF
+oncogenes/NN2  or/CJC  tumour/NN1  suppressor/NN1  genes/NN2 ./PUN
+
+Although/CJS  we/PNP  recognise/VVB  that/CJT-DT0  cancer/NN1  is/VBZ
+a/AT0  multigene/NN1  disorder/NN1  (/PUL with/PRP  five/CRD  or/CJC
+six/CRD  genetic/AJ0  changes/NN2  needed/VVD-VVN  to/TO0  induce/VVI
+malignancy/NN1 )/PUR ,/PUN  some/DT0  genes/NN2  may/VM0  be/VBI
+critical/AJ0  at/PRP  particular/AJ0  stages/NN2  and/CJC
+reversal/NN1  or/CJC  blockade/NN1  of/PRF  a/AT0  single/AJ0
+event/NN1  may/VM0  be/VBI  therapeutically/AV0  useful/AJ0 ./PUN
+
+Mutant/AJ0  oncogenes/NN2  of/PRF  the/AT0  ras/NN2 
+family/NN0  are/VBB  found/VVN  in/AVP  about/AV0  a/AT0  third/ORD
+of/PRF  all/DT0  cancers/NN2  and/CJC  as/AV0  many/DT0  as/CJS
+80%/NN0  of/PRF  pancreatic/AJ0  tumours/NN2 ./PUN
+
+This/DT0  family/NN0  presents/NN2-VVZ  an/AT0  obvious/AJ0
+target/NN1  for/PRP  antisense/NN1  attack/NN1 ,/PUN  and/CJC  a/AT0
+protocol/NN1  to/TO0  use/VVI  a/AT0  retroviral/AJ0  delivery/NN1
+system/NN1  for/PRP  antisense/NN1  treatment/NN1  in/PRP
+adenocarcinoma/NN1  of/PRF  the/AT0  lung/NN1  has/VHZ  just/AV0
+been/VBN  approved/VVN  in/PRP  the/AT0  United/NP0  States/NP0 ./PUN
+
+
+
+The/AT0  restoration/NN1  of/PRF  tumour/NN1  suppressor/NN1
+gene/NN1  function/NN1  has/VHZ  proved/VVN  an/AT0  effective/AJ0
+strategy/NN1  for/PRP  reversing/VVG  the/AT0  malignant/AJ0-NN1
+phenotype/NN1  in/AV0 vitro  and/CJC  recently/AV0  in/PRP
+several/DT0  animal/NN1  systems/NN2  using/VVG  retinoblastoma/NN1
+gene/NN1  constructs/NN2-VVZ ./PUN
+
+Unfortunately/AV0  we/PNP  do/VDB  not/XX0  yet/AV0  have/VHI
+good/AJ0  methods/NN2  to/TO0  control/VVI  the/AT0  quantity/NN1
+of/PRF  protein/NN1  produced/VVD-VVN ,/PUN  and/CJC
+overproduction/NN1  could/VM0  adversely/AV0  affect/VVI  normal/AJ0
+tissue/NN1 ./PUN
+
+Indeed/AV0 ,/PUN  transgenic/AJ0  mice/NN2  with/PRP  an/AT0
+extra/AJ0  copy/NN1  of/PRF  the/AT0  RB1/UNC  gene/NN1  are/VBB
+consistently/AV0  smaller/AJC  than/CJS  normal/AJ0 ./PUN
+
+
+
+Once/AV0  the/AT0  entire/AJ0  human/AJ0-NN1  genome/NN1  has/VHZ
+been/VBN  mapped/VVN  and/CJC  sequenced/VVN  it/PNP  will/VM0
+become/VVI  amenable/AJ0  to/PRP  manipulation/NN1 ./PUN
+
+Replacing/VVG  new/AJ0  genes/NN2  for/PRP  old/AJ0  -/PUN
+homologous/AJ0  recombination/NN1  -/PUN  is/VBZ  now/AV0
+feasible/AJ0  in/PRP  animal/NN1  cells/NN2 ,/PUN  but/CJC  the/AT0
+technology/NN1  requires/VVZ  a/AT0  great/AJ0  deal/NN1  of/PRF
+refinement/NN1  before/CJS-PRP  such/DT0  a/AT0  feat/NN1  could/VM0
+be/VBI  achieved/VVN  in/PRP  human/AJ0  somatic/AJ0  cells/NN2 ./PUN
+
+Transgenic/AJ0  animals/NN2  with/PRP  deleted/AJ0  or/CJC
+mutant/AJ0  tumour/NN1  suppressor/NN1  genes/NN2  provide/VVB
+an/AT0  elegant/AJ0  model/NN1  for/PRP  correction/NN1  of/PRF
+inherited/AJ0  predispositions/NN2  to/PRP  cancer/NN1  by/PRP
+gene/NN1  transfer/NN1-VVB  either/AV0  into/PRP  particular/AJ0
+tissues/NN2  or/CJC  into/PRP  the/AT0  whole/AJ0  organism/NN1 ./PUN
+
+
+
+All/DT0  new/AJ0  technologies/NN2  carry/VVB  risks/NN2 ./PUN
+
+Gene/NN1-NP0  therapy/NN1  is/VBZ  emotive/AJ0 ,/PUN  with/PRP
+potential/AJ0  hazard/NN1  not/XX0  only/AV0  to/PRP  the/AT0
+patient/AJ0-NN1  but/CJC  also/AV0  to/TO0  staff/VVI  and/CJC
+the/AT0  environment/NN1 ./PUN
+
+Considerable/AJ0  effort/NN1  has/VHZ  gone/VVN  into/PRP
+evaluating/VVG  the/AT0  risks/NN2  and/CJC  developing/AJ0-VVG
+ingenious/AJ0  methods/NN2  to/TO0  reduce/VVI  them/PNP ./PUN
+
+Thus/AV0  disabled/AJ0  viruses/NN2  that/CJT  can/VM0 not/XX0
+reproduce/VVI  themselves/PNX ,/PUN  suicide/NN1  marker/NN1
+genes/NN2  that/CJT  can/VM0  destroy/VVI  cells/NN2  containing/VVG
+the/AT0  relevant/AJ0  vector/NN1  when/AVQ-CJS  required/VVN ,/PUN
+and/CJC  close/AJ0  examination/NN1  of/PRF  clinical/AJ0
+protocols/NN2  by/PRP  national/AJ0  ethical/AJ0  and/CJC
+scientific/AJ0  committees/NN2  all/DT0  help/NN1-VVB  to/TO0
+limit/VVI  potential/AJ0  problems/NN2 ./PUN
+
+A/AT0  decade/NN1  ago/AV0  it/PNP  would/VM0  have/VHI  been/VBN
+inconceivable/AJ0  that/CJT  we/PNP  would/VM0  now/AV0  know/VVI
+enough/AV0  about/PRP  the/AT0  molecules/NN2  of/PRF  cancer/NN1
+to/TO0  consider/VVI  genetic/AJ0  intervention/NN1 ./PUN
+
+We/PNP  believe/VVB  that/CJT-DT0  within/PRP  10/CRD  years/NN2
+cancer/NN1  centres/NN2  will/VM0  be/VBI  offering/AJ0-VVG  gene/NN1
+therapy/NN1  as/PRP  an/AT0  effective/AJ0  systemic/AJ0
+treatment/NN1  along/PRP with  surgery/NN1 ,/PUN
+radiotherapy/NN1 ,/PUN  and/CJC  chemotherapy/NN1 ./PUN
+
+Fluoridation/NN1  in/PRP  Britain/NP0  today/AV0
+
+Water/NN1  companies/NN2  are/VBB  getting/VVG  in/PRP  the/AT0
+way/NN1
+
+The/AT0  recent/AJ0  decision/NN1  by/PRP  Welsh/NP0  Water/NP0
+not/XX0  to/TO0  continue/VVI  fluoridating/AJ0-VVG  water/NN1
+in/PRP  Gwynedd/NP0  means/VVZ  that/CJT  the/AT0  water/NN1
+fluoridation/NN1  schemes/NN2  established/VVD-VVN  as/CJS-PRP
+part/NN1  of/PRF  the/AT0  Ministry/NN0  of/PRF  Health/NN1 's/POS
+demonstration/NN1  study/NN1  in/PRP  1955-6/CRD  on/PRP
+Anglesey/NP0  and/CJC  in/PRP  Watford/NP0  and/CJC  Kilmarnock/NP0
+have/VHB  now/AV0  all/AV0  stopped/VVN  operating/NN1-VVG ./PUN
+
+That/CJT  the/AT0  schemes/NN2  provided/CJS  benefits/NN2  seems/VVZ
+undeniable/AJ0 ./PUN
+
+For/AV0 example ,/PUN  after/CJS-PRP  the/AT0  burgh/NN1  council/NN0
+stopped/VVD-VVN  the/AT0  Kilmarnock/NP0  scheme/NN1  Professor/NP0
+John/NP0  Mansbridge/NN1-NP0  of/PRF  the/AT0  University/NP0  of/PRF
+Edinburgh/NP0  continued/VVD  to/TO0  monitor/VVI  the/AT0
+dental/AJ0  health/NN1  of/PRF  children/NN2  in/PRP  Kilmarnock/NP0
+and/CJC  in/PRP  the/AT0  control/NN1  community/NN0  of/PRF
+Ayr/NP0 ./PUN
+
+He/PNP  showed/VVD  that/CJT-DT0  five/CRD  years/NN2  later/AV0
+the/AT0  dental/AJ0  health/NN1  of/PRF  children/NN2  in/PRP
+Kilmarnock/NP0  had/VHD  deteriorated/VVN ./PUN
+
+At/PRP  baseline/NN1  in/PRP  1956/CRD  the/AT0  average/AJ0-NN1
+4/CRD  year/NN1  old/AJ0  had/VHD  7.1/CRD  decayed/AJ0-VVD ,/PUN
+missing/AJ0-VVG ,/PUN  or/CJC  filled/AJ0-VVD  teeth/NN2 ./PUN
+
+By/PRP  1961/CRD ,/PUN  after/CJS-PRP  five/CRD  years/NN2  of/PRF
+fluoridation/NN1 ,/PUN  the/AT0  equivalent/AJ0  figure/NN1  was/VBD
+3.0/CRD ;/PUN  in/PRP  1962/CRD  fluoridation/NN1
+stopped/VVD-VVN ,/PUN  and/CJC  by/PRP  1968/CRD  the/AT0  number/NN1
+of/PRF  decayed/AJ0 ,/PUN  missing/AJ0-VVG ,/PUN  or/CJC
+filled/AJ0-VVD  teeth/NN2  had/VHD  reverted/VVN  to/PRP
+6.1/CRD ./PUN
+
+Throughout/PRP  the/AT0  period/NN1  1956/CRD  to/PRP  1968/CRD
+the/AT0  equivalent/AJ0  figure/NN1  in/PRP  4/CRD  year/NN1  old/AJ0
+children/NN2  in/PRP  the/AT0  control/NN1  town/NN1  of/PRF  Ayr/NP0
+remained/VVD  between/PRP  6.9/CRD  and/CJC  7.2/CRD ./PUN
+
+
+
+The/AT0  Anglesey/NN1-NP0  scheme/NN1  operated/VVD-VVN  for/PRP
+over/AV0  30/CRD  years/NN2 ,/PUN  albeit/CJS  rather/AV0
+intermittently/AV0  for/PRP  the/AT0  past/NN1  few/DT0
+years/NN2 ./PUN
+
+Thomas/NP0  and/CJC  Kassab/NP0  recently/AV0  reported/VVD-VVN
+on/PRP  the/AT0  substantial/AJ0  benefits/NN2  of/PRF
+fluoridation/NN1  for/PRP  the/AT0  dental/AJ0  health/NN1  of/PRF
+women/NN2  aged/VVD-VVN  up/AV0 to  32/CRD  years/NN2  who/PNQ
+had/VHD  lived/VVN  continuously/AV0  on/PRP  Anglesey/NP0  and/CJC
+who/PNQ  were/VBD  attending/VVG  St/NP0  David/NP0 's/POS
+Maternity/NN1-NP0  Hospital/NN1  between/PRP  July/NP0  1986/CRD
+and/CJC  July/NP0  1987/CRD  for/PRP  their/DPS
+confinement/NN1 ./PUN
+
+The/AT0  dentist/NN1  recording/VVG  the/AT0  dental/AJ0
+condition/NN1  of/PRF  both/DT0  the/AT0  women/NN2  from/PRP
+Anglesey/NP0  and/CJC  the/AT0  control/NN1  group/NN0  from/PRP
+the/AT0  non-fluoridated/AJ0  Gwynedd/NP0  mainland/NN1  was/VBD
+blind/AJ0  to/PRP    women/NN2 's/POS  
+residential/AJ0  status/NN1 ;/PUN  those/DT0  living/AJ0-VVG  in/PRP
+the/AT0  fluoridated/AJ0  area/NN1  had/VHD  30%/NN0  fewer/DT0
+caries/NN1 ./PUN
+
+The/AT0  fluoridation/NN1  plant/NN1  in/PRP  Watford/NP0 ,/PUN
+also/AV0  showing/VVG  signs/NN2  of/PRF  age/NN1 ,/PUN
+stopped/VVD-VVN  operating/VVG   in/PRP  1989/CRD ./PUN
+
+On/PRP  the/AT0  positive/AJ0  side/NN1 ,/PUN  fluoridation/NN1
+continues/VVZ  to/TO0  provide/VVI  substantial/AJ0  benefits/NN2
+for/PRP  the/AT0  dental/AJ0  health/NN1  of/PRF  six/CRD
+million/CRD  people/NN0 ,/PUN  many/DT0  of/PRF  them/PNP  living/VVG
+in/PRP  the/AT0  west/NN1  midlands/NN2  and/CJC  the/AT0  north/NN1
+east/NN1  of/PRF  England/NP0 ./PUN
+
+
+
+The/AT0  arguments/NN2  for/PRP  extending/AJ0-VVG  fluoridation/NN1
+are/VBB  not/XX0  as/AV0  overwhelming/AJ0  as/CJS  they/PNP
+were/VBD  in/PRP  1956/CRD ./PUN
+
+The/AT0  prevalence/NN1  of/PRF  dental/AJ0  caries/NN1  has/VHZ
+fallen/VVN  in/PRP  both/DT0  fluoridated/AJ0-VVD  and/CJC
+non-fluoridated/AJ0  districts/NN2 ,/PUN  and/CJC  the/AT0  costs/NN2
+of/PRF  fluoridation/NN1  plant/NN1  designed/VVD-VVN  to/TO0
+meet/VVI  modern/AJ0  operating/NN1  standards/NN2  are/VBB
+considerable/AJ0 ./PUN
+
+It/PNP  is/VBZ  sensible/AJ0  therefore/AV0  that/CJT  the/AT0
+health/NN1  departments/NN2  should/VM0  give/VVI  priority/NN1
+for/PRP  new/AJ0  schemes/NN2  to/PRP  areas/NN2  such/PRP as
+the/AT0  north/NN1  west/NN1  of/PRF  England/NP0  and/CJC  the/AT0
+west/NN1  of/PRF  Scotland/NP0  where/AVQ-CJS  the/AT0
+prevalence/NN1  of/PRF  dental/AJ0  caries/NN1  remains/VVZ  high/AJ0
+and/CJC  where/AVQ-CJS  large/AJ0  water/NN1  treatment/NN1
+works/NN0  allow/VVB  for/PRP  economies/NN2  of/PRF  scale/NN1 ./PUN
+
+
+
+The/AT0  Water/NN1  (/PUL Fluoridation/NN1 )/PUR  Act/NN1-VVB
+1985/CRD  placed/VVD  the/AT0  responsibility/NN1  for/PRP
+decisions/NN2  on/PRP  water/NN1  fluoridation/NN1  with/PRP
+district/NN1  health/NN1  authorities/NN2 ,/PUN  who/PNQ  are/VBB
+required/VVN  to/TO0  consult/VVI  locally/AV0  before/PRP
+making/VVG  a/AT0  formal/AJ0  request/NN1  to/PRP  the/AT0
+water/NN1  undertaker/NN1 ./PUN
+
+It/PNP  was/VBD  assumed/VVN ,/PUN  incorrectly/AV0  as/CJS  we/PNP
+now/AV0  know/VVB ,/PUN  that/CJT-DT0  water/NN1  undertakers/NN2
+would/VM0  concern/VVI  themselves/PNX  mainly/AV0  with/PRP  the/AT0
+technical/AJ0  feasibility/NN1  of/PRF  the/AT0  proposal/NN1 ./PUN
+
+Experience/NN1-VVB  in/PRP  the/AT0  North/NP0  Western/NP0
+Region/NP0 ,/PUN  where/AVQ-CJS  18/CRD  district/NN1  health/NN1
+authorities/NN2  completed/VVD-VVN  consultation/NN1  in/PRP
+1988/CRD ,/PUN  and/CJC  more/AV0  recently/AV0  in/PRP
+Strathclyde/NP0 ,/PUN  Yorkshire/NP0 ,/PUN  Wessex/NP0 ,/PUN  and/CJC
+Northern/NP0  Ireland/NP0 ,/PUN  clearly/AV0  shows/VVZ  that/CJT-DT0
+health/NN1  authorities/NN2  can/VM0  obtain/VVI  substantial/AJ0
+public/NN0  and/CJC  professional/AJ0  support/NN1  for/PRP
+fluoridation/NN1 ,/PUN  even/CJS though  opinion/NN1  among/PRP
+local/AJ0  authorities/NN2  remains/VVZ  divided/AJ0-VVN ./PUN
+
+It/PNP  is/VBZ  also/AV0  clear/AJ0  that/CJT  the/AT0
+cooperation/NN1  of/PRF  the/AT0  water/NN1  companies/NN2
+can/VM0 not/XX0  be/VBI  assumed/VVN ./PUN
+
+
+
+For/AV0 example ,/PUN  the/AT0  chairman/NN1  of/PRF  Welsh/NP0
+Water/NP0  stated/VVD  recently/AV0  that/CJT-DT0 ,/PUN  in/PRP spite
+of  assurances/NN2  from/PRP  the/AT0  Drinking/NP0  Water/NP0
+Inspectorate/NN0  concerning/PRP  the/AT0  safety/NN1  of/PRF
+fluoridation/NN1  plant/NN1  designed/VVD-VVN  according/PRP to
+the/AT0  Department/NN0  of/PRF  Environment/NN1 's/POS  code/NN1
+of/PRF  practice/NN1 ,/PUN  his/DPS  company/NN1  would/VM0  not/XX0
+continue/VVI  fluoridation/NN1  on/PRP  Anglesey/NP0  or/CJC
+extend/VVB  fluoridation/NN1  into/PRP  the/AT0  rest/NN1  of/PRF
+Wales/NP0  unless/CJS  required/VVN  to/TO0  do/VDI  so/AV0  by/PRP
+the/AT0  secretary/NN1  of/PRF  state/NN1 ./PUN
+
+While/CJS  ministers/NN2  quite/AV0  correctly/AV0  point/VVB
+out/AVP  that/CJT  the/AT0  act/NN1  requires/VVZ  local/AJ0
+consultation/NN1 ,/PUN  it/PNP  was/VBD  surely/AV0  not/XX0  the/AT0
+intention/NN1  of/PRF  parliament/NN1  that/CJT-DT0  water/NN1
+undertakers/NN2  should/VM0  have/VHI  such/DT0  an/AT0  absolute/AJ0
+veto/NN1 ./PUN
+
+
+
+The/AT0  recent/AJ0  fundamental/AJ0  review/NN1  of/PRF  dental/AJ0
+remuneration/NN1  by/PRP  Sir/NP0  Kenneth/NP0  Bloomfield/NP0
+called/VVD-VVN  for/PRP  "/PUQ a/AT0  more/AV0  robust/AJ0
+approach/NN1 "/PUQ  to/PRP  fluoridation/NN1
+"/PUQ which/DTQ  would/VM0  not/XX0  allow/VVI  for/PRP
+indefinite/AJ0  procrastination/NN1  in/PRP  adopting/AJ0-VVG
+measures/NN2  judged/VVD-VVN  by/PRP  the/AT0  competent/AJ0
+health/NN1  authorities/NN2  to/TO0  be/VBI  both/AV0  beneficial/AJ0
+and/CJC  cost/VVB  effective/AJ0 ./PUN "/PUQ

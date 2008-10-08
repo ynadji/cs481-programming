@@ -1,0 +1,108 @@
+0
+United LOC
+States LOC
+1
+Britain LOC
+0
+United LOC
+States LOC
+1
+Britain LOC
+0
+Welsh ORG
+Water ORG
+1
+Gwynedd LOC
+0
+Ministry ORG
+of ORG
+Health ORG
+1
+Anglesey LOC
+Watford LOC
+Kilmarnock LOC
+Kilmarnock LOC
+0
+Professor PER
+John PER
+Mansbridge PER
+1
+0
+University ORG
+of ORG
+Edinburgh ORG
+1
+Kilmarnock LOC
+Ayr LOC
+Kilmarnock LOC
+Ayr LOC
+Anglesey LOC
+0
+Thomas ORG
+and ORG
+Kassab ORG
+1
+Anglesey LOC
+0
+St ORG
+David ORG
+'s ORG
+Maternity ORG
+Hospital ORG
+1
+Anglesey LOC
+Watford LOC
+0
+west LOC
+midlands LOC
+1
+0
+north LOC
+east LOC
+of LOC
+England LOC
+1
+0
+north LOC
+west LOC
+of LOC
+England LOC
+1
+0
+west LOC
+of LOC
+Scotland LOC
+1
+0
+North LOC
+Western LOC
+Region LOC
+1
+Strathclyde LOC
+Yorkshire LOC
+Wessex LOC
+0
+Northern LOC
+Ireland LOC
+1
+0
+Welsh ORG
+Water ORG
+1
+0
+Drinking ORG
+Water ORG
+Inspectorate ORG
+1
+0
+Department ORG
+of ORG
+Environment ORG
+1
+Anglesey LOC
+Wales LOC
+0
+Sir PER
+Kenneth PER
+Bloomfield PER
+1

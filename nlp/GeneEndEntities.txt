@@ -1,0 +1,49 @@
+BMA ORG
+BMJ ORG  
+Editor PER
+Editor PER
+BMJ ORG
+Editor PER
+Hunter PER
+Minerva PER
+0
+David PER
+Bowsher PER
+1
+0
+Trish PER
+Groves PER
+1
+0
+Kit PER
+Ounsted PER
+1
+0
+W PER
+Fox PER
+1
+0
+D PER
+A PER
+Mitchison PER
+1
+0
+Tuberculosis ORG
+Research ORG
+Unit ORG
+1
+0
+Tuberculosis ORG
+and ORG
+Chest ORG
+Diseases ORG
+Unit ORG
+1
+0
+Unit ORG
+for ORG
+Laboratory ORG
+Studies ORG
+of ORG
+Tuberculosis ORG
+1

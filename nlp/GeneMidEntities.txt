@@ -1,0 +1,110 @@
+Sunderland LOC
+Marinker PER
+Lothian LOC
+Edinburgh LOC
+Lothian LOC
+Lothian LOC
+Lothian LOC
+NHS ORG
+0
+John PER
+Major PER
+1
+0
+Margaret PER
+Thatcher PER
+1
+0
+Virginia PER
+Bottomley PER
+1
+0
+Kenneth PER
+Clarke PER
+1
+Auckland LOC
+Leicester LOC
+0
+New LOC
+Zealand LOC
+1
+Britain LOC
+England LOC
+Leicester LOC
+NHS ORG
+Britain LOC
+Grampian LOC
+Scotland LOC
+BMA ORG
+Scotland LOC
+Grampian LOC
+0
+Scottish ORG
+General ORG
+Medical ORG
+Services ORG
+Committee ORG
+1
+Scotland LOC
+Scotland LOC
+Grampian LOC
+Tayside LOC
+0
+Department ORG
+of ORG
+General ORG
+Practice ORG
+1
+0
+University ORG
+of ORG
+Edinburgh ORG
+1
+0
+Professor PER
+John PER
+Howie PER
+1
+Scotland LOC
+0
+Michael PER
+Forsyth PER
+1
+0
+Brimmond ORG
+Medical ORG
+Group ORG
+1
+Grampian LOC
+Grampian LOC
+Grampian LOC
+0
+Department ORG
+of ORG
+Health ORG
+1
+England LOC
+Grampian LOC
+Scotland LOC
+NHS ORG
+Philadelphia LOC
+Grampian LOC
+Grampian LOC
+Grampian LOC
+Grampian LOC
+0
+Grampian ORG
+Association ORG
+of ORG
+Fundholding ORG
+Practices ORG
+1
+NHS ORG
+Grampian LOC
+Grampian LOC
+NHS ORG
+NHS ORG
+NHS ORG
+NHS ORG
+NHS ORG
+NHS ORG

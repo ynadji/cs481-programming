@@ -1,0 +1,162 @@
+If/CJS  the/AT0  BMA/NN1  is/VBZ  to/TO0  be/VBI  taken/VVN
+seriously/AV0  then/AV0  it/PNP  should/VM0  espouse/VVI  more/DT0
+worthy/AJ0  causes/NN2  that/CJT  have/VHB  some/DT0  prospect/NN1
+of/PRF  success/NN1  rather/PRP than  politically/AV0  correct/AJ0
+harebrained/AJ0  schemes/NN2  such/PRP as  this/DT0 ,/PUN  which/DTQ
+is/VBZ  as/AV0  likely/AJ0  to/TO0  bear/VVI  fruit/NN0  as/CJS
+"/PUQ pigs/NN2  are/VBB  to/TO0  fly/VVI ,/PUN "/PUQ
+to/TO0  quote/VVI  the/AT0  two/CRD  speakers/NN2 ./PUN
+
+
+Anecdote/NN1-VVB  in/PRP  the/AT0    BMJ/NP0  
+
+
+ Editor/NN1   ,/PUN  -/PUN  The/AT0
+Editor/NN1 's/POS  Choice/NN1  of/PRF  20/CRD  February/NP0
+draws/VVZ  attention/NN1  to/PRP  the/AT0  place/NN1  of/PRF
+anecdote/NN1  in/PRP  the/AT0    BMJ/NP0   ./PUN
+
+The/AT0    Concise/AJ0  Oxford/NP0  Dictionary/NN1  
+defines/VVZ  anecdote/NN1  as/CJS-PRP  "/PUQ a/AT0  short/AJ0
+account/NN1  of/PRF  an/AT0  entertaining/AJ0-NN1  or/CJC
+interesting/AJ0  incident/NN1 ./PUN "/PUQ
+
+The/AT0  use/NN1  of/PRF  the/AT0  term/NN1  in/PRP
+Editor/NN1 's/POS  Choice/NN1  includes/VVZ  case/NN1
+reports/NN2-VVZ ,/PUN  such/PRP as  the/AT0  two/CRD  lessons/NN2
+of/PRF  the/AT0  week/NN1 ,/PUN  one/CRD  of/PRF  which/DTQ
+describes/VVZ  no/AT0  fewer/DT0  than/CJS  36/CRD
+patients/NN2 ./PUN
+
+Hunter/NP0  drew/VVD  a/AT0  clear/AJ0  distinction/NN1  between/PRP
+anecdotes/NN2 ,/PUN  case/NN1  reports/NN2-VVZ ,/PUN  and/CJC
+syndrome/NN1  letters/NN2  but/CJC  in/PRP  her/DPS  chapter/NN1
+on/PRP  anecdotes/NN2 ,/PUN  surprisingly/AV0 ,/PUN  offered/VVD-VVN
+no/AT0  definition/NN1 ./PUN
+
+The/AT0  journal/NN1 's/POS  definition/NN1  would/VM0  be/VBI
+interesting/AJ0  to/TO0  read/VVI ./PUN
+
+
+
+A/AT0  careful/AJ0  reading/NN1  of/PRF  the/AT0  issue/NN1  of/PRF
+20/CRD  February/NP0 ,/PUN  from/PRP  back/NN1  to/PRP
+front/NN1 ,/PUN  starts/VVZ  with/PRP  Minerva/NP0 ,/PUN  who/PNQ
+gives/VVZ  three/CRD  pure/AJ0  anecdotes/NN2  among/PRP  12/CRD
+items/NN2 ./PUN
+
+Atypically/AV0 ,/PUN  neither/AV0  the/AT0  personal/AJ0  view/NN1
+nor/CJC  the/AT0  soundings/NN2  pieces/NN2  are/VBB
+anecdotal/AJ0 ./PUN
+
+The/AT0  letters/NN2  section/NN1  offers/NN2-VVZ  a/AT0  feast/NN1
+of/PRF  anecdotes/NN2  about/PRP  Mozart/NP0 ./PUN
+
+
+
+Among/PRP  the/AT0  papers/NN2  is/VBZ  a/AT0  short/AJ0  report/NN1
+about/PRP  self/NN1  monitoring/NN1-VVG  of/PRF  triglyceride/NN1
+concentrations/NN2  in/PRP  non-insulin/AJ0  dependent/AJ0
+diabetes/NN1  in/PRP  12/CRD  patients/NN2 ./PUN
+
+Is/VBZ  this/DT0  an/AT0  anecdote/NN1 ?/PUN
+
+And/CJC  there/EX0  is/VBZ  a/AT0  paper/NN1  about/PRP  life/NN1
+threatening/VVG  events/NN2  in/PRP  infants/NN2  and/CJC  young/AJ0
+children/NN2 ,/PUN  whose/DTQ  discussion/NN1  acknowledges/VVZ
+the/AT0  uncertainty/NN1  that/CJT-DT0  selection/NN1  bias/NN1
+generates/VVZ  in/PRP  the/AT0  interpretation/NN1  of/PRF  the/AT0
+results/NN2 ./PUN
+
+Surely/AV0  this/DT0  fine/AJ0  paper/NN1  is/VBZ  built/VVN  on/PRP
+157/CRD  anecdotes/NN2 ,/PUN  about/AV0  half/DT0  of/PRF  which/DTQ
+were/VBD  discarded/VVN  as/CJS-PRP  incomplete/AJ0 :/PUN
+"/PUQ No/AT0  diagnosis/NN1  was/VBD  established/VVN  in/PRP
+80/CRD  patients/NN2 ./PUN "/PUQ
+
+The/AT0  stories/NN2  of/PRF  the/AT0  remaining/AJ0  77/CRD
+make/VVB  instructive/AJ0  reading/NN1 ./PUN
+
+
+
+The/AT0  paper/NN1  on/PRP  diary/NN1  keeping/VVG  in/PRP
+asthma/NN1  actually/AV0  takes/VVZ  anecdote/NN1 ,/PUN  in/PRP
+its/DPS  broadest/AJS  sense/NN1  of/PRF  narrative/NN1  of/PRF
+uncertain/AJ0  significance/NN1 ,/PUN  as/CJS  its/DPS
+subject/NN1 ,/PUN  testing/VVG  the/AT0  reliability/NN1  of/PRF
+patients/NN2/POS '  written/AJ0  accounts/NN2  of/PRF  their/DPS
+asthmatic/AJ0  symptoms/NN2 ./PUN
+
+
+
+The/AT0  editorials/NN2  do/VDB  not/XX0  disappoint/VVI ./PUN
+
+David/NP0  Bowsher/NP0 ,/PUN  writing/VVG  on/PRP  paradoxical/AJ0
+pain/NN1 ,/PUN  opens/VVZ  with/PRP  an/AT0  anecdote/NN1  about/PRP
+a/AT0  consultant/NN1  convicted/VVD-VVN  of/PRF  attempted/AJ0
+murder/NN1 ./PUN
+
+Trish/NP0  Groves/NP0  captures/VVZ  readers/NN2/POS '  attention/NN1
+with/PRP  two/CRD  anecdotes/NN2  at/PRP  the/AT0  start/NN1  of/PRF
+her/DPS  editorial/NN1  on/PRP  closing/VVG  mental/AJ0
+hospitals/NN2 ./PUN
+
+And/CJC  the/AT0  authors/NN2  of/PRF  the/AT0  editorial/AJ0-NN1
+on/PRP  drug/NN1  smuggler/NN1 's/POS  delirium/NN1  cite/VVB  16/CRD
+references/NN2 ,/PUN  at/AV0 least  eight/CRD  of/PRF
+which/DTQ ,/PUN  to/TO0  judge/VVI  from/PRP  their/DPS
+titles/NN2 ,/PUN  are/VBB  truly/AV0  anecdotal/AJ0 ,/PUN  and/CJC
+use/VVB  them/PNP  to/TO0  construct/VVI  useful/AJ0  clinical/AJ0
+guidelines/NN2 ./PUN
+
+
+
+Finally/AV0 ,/PUN  readers/NN2  should/VM0  return/VVI  to/PRP
+the/AT0  obituary/AJ0  section/NN1 ,/PUN  another/DT0
+resting/AJ0-NN1  place/NN1  for/PRP  anecdote/NN1 ,/PUN  to/TO0
+learn/VVI  of/PRF  the/AT0  death/NN1  of/PRF  Kit/NN1
+Ounsted/AJ0-VVD ,/PUN  a/AT0  dedicated/AJ0  researcher/NN1 ,/PUN
+who/PNQ  "/PUQ saw/VVD  developmental/AJ0  medicine/NN1  as/PRP
+a/AT0  science/NN1  of/PRF  biography/NN1 ./PUN "/PUQ
+
+
+
+Medicine/NN1  a/AT0  scientific/AJ0  discipline/NN1  in/PRP
+which/DTQ  indulgence/NN1  in/PRP  anecdote/NN1  is/VBZ  a/AT0
+dangerous/AJ0  and/CJC  peripheral/AJ0  recreation/NN1 ?/PUN
+
+The/AT0    BMJ/NP0    a/AT0  journal/NN1  in/PRP
+which/DTQ  anecdote/NN1-VVB  is/VBZ  an/AT0  occasional/AJ0
+occurrence/NN1 ,/PUN  carefully/AV0  contained/VVD-VVN  lest/CJS
+it/PNP  leak/VVB  out/AVP  and/CJC  contaminate/AJ0  scientific/AJ0
+standards/NN2 ?/PUN
+
+This/DT0  devoted/AJ0  reader/NN1  is/VBZ  forced/VVN  to/TO0
+ask/VVI :/PUN  Are/VBB  you/PNP  serious/AJ0 ?/PUN
+
+
+Correction/NN1-NP0
+
+Re-emergence/NN1  of/PRF  tuberculosis/NN1
+
+
+An/AT0  editorial/AJ0  error/NN1  occurred/VVD-VVN  in/PRP  this/DT0
+letter/NN1  by/PRP  W/NP0  Fox/NP0  and/CJC  D/ZZ0  A/AT0
+Mitchison/NN1-NP0  (/PUL 20/CRD  February/NP0 ,/PUN  p/ZZ0
+515/CRD )/PUR ./PUN
+
+The/AT0  fourth/ORD  paragraph/NN1  begins/VVZ :/PUN
+"/PUQ The/AT0  activities/NN2  of/PRF  the/AT0  tuberculosis/NN1
+unit/NN1  received/VVD-VVN  worldwide/AJ0
+recognition/NN1 .../PUN "/PUQ
+
+This/DT0  should/VM0  read/VVI  "/PUQ The/AT0  activities/NN2
+of/PRF  the/AT0  tuberculosis/NN1  units/NN2 .../PUN "/PUQ
+as/CJS  there/EX0  were/VBD  in/PRP  fact/NN1  three/CRD
+units/NN2 ,/PUN  the/AT0  Tuberculosis/NN1  Research/NN1  Unit/NN1
+(/PUL 1948-65/CRD )/PUR ,/PUN  the/AT0  Tuberculosis/NN1
+and/CJC  Chest/NN1  Diseases/NN2  Unit/NN1
+(/PUL 1965-84/CRD )/PUR ,/PUN  and/CJC  the/AT0  Unit/NN1
+for/PRP  Laboratory/NN1  Studies/NN2  of/PRF  Tuberculosis/NN1
+(/PUL 1954-86/CRD )/PUR ./PUN
+
