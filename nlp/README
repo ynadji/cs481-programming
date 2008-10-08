@@ -1,0 +1,5 @@
+The MAKEFILE will run the necessary code. After changing
+the constant paths, we can compile the code using 'make'
+and we can run the code using 'make run'.
+
+Afterwards, the results are dumped to project-results.txt.
