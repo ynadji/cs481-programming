@@ -171,6 +171,11 @@ public class Token
       return attribs.get(name);
    }
 
+   public final boolean containsAttrib(String name)
+   {
+	   return attribs.containsKey(name);
+   }
+
    /**
     * Get all of the attributes as a HashMap
     *

@@ -8,16 +8,29 @@ import java.util.*;
 
 public class TransformLearner {
 
+	// This needs to be changed to point to the directory
+	// containing the sample files and the Gene.txt file
+	private static final String MAIN_DIR = "/Users/ynadji/Documents/Homework/cs481/homework/programming/nlp/";
+
 	private String trainingFile;
+
+	// P values
+	private int orgP;
+	private int locP;
+	private int perP;
+
 	private boolean hasPOS;
 	private List<Token> tokens;
+	private List<Token> sampleTokens;
 	private Map<String, List> nameToTokenList;
 
-	private int numRules;
-	private int numRulesInc;
+	private static int numRules = 20;
+	private static int numRulesInc = 20;
 
-	private static final boolean debug = true;
+	// flag for debugging
+	private static final boolean debug = false;
 
+	/* nice constants */
 	private static final String PERS_ATTR = "PERS";
 	private static final String ORG_ATTR = "ORG";
 	private static final String LOC_ATTR = "LOC";
@@ -62,30 +75,52 @@ public class TransformLearner {
 			{ "Edinburgh", "LOC" }
 		};
 
-	public TransformLearner(String trainingFile, boolean hasPOS, int numRules, int numRulesInc) {
+	public TransformLearner(String trainingFile, String[][] sampleSets, boolean hasPOS) {
 		this.trainingFile = trainingFile;
 		this.hasPOS = hasPOS;
 		this.tokens = new LinkedList<Token>();
 		this.nameToTokenList = new HashMap<String, List>();
-		this.numRules = numRules;
-		this.numRulesInc = numRulesInc;
+
+		this.orgP = 0;
+		this.locP = 0;
+		this.perP = 0;
+
+		this.initSampleSets(sampleSets);
 	}
 
+	/**
+	 * Main. Runs the NER algorithm.
+	 */
 	public static void main(String[] args) {
 
-		TransformLearner tl = new TransformLearner("/Users/ynadji/Documents/Homework/cs481/homework/programming/nlp/Gene.txt",
-							   true,
-							   20,
-							   20);
+		String[][] sampleSets = 
+				new String[][]
+				{
+					{ MAIN_DIR+"GeneStart.txt", MAIN_DIR+"GeneStartEntities.txt" },
+					{ MAIN_DIR+"GeneEnd.txt", MAIN_DIR+"GeneEndEntities.txt" },
+					{ MAIN_DIR+"GeneMed.txt", MAIN_DIR+"GeneMedEntities.txt" }
+				};
+
+		TransformLearner tl = new TransformLearner(MAIN_DIR + "Gene.txt",
+							   sampleSets,
+							   true);
 
 		tl.initTokenList();
 		tl.runSeedRules();
-		tl.mostFrequentSetDefault();
-		tl.learnNewRules();
-		//tl.printResults("/Users/ynadji/Documents/Homework/cs481/homework/programming/nlp/results.txt", 1000);
-		tl.printNonNullTags("/Users/ynadji/Documents/Homework/cs481/homework/programming/nlp/results.txt");
+		for (int times = 0; times < 5; times++)
+		{
+			tl.mostFrequentSetDefault();
+			tl.learnNewRules();
+			numRules += numRulesInc;
+		}
+
+		tl.printResults(MAIN_DIR + "report-results.txt", 1000);
 	}
 
+	/**
+	 * Initializes the main token list by reading in the tokens
+	 * from the supplied input file. Assumes the file has POS tagging.
+	 */
 	public void initTokenList() {
 
 		try
@@ -129,6 +164,57 @@ public class TransformLearner {
 		}
 	}
 
+	/**
+	 * Initializes the sample sets used to test against when creating new rules.
+	 */
+	private void initSampleSets(String[][] sampleSets) {
+
+		BufferedReader in;
+		Tokenizer t;
+		Token tok;
+
+		sampleTokens = new LinkedList<Token>();
+
+		try
+		{
+			for (int i = 0; i < sampleSets.length; i++)
+			{
+				in = new BufferedReader(new FileReader(sampleSets[i][0]));
+				t = new Tokenizer(in, hasPOS);
+
+				while ((tok = t.getNext()) != null)
+				{
+					if (tok.getAttrib("POS") != null)
+						sampleTokens.add(tok);
+				}
+
+				in = new BufferedReader(new FileReader(sampleSets[i][1]));
+
+				String line; 
+
+				while ((line = in.readLine()) != null)
+				{
+					if (line.contains("ORG"))
+						this.orgP++;
+					else if (line.contains("LOC"))
+						this.locP++;
+					else if (line.contains("PER"))
+						this.perP++;
+				}
+			}
+		}
+		catch (IOException ioe)
+		{ ioe.printStackTrace(); }
+
+		printDebug("ORG N: " + orgP);
+		printDebug("PER N: " + perP);
+		printDebug("LOC N: " + locP);
+	}
+
+	/**
+	 * This runs the default seed rules. After applying the individually
+	 * tagged rules, it tags consistent rules we found in the first portion of the text.
+	 */
 	public void runSeedRules() {
 
 		this.gazeteerTagging(GAZETEER);
@@ -143,25 +229,6 @@ public class TransformLearner {
 		{
 			tokenTrip = iter.next();
 
-			// occurs after in/of/from and is a proper noun
-			// it's probably a location
-			/**
-			if (tokenTrip[TripleIterator.PREV].getName().equalsIgnoreCase("in") ||
-			    tokenTrip[TripleIterator.PREV].getName().equalsIgnoreCase("of") ||
-			    tokenTrip[TripleIterator.PREV].getName().equalsIgnoreCase("from"))
-			{
-				if (tokenTrip[TripleIterator.CURR].getAttrib("POS").equals("NP0"))
-				{
-					this.printDebug("IN/OF/FROM RULE FIRED FOR CURR ATTR: " + tokenTrip[TripleIterator.CURR].getName());
-					tokenTrip[TripleIterator.CURR].putAttrib(LOC_ATTR, CHUNK_INSIDE);
-				}
-				if (tokenTrip[TripleIterator.NEXT].getAttrib("POS").equals("NP0"))
-				{
-					this.printDebug("IN/OF/FROM RULE FIRED FOR NEXT ATTR: " + tokenTrip[TripleIterator.NEXT].getName());
-					tokenTrip[TripleIterator.NEXT].putAttrib(LOC_ATTR, CHUNK_INSIDE);
-				}
-			}
-
 			// "Person" of "Organization"
 			if (tokenTrip[TripleIterator.CURR].getName().equalsIgnoreCase("of"))
 			{
@@ -169,15 +236,35 @@ public class TransformLearner {
 				{
 					this.printDebug("PERS of ORG RULE FIRED FOR PREV ATTR: " + tokenTrip[TripleIterator.PREV].getName());
 					tokenTrip[TripleIterator.NEXT].putAttrib(ORG_ATTR, CHUNK_INSIDE);
+					tokenTrip[TripleIterator.NEXT].putAttrib("SEED", "T");
 				}
 				else if (tokenTrip[TripleIterator.NEXT].getAttrib(ORG_ATTR).equals(CHUNK_INSIDE))
 				{
 					this.printDebug("PERS of ORG RULE FIRED FOR NEXT ATTR: " + tokenTrip[TripleIterator.NEXT].getName());
 					tokenTrip[TripleIterator.PREV].putAttrib(PERS_ATTR, CHUNK_INSIDE);
+					tokenTrip[TripleIterator.PREV].putAttrib("SEED", "T");
 				}
 			}
-			*/
 
+			// "the" ORG1 ORG2
+			if (tokenTrip[TripleIterator.PREV].getName().equalsIgnoreCase("the"))
+			{
+				if (Character.isUpperCase(tokenTrip[TripleIterator.CURR].getName().charAt(0)))
+				{
+					this.printDebug("THE ORG FIRED FROM CURR ATTR: " + tokenTrip[TripleIterator.CURR].getName());
+					tokenTrip[TripleIterator.CURR].putAttrib(ORG_ATTR, CHUNK_INSIDE);
+					tokenTrip[TripleIterator.CURR].putAttrib("SEED", "T");
+				}
+
+				if (Character.isUpperCase(tokenTrip[TripleIterator.NEXT].getName().charAt(0)))
+				{
+					this.printDebug("THE ORG FIRED FROM CURR ATTR: " + tokenTrip[TripleIterator.NEXT].getName());
+					tokenTrip[TripleIterator.NEXT].putAttrib(ORG_ATTR, CHUNK_INSIDE);
+					tokenTrip[TripleIterator.NEXT].putAttrib("SEED", "T");
+				}
+			}
+
+			// Mr/Dr/Mrs
 			if (tokenTrip[TripleIterator.PREV].getName().equals("Mr") ||
 			    tokenTrip[TripleIterator.PREV].getName().equals("Dr") ||
 			    tokenTrip[TripleIterator.PREV].getName().equals("Mrs"))
@@ -230,6 +317,7 @@ token_loop:
 				// we don't want to change these here
 				// due to their high term frequency
 				if (tok.getName().equals("of") ||
+				    tok.getName().equals("the") ||
 				    tok.getName().equals("and"))
 					continue token_loop;
 
@@ -271,12 +359,13 @@ token_loop:
 		}
 	}
 
+	/**
+	 * Find new rules, and apply them to the SEED tags.
+	 */
 	private void learnNewRules() {
-		/**
-		Rule newRule = new Rule(Rule.POS_TYPE, "NP0", null, "NP0",
-							"LOC", "ORG", "LOC");
-		*/
+
 		SortedSet<Rule> ruleSet = new TreeSet<Rule>(new Rule());
+		Set<String> usedTokens = new HashSet<String>();
 		int count = 0;
 
 		TripleIterator iter = new TripleIterator(tokens);
@@ -288,11 +377,12 @@ token_loop:
 		while (iter.hasNext())
 		{
 			tokenTrip = iter.next();
-			if (tokenTrip[1].getAttrib("SEED") != null)
+			if (tokenTrip[1].getAttrib("SEED") != null && !usedTokens.contains(tokenTrip[1].getName()))
 			{
 				printDebug("Found SEED tag: " + tokenTrip[1].getName() + ", generating rules...");
 				count += addAllRules(tokenTrip, ruleSet);
 				printDebug(count + " rules found!");
+				usedTokens.add(tokenTrip[1].getName());
 			}
 		}
 
@@ -306,6 +396,13 @@ token_loop:
 		while (ruleApplication <= numRules)
 		{
 			rule = ruleQueue.poll();
+
+			if (rule == null)
+			{
+				System.err.println("Out of rules to apply!");
+				return;
+			}
+
 			printDebug("Applying rule #" + ruleApplication + "\n" + rule.toString());
 
 			while (iter.hasNext())
@@ -318,11 +415,14 @@ token_loop:
 					rule.applyRule(tokenTrip, false);
 				}
 			}
+
+			ruleApplication++;
 		}
 	}
 
 	/**
-	 * Returns # of rule firings found and the rules added to the priority queue
+	 * Returns # of rule firings found and the rules added to the priority queue.
+	 * Actually adds individual rules, including the ones required by the assignment.
 	 */
 	private int addAllRules(Token[] tokenTrip, SortedSet<Rule> ruleSet) {
 
@@ -334,91 +434,85 @@ token_loop:
 
 		// POS
 		Rule tmpRule = new Rule(Rule.POS_TYPE, (String) prev.getAttrib("POS"), null, null,
-						       null, this.getEntityType(curr), null);
-		if (!ruleSet.contains(tmpRule))
-		{
-			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
-			ruleSet.add(tmpRule);
-		}
+			       null, this.getEntityType(curr), null);
+		this.addRule(tmpRule, ruleSet, this.getEntityType(curr));
 
 		tmpRule = new Rule(Rule.POS_TYPE, null, (String) curr.getAttrib("POS"), null,
-						  null, this.getEntityType(curr), null);
-		if (!ruleSet.contains(tmpRule))
-		{
-			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
-			ruleSet.add(tmpRule);
-		}
+			  null, this.getEntityType(curr), null);
+		this.addRule(tmpRule, ruleSet, this.getEntityType(curr));
 
 		tmpRule = new Rule(Rule.POS_TYPE, null, null, (String) next.getAttrib("POS"),
-						  null, this.getEntityType(curr), null);
-		if (!ruleSet.contains(tmpRule))
-		{
-			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
-			ruleSet.add(tmpRule);
-		}
+			  null, this.getEntityType(curr), null);
+		this.addRule(tmpRule, ruleSet, this.getEntityType(curr));
 
 		// Word
 		tmpRule = new Rule(Rule.WORD_TYPE, prev.getName(), null, null,
-						   null, this.getEntityType(curr), null);
-		if (!ruleSet.contains(tmpRule))
-		{
-			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
-			ruleSet.add(tmpRule);
-		}
+	      		  null, this.getEntityType(curr), null);
+		this.addRule(tmpRule, ruleSet, this.getEntityType(curr));
 
 		tmpRule = new Rule(Rule.WORD_TYPE, null, curr.getName(), null,
-						   null, this.getEntityType(curr), null);
-		if (!ruleSet.contains(tmpRule))
-		{
-			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
-			ruleSet.add(tmpRule);
-		}
+		          null, this.getEntityType(curr), null);
+		this.addRule(tmpRule, ruleSet, this.getEntityType(curr));
 
 		tmpRule = new Rule(Rule.WORD_TYPE, null, null, next.getName(),
-						   null, this.getEntityType(curr), null);
-		if (!ruleSet.contains(tmpRule))
-		{
-			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
-			ruleSet.add(tmpRule);
-		}
+		          null, this.getEntityType(curr), null);
+		this.addRule(tmpRule, ruleSet, this.getEntityType(curr));
 
 		// ATTR TAG
 		tmpRule = new Rule(Rule.CHUNK_TYPE, this.getEntityType(prev), null, null,
-						    null, this.getEntityType(curr), null);
-		if (!ruleSet.contains(tmpRule))
-		{
-			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
-			ruleSet.add(tmpRule);
-		}
+		          null, this.getEntityType(curr), null);
+		this.addRule(tmpRule, ruleSet, this.getEntityType(curr));
 
 		tmpRule = new Rule(Rule.CHUNK_TYPE, null, null, this.getEntityType(next),
-						    null, this.getEntityType(curr), null);
-		if (!ruleSet.contains(tmpRule))
+		          null, this.getEntityType(curr), null);
+		this.addRule(tmpRule, ruleSet, this.getEntityType(curr));
+
+		// Other Rules
+		if (this.getEntityType(prev) != null)
 		{
-			tmpRule.setRuleProb(this.countRuleFirings(tmpRule));
-			ruleSet.add(tmpRule);
+			tmpRule = new Rule(Rule.CHUNK_TYPE, this.getEntityType(prev), null, this.getEntityType(prev),
+				  null, this.getEntityType(prev), null);
+			this.addRule(tmpRule, ruleSet, this.getEntityType(prev));
 		}
 
 		return (ruleSet.size() - initSize);
 	}
 
-	private int countRuleFirings(Rule rule) {
+	private void addRule(Rule rule, SortedSet<Rule> ruleSet, String ent) {
+		if (!ruleSet.contains(rule))
+		{
+			rule.setRuleProb(this.getPNP(rule, ent));
+			ruleSet.add(rule);
+		}
+	}
 
-		int count = 0;
+	/**
+	 * Returns the value for P/(P+N) as specified using
+	 * the sample set to increase speed.
+	 */
+	private double getPNP(Rule rule, String ent) {
 
-		TripleIterator iter = new TripleIterator(tokens);
+		double np = 0.0;
+		double p = 0.0;
+
+		if (ent.equals("LOC"))
+			p = locP;
+		else if (ent.equals("ORG"))
+			p = orgP;
+		else if (ent.equals("PER"))
+			p = perP;
+
+		TripleIterator iter = new TripleIterator(sampleTokens);
 		iter.next();
 		
 		while (iter.hasNext())
-		{
 			if (rule.applyRule(iter.next(), true))
-				count++;
+				np++;
 
-			if (count > 100)
-				break;
-		}
+		printDebug("P value: " + p);
+		printDebug("P+N value: " + np);
 
-		return count;
+		return p / np;
 	}
 
 	/**
@@ -490,6 +584,9 @@ token_loop:
 		} while ((tokenTrip = iter.next()) != null);
 	}
 
+	/**
+	 * Prints the results to a file of the last 1000 tokens.
+	 */
 	public void printResults(String outfile, int numLastTokens) {
 
 		try
@@ -521,6 +618,9 @@ token_loop:
 		}
 	}
 
+	/**
+	 * Helper function, used during debugging.
+	 */
 	private void printNonNullTags(String outfile) {
 
 		try
@@ -558,7 +658,9 @@ token_loop:
 		}
 	}
 
-
+	/**
+	 * Returns the entity type of a specified token.
+	 */
 	public static String getEntityType(Token tok) {
 
 		if (tok.getAttrib(PERS_ATTR).equals(CHUNK_INSIDE))
@@ -571,6 +673,10 @@ token_loop:
 		return null;
 	}
 
+	/**
+	 * Prints debugging statements if debug is set to true.
+	 * Assignment is turned in with debugging off.
+	 */
 	protected static void printDebug(String debugString) {
 		if (debug)
 		{
@@ -578,6 +684,10 @@ token_loop:
 		}
 	}
 
+	/**
+	 * Utility class to iterate through the tokens 3 tokens at a time.
+	 * This makes neighborhood comparison easier.
+	 */
 	private class TripleIterator {
 
 		private List<Token> tokens;
@@ -597,6 +707,14 @@ token_loop:
 			curr = null;
 			next = tokens.get(0);
 			indexNext = 1;
+		}
+
+		public TripleIterator(List<Token> tokens, int startVal) {
+			this.tokens = tokens;
+			prev = null;
+			curr = null;
+			next = tokens.get(startVal);
+			indexNext = startVal + 1;
 		}
 
 		public Token[] getCurrent() {
