@@ -98,7 +98,7 @@ public class TransformLearner {
 				{
 					{ MAIN_DIR+"GeneStart.txt", MAIN_DIR+"GeneStartEntities.txt" },
 					{ MAIN_DIR+"GeneEnd.txt", MAIN_DIR+"GeneEndEntities.txt" },
-					{ MAIN_DIR+"GeneMed.txt", MAIN_DIR+"GeneMedEntities.txt" }
+					{ MAIN_DIR+"GeneMid.txt", MAIN_DIR+"GeneMidEntities.txt" }
 				};
 
 		TransformLearner tl = new TransformLearner(MAIN_DIR + "Gene.txt",
@@ -604,46 +604,6 @@ token_loop:
 					   tok.getName(),
 					   tok.getAttrib("POS"),
 					   this.getEntityType(tok));
-			}
-
-			out.close();
-		}
-		catch (IOException ioe)
-		{
-			ioe.printStackTrace();
-		}
-		catch (IndexOutOfBoundsException indxe)
-		{
-			indxe.printStackTrace();
-		}
-	}
-
-	/**
-	 * Helper function, used during debugging.
-	 */
-	private void printNonNullTags(String outfile) {
-
-		try
-		{
-			PrintWriter out = new PrintWriter(new FileWriter(outfile));
-			ListIterator<Token> iter = tokens.listIterator();
-			Token tok;
-			String attr;
-
-			out.printf("%-25s%-10s%-10s\n", "TokenName", "POS Tag", "Type");
-
-			while (iter.hasNext())
-			{
-				tok = iter.next();
-				attr = this.getEntityType(tok);
-
-				if (attr != null)
-				{
-					out.printf("%-25s%-10s%-10s\n",
-						   tok.getName(),
-						   tok.getAttrib("POS"),
-						   attr);
-				}
 			}
 
 			out.close();
